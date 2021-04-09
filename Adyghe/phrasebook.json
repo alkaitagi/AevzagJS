@@ -227,7 +227,29 @@
     ]
   },
   "8c75a252-3bdf-4b50-91d1-31b02fe74967": {
-    "blocks": []
+    "blocks": [
+      [
+        {
+          "text": {
+            "plain": "Чэщ"
+          }
+        }
+      ],
+      [
+        {
+          "text": {
+            "plain": "рэхьат"
+          }
+        }
+      ],
+      [
+        {
+          "text": {
+            "plain": "."
+          }
+        }
+      ]
+    ]
   },
   "59b630b6-0415-42d3-80c0-c724207dc10c": {
     "blocks": [
@@ -249,12 +271,446 @@
     ]
   },
   "681cf96a-ca04-4b20-83ac-8fb3d9082ed0": {
-    "blocks": []
+    "blocks": [
+      [
+        {
+          "text": {
+            "plain": "Бэмышӏэу"
+          },
+          "conditions": {
+            "time": {
+              "later": true
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "Неущ"
+          },
+          "conditions": {
+            "time": {
+              "tomorrow": true
+            }
+          }
+        }
+      ],
+      [
+        {
+          "text": {
+            "plain": "тызэрэлъэгъущт"
+          }
+        }
+      ],
+      [
+        {
+          "text": {
+            "plain": "."
+          }
+        }
+      ]
+    ]
   },
   "4df5ef4a-ab55-44fb-887e-5606f271be15": {
-    "blocks": []
+    "blocks": [
+      [
+        {
+          "text": {
+            "plain": "Сэ"
+          },
+          "conditions": {
+            "subject": {
+              "singular": true
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "Тэ"
+          },
+          "conditions": {
+            "subject": {
+              "plural": true
+            }
+          }
+        }
+      ],
+      [
+        {
+          "text": {
+            "plain": "сэгушӏо"
+          },
+          "conditions": {
+            "subject": {
+              "singular": false
+            }
+          },
+          "transition": []
+        },
+        {
+          "text": {
+            "plain": "тэгушӏо"
+          },
+          "conditions": {
+            "subject": {
+              "plural": false
+            }
+          },
+          "transition": []
+        }
+      ],
+      [
+        {
+          "text": {
+            "plain": "узэрэслъэгъугъэмкӏэ"
+          },
+          "conditions": {
+            "person": {
+              "singular": true
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "шъузэрэслъэгъугъэмкӏэ"
+          },
+          "conditions": {
+            "person": {
+              "plural": true
+            }
+          }
+        }
+      ],
+      [
+        {
+          "text": {
+            "plain": "."
+          }
+        }
+      ]
+    ]
   },
   "7f71c61d-b9f6-46e0-888d-eb15b7b04646": {
+    "blocks": []
+  },
+  "4602f2c6-0040-4759-96f0-f0829bb17ae6": {
+    "blocks": []
+  },
+  "e91539ff-ec8d-4a10-86d6-904def5d0b85": {
+    "blocks": []
+  },
+  "fbef674d-6c81-4ef2-bb44-b10d8865a738": {
+    "blocks": []
+  },
+  "798270f8-e522-4b94-a5b9-bdad8f3958ca": {
+    "blocks": [
+      [
+        {
+          "text": {
+            "plain": "Сэ"
+          },
+          "conditions": {
+            "person": {
+              "singular": true,
+              "first": true
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "Тэ"
+          },
+          "conditions": {
+            "person": {
+              "plural": true,
+              "first": true
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "Ащ"
+          },
+          "conditions": {
+            "person": {
+              "singular": true,
+              "third": true
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "Ахэмэ"
+          },
+          "conditions": {
+            "person": {
+              "plural": true,
+              "third": true
+            }
+          }
+        }
+      ],
+      [
+        {
+          "text": {
+            "plain": "зы килограмм"
+          },
+          "conditions": {
+            "action": {
+              "weigh": false
+            },
+            "weight": {
+              "1": true
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "зы"
+          },
+          "conditions": {
+            "weight": {
+              "1": true
+            },
+            "action": {
+              "give": false
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "килограммитӏу"
+          },
+          "conditions": {
+            "weight": {
+              "2": true
+            },
+            "action": {
+              "weigh": false
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "тӏу"
+          },
+          "conditions": {
+            "weight": {
+              "2": true
+            },
+            "action": {
+              "give": false
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "килограммищ"
+          },
+          "conditions": {
+            "action": {
+              "weigh": false
+            },
+            "weight": {
+              "3": true
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "щы"
+          },
+          "conditions": {
+            "action": {
+              "give": false
+            },
+            "weight": {
+              "3": true
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "килограммиплӏ"
+          },
+          "conditions": {
+            "action": {
+              "weigh": false
+            },
+            "weight": {
+              "4": true
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "плӏы"
+          },
+          "conditions": {
+            "weight": {
+              "4": true
+            },
+            "action": {
+              "give": false
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "килограммитф"
+          },
+          "conditions": {
+            "action": {
+              "weigh": false
+            },
+            "weight": {
+              "5": true
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "тфы"
+          },
+          "conditions": {
+            "action": {
+              "give": false
+            },
+            "weight": {
+              "5": true
+            }
+          }
+        }
+      ],
+      [
+        {
+          "text": {
+            "plain": "къысфэщэч"
+          },
+          "conditions": {
+            "action": {
+              "weigh": true
+            },
+            "person": {
+              "singular": false,
+              "first": false
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "къысэт"
+          },
+          "conditions": {
+            "action": {
+              "give": true
+            },
+            "person": {
+              "singular": false,
+              "first": false
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "къытфэщэч"
+          },
+          "conditions": {
+            "action": {
+              "weigh": true
+            },
+            "person": {
+              "plural": false,
+              "first": false
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "къытэт"
+          },
+          "conditions": {
+            "action": {
+              "give": true
+            },
+            "person": {
+              "plural": false,
+              "first": false
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "къыфэщэч"
+          },
+          "conditions": {
+            "action": {
+              "weigh": true
+            },
+            "person": {
+              "third": false,
+              "singular": false
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "къет"
+          },
+          "conditions": {
+            "action": {
+              "give": true
+            },
+            "person": {
+              "third": false,
+              "singular": false
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "къафэщэч"
+          },
+          "conditions": {
+            "action": {
+              "weigh": true
+            },
+            "person": {
+              "third": false,
+              "plural": false
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "къят"
+          },
+          "conditions": {
+            "action": {
+              "give": true
+            },
+            "person": {
+              "third": false,
+              "plural": false
+            }
+          }
+        }
+      ],
+      [
+        {
+          "text": {
+            "plain": "."
+          }
+        }
+      ]
+    ]
+  },
+  "a3dfc8f8-d36a-497d-a9e5-500b04122a86": {
+    "blocks": []
+  },
+  "09cb2776-5a01-45df-bd0c-5ff3fb12c747": {
+    "blocks": []
+  },
+  "2b645135-32cb-4a94-b070-8bc9ee23ed08": {
     "blocks": []
   }
 }
