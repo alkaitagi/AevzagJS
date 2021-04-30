@@ -1,375 +1,383 @@
 [
-    {
-        "samples": [
-            {
-                "word": "игит",
-                "ipa": "igit",
-                "grapheme": "и"
-            }
-        ],
-        "phoneme": "i"
-    },
-    {
-        "samples": [
-            {
-                "word": "урши",
-                "ipa": "urʃi",
-                "grapheme": "у"
-            }
-        ],
-        "phoneme": "u"
-    },
-    {
-        "samples": [
-            {
-                "word": "эмхӏе",
-                "ipa": "emħe",
-                "grapheme": "э"
-            }
-        ],
-        "phoneme": "e"
-    },
-    {
-        "samples": [
-            {
-                "word": "асар",
-                "ipa": "ɑsɑr",
-                "grapheme": "а"
-            }
-        ],
-        "phoneme": "ɑ"
-    },
-    {
-        "samples": [
-            {
-                "word": "хъяр",
-                "ipa": "qʰɑˤr",
-                "grapheme": "я"
-            }
-        ],
-        "phoneme": "ɑˤ"
-    },
-    {
-        "samples": [
-            {
-                "word": "бугъа",
-                "ipa": "buʁɑ",
-                "grapheme": "б"
-            }
-        ],
-        "phoneme": "b"
-    },
-    {
-        "samples": [
-            {
-                "word": "партал",
-                "ipa": "pɑrtɑl",
-                "grapheme": "п"
-            }
-        ],
-        "phoneme": "p"
-    },
-    {
-        "samples": [
-            {
-                "word": "пӏялцӏикӏ",
-                "ipa": "pʼɑˤlt͡sʼikʼ",
-                "grapheme": "пӏ"
-            }
-        ],
-        "phoneme": "pʼ"
-    },
-    {
-        "samples": [
-            {
-                "word": "варгьи",
-                "ipa": "vɑrhi",
-                "grapheme": "в"
-            }
-        ],
-        "phoneme": "v"
-    },
-    {
-        "samples": [
-            {
-                "word": "мицӏираг",
-                "ipa": "mit͡sʼirag",
-                "grapheme": "м"
-            }
-        ],
-        "phoneme": "m"
-    },
-    {
-        "samples": [
-            {
-                "word": "дергъ",
-                "ipa": "derʁ",
-                "grapheme": "д"
-            }
-        ],
-        "phoneme": "d"
-    },
-    {
-        "samples": [
-            {
-                "word": "тухтур",
-                "ipa": "tuxtur",
-                "grapheme": "т"
-            }
-        ],
-        "phoneme": "t"
-    },
-    {
-        "samples": [
-            {
-                "word": "тӏутӏи",
-                "ipa": "tʼutʼi",
-                "grapheme": "тӏ"
-            }
-        ],
-        "phoneme": "tʼ"
-    },
-    {
-        "samples": [
-            {
-                "word": "царка",
-                "ipa": "t͡sɑrkɑ",
-                "grapheme": "ц"
-            }
-        ],
-        "phoneme": "t͡s"
-    },
-    {
-        "samples": [
-            {
-                "word": "цӏедеш",
-                "ipa": "t͡sʼedeʃ",
-                "grapheme": "цӏ"
-            }
-        ],
-        "phoneme": "t͡sʼ"
-    },
-    {
-        "samples": [
-            {
-                "word": "зубарти",
-                "ipa": "zubɑrti",
-                "grapheme": "з"
-            }
-        ],
-        "phoneme": "z"
-    },
-    {
-        "samples": [
-            {
-                "word": "сири",
-                "ipa": "siri",
-                "grapheme": "с"
-            }
-        ],
-        "phoneme": "s"
-    },
-    {
-        "samples": [
-            {
-                "word": "насаб",
-                "ipa": "nɑsɑb",
-                "grapheme": "н"
-            }
-        ],
-        "phoneme": "n"
-    },
-    {
-        "notes": [
-            "Palatalized after /a/, /i/, /u/."
-        ],
-        "samples": [
-            {
-                "word": "лами",
-                "ipa": "lɑmi",
-                "grapheme": "л"
-            }
-        ],
-        "phoneme": "l"
-    },
-    {
-        "samples": [
-            {
-                "word": "хьунул",
-                "ipa": "",
-                "grapheme": "хь"
-            }
-        ],
-        "phoneme": "ç"
-    },
-    {
-        "samples": [
-            {
-                "word": "къайгъи",
-                "ipa": "qɑjʁi",
-                "grapheme": "й"
-            }
-        ],
-        "phoneme": "j"
-    },
-    {
-        "samples": [
-            {
-                "word": "чарма",
-                "ipa": "t͡ʃɑrmɑ",
-                "grapheme": "ч"
-            }
-        ],
-        "phoneme": "t͡ʃ"
-    },
-    {
-        "samples": [
-            {
-                "word": "чӏичӏала",
-                "ipa": "t͡ʃʼit͡ʃʼɑlɑ",
-                "grapheme": "чӏ"
-            }
-        ],
-        "phoneme": "t͡ʃʼ"
-    },
-    {
-        "samples": [
-            {
-                "word": "журуга",
-                "ipa": "ʒurugɑ",
-                "grapheme": "ж"
-            }
-        ],
-        "phoneme": "ʒ"
-    },
-    {
-        "samples": [
-            {
-                "word": "шагьар",
-                "ipa": "ʃɑhɑr",
-                "grapheme": "ш"
-            }
-        ],
-        "phoneme": "ʃ"
-    },
-    {
-        "samples": [
-            {
-                "word": "рурси",
-                "ipa": "rursi",
-                "grapheme": "р"
-            }
-        ],
-        "phoneme": "r"
-    },
-    {
-        "samples": [
-            {
-                "word": "галга",
-                "ipa": "gɑlgɑ",
-                "grapheme": "г"
-            }
-        ],
-        "phoneme": "g"
-    },
-    {
-        "samples": [
-            {
-                "word": "кам",
-                "ipa": "kɑm",
-                "grapheme": "к"
-            }
-        ],
-        "phoneme": "k"
-    },
-    {
-        "samples": [
-            {
-                "word": "кӏапӏи",
-                "ipa": "kʼɑpʼi",
-                "grapheme": "кӏ"
-            }
-        ],
-        "phoneme": "kʼ"
-    },
-    {
-        "samples": [
-            {
-                "word": "къаркъа",
-                "ipa": "qɑrqɑ",
-                "grapheme": "къ"
-            }
-        ],
-        "phoneme": "q"
-    },
-    {
-        "samples": [
-            {
-                "word": "хъяр",
-                "ipa": "qʰɑˤr",
-                "grapheme": "хъ"
-            }
-        ],
-        "phoneme": "qʰ"
-    },
-    {
-        "samples": [
-            {
-                "word": "кьацӏ",
-                "ipa": "qʼɑt͡sʼ",
-                "grapheme": "кь"
-            }
-        ],
-        "phoneme": "qʼ"
-    },
-    {
-        "samples": [
-            {
-                "word": "гъум",
-                "ipa": "ɣum",
-                "grapheme": "гъ"
-            }
-        ],
-        "phoneme": "ɣ"
-    },
-    {
-        "samples": [
-            {
-                "word": "халадудеш",
-                "ipa": "xɑlɑdudeʃ",
-                "grapheme": "х"
-            }
-        ],
-        "phoneme": "x"
-    },
-    {
-        "samples": [
-            {
-                "word": "хӏяйван",
-                "ipa": "ħɑˤjvɑn",
-                "grapheme": "хӏ"
-            }
-        ],
-        "phoneme": "ħ"
-    },
-    {
-        "samples": [
-            {
-                "word": "гьая",
-                "ipa": "hɑjɑ",
-                "grapheme": "гь"
-            }
-        ],
-        "phoneme": "h"
-    },
-    {
-        "samples": [
-            {
-                "word": "ниъ",
-                "ipa": "niʔ",
-                "grapheme": "ъ"
-            }
-        ],
-        "phoneme": "ʔ"
-    }
+  {
+    "samples": [
+      {
+        "word": "игит",
+        "ipa": "igit",
+        "grapheme": "и"
+      }
+    ],
+    "phoneme": "i"
+  },
+  {
+    "samples": [
+      {
+        "word": "урши",
+        "ipa": "urʃi",
+        "grapheme": "у"
+      }
+    ],
+    "phoneme": "u"
+  },
+  {
+    "samples": [
+      {
+        "word": "эмхӏе",
+        "ipa": "emħe",
+        "grapheme": "э"
+      }
+    ],
+    "phoneme": "e"
+  },
+  {
+    "samples": [
+      {
+        "word": "асар",
+        "ipa": "ɑsɑr",
+        "grapheme": "а"
+      }
+    ],
+    "phoneme": "ɑ"
+  },
+  {
+    "samples": [
+      {
+        "word": "хъяр",
+        "ipa": "qʰɑˤr",
+        "grapheme": "я"
+      }
+    ],
+    "phoneme": "ɑˤ"
+  },
+  {
+    "samples": [
+      {
+        "word": "бугъа",
+        "ipa": "buʁɑ",
+        "grapheme": "б"
+      }
+    ],
+    "phoneme": "b"
+  },
+  {
+    "samples": [
+      {
+        "word": "партал",
+        "ipa": "pɑrtɑl",
+        "grapheme": "п"
+      }
+    ],
+    "phoneme": "p"
+  },
+  {
+    "samples": [
+      {
+        "word": "пӏялцӏикӏ",
+        "ipa": "pʼɑˤlt͡sʼikʼ",
+        "grapheme": "пӏ"
+      }
+    ],
+    "phoneme": "pʼ"
+  },
+  {
+    "samples": [
+      {
+        "word": "варгьи",
+        "ipa": "vɑrhi",
+        "grapheme": "в"
+      }
+    ],
+    "phoneme": "v"
+  },
+  {
+    "samples": [
+      {
+        "word": "мицӏираг",
+        "ipa": "mit͡sʼirag",
+        "grapheme": "м"
+      }
+    ],
+    "phoneme": "m"
+  },
+  {
+    "samples": [
+      {
+        "word": "дергъ",
+        "ipa": "derʁ",
+        "grapheme": "д"
+      }
+    ],
+    "phoneme": "d"
+  },
+  {
+    "samples": [
+      {
+        "word": "тухтур",
+        "ipa": "tuxtur",
+        "grapheme": "т"
+      }
+    ],
+    "phoneme": "t"
+  },
+  {
+    "samples": [
+      {
+        "word": "тӏутӏи",
+        "ipa": "tʼutʼi",
+        "grapheme": "тӏ"
+      }
+    ],
+    "phoneme": "tʼ"
+  },
+  {
+    "samples": [
+      {
+        "word": "царка",
+        "ipa": "t͡sɑrkɑ",
+        "grapheme": "ц"
+      }
+    ],
+    "phoneme": "t͡s"
+  },
+  {
+    "samples": [
+      {
+        "word": "цӏедеш",
+        "ipa": "t͡sʼedeʃ",
+        "grapheme": "цӏ"
+      }
+    ],
+    "phoneme": "t͡sʼ"
+  },
+  {
+    "samples": [
+      {
+        "word": "зубарти",
+        "ipa": "zubɑrti",
+        "grapheme": "з"
+      }
+    ],
+    "phoneme": "z"
+  },
+  {
+    "samples": [
+      {
+        "word": "сири",
+        "ipa": "siri",
+        "grapheme": "с"
+      }
+    ],
+    "phoneme": "s"
+  },
+  {
+    "samples": [
+      {
+        "word": "насаб",
+        "ipa": "nɑsɑb",
+        "grapheme": "н"
+      }
+    ],
+    "phoneme": "n"
+  },
+  {
+    "notes": [
+      "Palatalized after /a/, /i/, /u/."
+    ],
+    "samples": [
+      {
+        "word": "лами",
+        "ipa": "lɑmi",
+        "grapheme": "л"
+      }
+    ],
+    "phoneme": "l"
+  },
+  {
+    "samples": [
+      {
+        "word": "хьунул",
+        "ipa": "",
+        "grapheme": "хь"
+      }
+    ],
+    "phoneme": "ç"
+  },
+  {
+    "samples": [
+      {
+        "word": "къайгъи",
+        "ipa": "qɑjʁi",
+        "grapheme": "й"
+      }
+    ],
+    "phoneme": "j"
+  },
+  {
+    "samples": [
+      {
+        "word": "чарма",
+        "ipa": "t͡ʃɑrmɑ",
+        "grapheme": "ч"
+      }
+    ],
+    "phoneme": "t͡ʃ"
+  },
+  {
+    "samples": [
+      {
+        "word": "чӏичӏала",
+        "ipa": "t͡ʃʼit͡ʃʼɑlɑ",
+        "grapheme": "чӏ"
+      }
+    ],
+    "phoneme": "t͡ʃʼ"
+  },
+  {
+    "samples": [
+      {
+        "word": "журуга",
+        "ipa": "ʒurugɑ",
+        "grapheme": "ж"
+      }
+    ],
+    "phoneme": "ʒ"
+  },
+  {
+    "samples": [
+      {
+        "word": "шагьар",
+        "ipa": "ʃɑhɑr",
+        "grapheme": "ш"
+      }
+    ],
+    "phoneme": "ʃ"
+  },
+  {
+    "samples": [
+      {
+        "word": "рурси",
+        "ipa": "rursi",
+        "grapheme": "р"
+      }
+    ],
+    "phoneme": "r"
+  },
+  {
+    "samples": [
+      {
+        "word": "галга",
+        "ipa": "gɑlgɑ",
+        "grapheme": "г"
+      }
+    ],
+    "phoneme": "g"
+  },
+  {
+    "samples": [
+      {
+        "word": "кам",
+        "ipa": "kɑm",
+        "grapheme": "к"
+      }
+    ],
+    "phoneme": "k"
+  },
+  {
+    "samples": [
+      {
+        "word": "кӏапӏи",
+        "ipa": "kʼɑpʼi",
+        "grapheme": "кӏ"
+      }
+    ],
+    "phoneme": "kʼ"
+  },
+  {
+    "samples": [
+      {
+        "word": "къаркъа",
+        "ipa": "qɑrqɑ",
+        "grapheme": "къ"
+      }
+    ],
+    "phoneme": "q"
+  },
+  {
+    "samples": [
+      {
+        "word": "хъяр",
+        "ipa": "qʰɑˤr",
+        "grapheme": "хъ"
+      }
+    ],
+    "phoneme": "qʰ"
+  },
+  {
+    "samples": [
+      {
+        "word": "кьацӏ",
+        "ipa": "qʼɑt͡sʼ",
+        "grapheme": "кь"
+      }
+    ],
+    "phoneme": "qʼ"
+  },
+  {
+    "samples": [
+      {
+        "word": "гъум",
+        "ipa": "ɣum",
+        "grapheme": "гъ"
+      }
+    ],
+    "phoneme": "ɣ"
+  },
+  {
+    "samples": [
+      {
+        "word": "халадудеш",
+        "ipa": "xɑlɑdudeʃ",
+        "grapheme": "х"
+      }
+    ],
+    "phoneme": "x"
+  },
+  {
+    "samples": [
+      {
+        "word": "хӏяйван",
+        "ipa": "ħɑˤjvɑn",
+        "grapheme": "хӏ"
+      }
+    ],
+    "phoneme": "ħ"
+  },
+  {
+    "samples": [
+      {
+        "word": "гьая",
+        "ipa": "hɑjɑ",
+        "grapheme": "гь"
+      }
+    ],
+    "phoneme": "h"
+  },
+  {
+    "samples": [
+      {
+        "word": "ниъ",
+        "ipa": "niʔ",
+        "grapheme": "ъ"
+      }
+    ],
+    "phoneme": "ʔ"
+  },
+  {
+    "phoneme": "ae",
+    "samples": [
+      {
+        "grapheme": "ae"
+      }
+    ]
+  }
 ]
