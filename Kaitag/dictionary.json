@@ -62,18 +62,6 @@
   {
     "forms": [
       {
-        "plain": "гьет"
-      }
-    ],
-    "uses": [
-      {
-        "meaning": "he"
-      }
-    ]
-  },
-  {
-    "forms": [
-      {
         "plain": "гьетти"
       }
     ],
@@ -92,50 +80,6 @@
     "uses": [
       {
         "meaning": "this"
-      }
-    ]
-  },
-  {
-    "forms": [
-      {
-        "plain": "гьет"
-      }
-    ],
-    "uses": [
-      {
-        "meaning": "that"
-      }
-    ]
-  },
-  {
-    "explanation": "Object or person far above.",
-    "forms": [
-      {
-        "plain": "гьекӏ"
-      }
-    ],
-    "uses": [
-      {
-        "meaning": "that",
-        "notes": [
-          "Object or person far above."
-        ]
-      }
-    ]
-  },
-  {
-    "explanation": "Object or person far below.",
-    "forms": [
-      {
-        "plain": "гьех"
-      }
-    ],
-    "uses": [
-      {
-        "meaning": "that",
-        "notes": [
-          "Object or person far below."
-        ]
       }
     ]
   },
@@ -604,39 +548,6 @@
     "uses": [
       {
         "meaning": "bird"
-      }
-    ]
-  },
-  {
-    "forms": [
-      {
-        "plain": "хвя"
-      }
-    ],
-    "uses": [
-      {
-        "meaning": "dog"
-      }
-    ]
-  },
-  {
-    "forms": [
-      {
-        "plain": "бизи",
-        "ipa": "biˈzi"
-      }
-    ],
-    "samples": [
-      {
-        "text": {
-          "plain": "Бизилли гваца буцив."
-        },
-        "translation": "Cat caught a mouse."
-      }
-    ],
-    "uses": [
-      {
-        "meaning": "cat"
       }
     ]
   },
@@ -2266,13 +2177,10 @@
         "plain": "итӏин"
       }
     ],
-    "tags": "color",
     "uses": [
       {
-        "meaning": "red",
-        "tags": [
-          "color"
-        ]
+        "tags": ["color"],
+        "meaning": "red"
       }
     ]
   },
@@ -2282,13 +2190,10 @@
         "plain": "шиниш"
       }
     ],
-    "tags": "color",
     "uses": [
       {
-        "meaning": "green",
-        "tags": [
-          "color"
-        ]
+        "tags": ["color"],
+        "meaning": "green"
       }
     ]
   },
@@ -2298,13 +2203,10 @@
         "plain": "бухъу"
       }
     ],
-    "tags": "color",
     "uses": [
       {
-        "meaning": "yellow",
-        "tags": [
-          "color"
-        ]
+        "tags": ["color"],
+        "meaning": "yellow"
       }
     ]
   },
@@ -2314,13 +2216,10 @@
         "plain": "цӏяв"
       }
     ],
-    "tags": "color",
     "uses": [
       {
-        "meaning": "white",
-        "tags": [
-          "color"
-        ]
+        "tags": ["color"],
+        "meaning": "white"
       }
     ]
   },
@@ -2330,13 +2229,10 @@
         "plain": "хъерхъ"
       }
     ],
-    "tags": "color",
     "uses": [
       {
-        "meaning": "black",
-        "tags": [
-          "color"
-        ]
+        "tags": ["color"],
+        "meaning": "black"
       }
     ]
   },
@@ -2795,5 +2691,308 @@
         "meaning": "hard"
       }
     ]
+  },
+  {
+    "uses": [
+      {
+        "tags": ["domestic", "animal"],
+        "meaning": "cow"
+      }
+    ],
+    "forms": [
+      {
+        "plain": "кьвял"
+      }
+    ],
+    "tags": ["noun", "neuter"]
+  },
+  {
+    "uses": [
+      {
+        "tags": ["domestic", "animal"],
+        "meaning": "cat",
+        "samples": [
+          {
+            "plain": "Бизилли гваца буцив.",
+            "ipa": "bizi-lli gʷɑt͡sɑ b-ut͡s-iβ",
+            "glossed": "cat-ERG mouse N-catch-PST",
+            "translation": "Cat caught a mouse."
+          },
+          {
+            "plain": "Бизира хвярагван.",
+            "ipa": "bizi-rɑ xʷɑ-rɑ-gʷɑn",
+            "glossed": "cat-AND dog-AND-like",
+            "translation": "Like a cat and a dog."
+          }
+        ]
+      }
+    ],
+    "forms": [
+      {
+        "plain": "бизи",
+        "ipa": "bizi",
+        "glossed": "cat"
+      },
+      {
+        "plain": "бизилли",
+        "ipa": "bizi-lli",
+        "glossed": "cat-ERG"
+      },
+      {
+        "plain": "бизий",
+        "ipa": "bizi-j",
+        "glossed": "cat-DAT"
+      }
+    ],
+    "tags": ["noun", "neuter"],
+    "notes": [
+      "From Middle English cat, catte, from Old English catt (“male cat”), catte (“female cat”), from Proto-Germanic *kattuz."
+    ]
+  },
+  {
+    "uses": [
+      {
+        "tags": ["domestic", "animal"],
+        "meaning": "dog"
+      }
+    ],
+    "forms": [
+      {
+        "plain": "хвя"
+      }
+    ],
+    "tags": ["noun", "neuter"]
+  },
+  {
+    "uses": [
+      {
+        "tags": ["tool"],
+        "meaning": "pickaxe"
+      }
+    ],
+    "forms": [
+      {
+        "plain": "ккацца"
+      }
+    ],
+    "tags": ["noun", "neuter"]
+  },
+  {
+    "uses": [
+      {
+        "tags": ["spatial"],
+        "meaning": "that"
+      },
+      {
+        "tags": ["kinship"],
+        "meaning": "he"
+      },
+      {
+        "tags": ["kinship"],
+        "meaning": "she"
+      },
+      {
+        "tags": ["kinship"],
+        "meaning": "it"
+      }
+    ],
+    "forms": [
+      {
+        "plain": "гьет"
+      }
+    ],
+    "tags": ["pronoun"],
+    "notes": ["Object or person necessarily far _horizontally_."]
+  },
+  {
+    "uses": [
+      {
+        "tags": ["spatial"],
+        "meaning": "that"
+      },
+      {
+        "tags": ["kinship"],
+        "meaning": "he"
+      },
+      {
+        "tags": ["kinship"],
+        "meaning": "she"
+      },
+      {
+        "tags": ["kinship"],
+        "meaning": "it"
+      }
+    ],
+    "forms": [
+      {
+        "plain": "гьекӏ"
+      }
+    ],
+    "tags": ["pronoun"],
+    "notes": ["Object or person necessarily far _above_."]
+  },
+  {
+    "uses": [
+      {
+        "tags": ["spatial"],
+        "meaning": "that"
+      },
+      {
+        "tags": ["kinship"],
+        "meaning": "he"
+      },
+      {
+        "tags": ["kinship"],
+        "meaning": "she"
+      },
+      {
+        "tags": ["kinship"],
+        "meaning": "it"
+      }
+    ],
+    "forms": [
+      {
+        "plain": "гьех"
+      }
+    ],
+    "tags": ["pronoun"],
+    "notes": ["Object or person necessarily far _below_."]
+  },
+  {
+    "uses": [
+      {
+        "tags": ["spatial"],
+        "meaning": "pass"
+      },
+      {
+        "tags": ["spatial"],
+        "meaning": "gap"
+      },
+      {
+        "tags": ["spatial"],
+        "meaning": "interval"
+      },
+      {
+        "tags": ["social"],
+        "meaning": "relationship"
+      }
+    ],
+    "forms": [
+      {
+        "plain": "урккала"
+      }
+    ],
+    "tags": ["noun"]
+  },
+  {
+    "uses": [
+      {
+        "meaning": "between",
+        "tags": ["spatial"]
+      }
+    ],
+    "forms": [
+      {
+        "plain": "уркка",
+        "ipa": "urˈkːɑ"
+      },
+      {
+        "plain": "урккала",
+        "ipa": "urkːɑ-lɑ",
+        "glossed": "between-GEN"
+      }
+    ],
+    "tags": ["adverb"]
+  },
+  {
+    "uses": [
+      {
+        "meaning": "same"
+      },
+      {
+        "meaning": "peer",
+        "tags": ["social"]
+      }
+    ],
+    "forms": [
+      {
+        "plain": "цагван"
+      }
+    ],
+    "tags": ["noun", "adjective"]
+  },
+  {
+    "uses": [
+      {
+        "tags": ["tool"],
+        "meaning": "fork",
+        "samples": [
+          {
+            "plain": "Чӏалалли биринж бекрунда."
+          }
+        ]
+      },
+      {
+        "tags": ["social"],
+        "meaning": "lot",
+        "samples": [
+          {
+            "plain": "Ччимасалалцци чӏала дами бичив."
+          }
+        ],
+        "notes": ["Something something"]
+      }
+    ],
+    "forms": [
+      {
+        "plain": "чӏала",
+        "ipa": "ˈt͡sʼɑlɑ"
+      }
+    ],
+    "tags": ["noun"],
+    "notes": [""]
+  },
+  {
+    "uses": [
+      {
+        "tags": ["social"],
+        "meaning": "gathering"
+      }
+    ],
+    "forms": [
+      {
+        "plain": "чимасала"
+      }
+    ],
+    "tags": ["noun"]
+  },
+  {
+    "uses": [
+      {
+        "tags": ["physical"],
+        "meaning": "foam",
+        "notes": ["Foam of milk"]
+      }
+    ],
+    "forms": [
+      {
+        "plain": "гъунуг"
+      }
+    ],
+    "tags": ["noun"]
+  },
+  {
+    "uses": [
+      {
+        "tags": ["physical"],
+        "meaning": "foam"
+      }
+    ],
+    "forms": [
+      {
+        "plain": "хьамхьа"
+      }
+    ],
+    "tags": ["noun"]
   }
 ]

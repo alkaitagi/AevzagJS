@@ -2490,5 +2490,45 @@
         "meaning": "name"
       }
     ]
+  },
+  {
+    "uses": [
+      {
+        "tags": ["linguistic"],
+        "meaning": "speech",
+        "samples": [
+          { "plain": "козбау ныхас", "translation": "insinuating speech" }
+        ]
+      },
+      {
+        "tags": ["linguistic"],
+        "meaning": "word",
+        "samples": [{ "plain": "барджын ныхас", "translation": "weighty word" }]
+      },
+      {
+        "tags": ["social"],
+        "meaning": "gathering",
+        "notes": ["Place of public gatherings in a village."],
+        "samples": [{ "plain": "барджын ныхас", "translation": "weighty word" }]
+      }
+    ],
+    "tags": ["noun"],
+    "notes": ["Etymology of the work ныхас etc etc..."],
+    "forms": [
+      { "plain": "ныхас", "ipa": "nəχaʃ" },
+      { "plain": "ныхæстæ", "ipa": "nəχaʃ-tɐ", "glossed": "speech-PL" }
+    ]
+  },
+  {
+    "uses": [
+      {
+        "tags": ["tool", "domestic"],
+        "meaning": "fork"
+      }
+    ],
+    "forms": [
+      { "plain": "саджилæг", "ipa": "ʃad͡ʒilɐg" },
+      { "plain": "саджилджытæ", "ipa": "ʃad͡ʒild͡ʒə-tɐ", "glossed": "fork-PL" }
+    ]
   }
 ]

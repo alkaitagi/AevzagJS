@@ -2037,9 +2037,7 @@
     "uses": [
       {
         "meaning": "red",
-        "tags": [
-          "color"
-        ]
+        "tags": ["color"]
       }
     ]
   },
@@ -2053,9 +2051,7 @@
     "uses": [
       {
         "meaning": "green",
-        "tags": [
-          "color"
-        ]
+        "tags": ["color"]
       }
     ]
   },
@@ -2069,9 +2065,7 @@
     "uses": [
       {
         "meaning": "yellow",
-        "tags": [
-          "color"
-        ]
+        "tags": ["color"]
       }
     ]
   },
@@ -2085,9 +2079,7 @@
     "uses": [
       {
         "meaning": "white",
-        "tags": [
-          "color"
-        ]
+        "tags": ["color"]
       }
     ]
   },
@@ -2101,9 +2093,7 @@
     "uses": [
       {
         "meaning": "black",
-        "tags": [
-          "color"
-        ]
+        "tags": ["color"]
       }
     ]
   },
