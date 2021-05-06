@@ -2059,7 +2059,10 @@
     ],
     "uses": [
       {
-        "meaning": "green"
+        "meaning": "green",
+        "tags": [
+          "color"
+        ]
       }
     ]
   },
@@ -2071,7 +2074,10 @@
     ],
     "uses": [
       {
-        "meaning": "yellow"
+        "meaning": "yellow",
+        "tags": [
+          "color"
+        ]
       }
     ]
   },
@@ -2083,7 +2089,10 @@
     ],
     "uses": [
       {
-        "meaning": "white"
+        "meaning": "white",
+        "tags": [
+          "color"
+        ]
       }
     ]
   },
@@ -2095,7 +2104,10 @@
     ],
     "uses": [
       {
-        "meaning": "black"
+        "meaning": "black",
+        "tags": [
+          "color"
+        ]
       }
     ]
   },
