@@ -376,5 +376,104 @@
         "meaning": "thick"
       }
     ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "шъхьэ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "head"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ӏэ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "hand"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "фыжьы"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "white",
+        "tags": [
+          "color"
+        ]
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "шӏуцӏэ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "black",
+        "tags": [
+          "color"
+        ]
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "гъожьы"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "yellow",
+        "tags": [
+          "color"
+        ]
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "шхъонтӏэ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "blue",
+        "tags": [
+          "color"
+        ]
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "уцышъо"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "green",
+        "tags": [
+          "color"
+        ]
+      }
+    ]
   }
 ]
