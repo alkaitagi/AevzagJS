@@ -1,0 +1,380 @@
+[
+  {
+    "forms": [
+      {
+        "plain": "сэ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "I"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "о"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "you (singular)"
+      }
+    ],
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ар"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "he",
+        "tags": [
+          "pronoun"
+        ]
+      },
+      {
+        "meaning": "she",
+        "tags": [
+          "pronoun"
+        ]
+      },
+      {
+        "meaning": "it",
+        "tags": [
+          "pronoun"
+        ]
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "тэ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "we"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "шъо"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "you (plural)"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ахэр"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "they"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "мы"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "this"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "мо"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "that"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "мыщ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "here"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ащ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "there"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "хэт"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "who"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "сыда"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "what"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "тыдэ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "where"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "сыдигъо"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "when"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "сыда"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "how"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "-п"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "not"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "зэкӏэ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "all"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "бэ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "many"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "заул"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "some"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "макӏэу"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "few"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "пэмыкӏ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "other"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "зы"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "one"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "тӏу"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "two"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "щы"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "three"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "плӏы"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "four"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "тфы"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "five"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "-шхо"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "big"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "кӏыхьэ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "long"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "бгъо"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "wide"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ӏужъу"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "thick"
+      }
+    ]
+  }
+]
