@@ -2,2216 +2,2673 @@
   {
     "forms": [
       {
-        "text": {
-          "plain": "зун"
-        }
+        "plain": "зун"
       }
     ],
-    "translation": "ӏ"
+    "uses": [
+      {
+        "meaning": "ӏ"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "вун"
-        }
+        "plain": "вун"
       }
     ],
-    "translation": "you (singular)"
+    "uses": [
+      {
+        "meaning": "you (singular)"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "ам"
-        }
+        "plain": "ам"
       }
     ],
-    "translation": "he"
+    "uses": [
+      {
+        "meaning": "he"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "чун"
-        }
+        "plain": "чун"
       }
     ],
-    "translation": "we"
+    "uses": [
+      {
+        "meaning": "we"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "куьн"
-        }
+        "plain": "куьн"
       }
     ],
-    "translation": "you (plural)"
+    "uses": [
+      {
+        "meaning": "you (plural)"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "абур"
-        }
+        "plain": "абур"
       }
     ],
-    "translation": "they"
+    "uses": [
+      {
+        "meaning": "they"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "им"
-        }
+        "plain": "им"
       }
     ],
-    "translation": "this"
+    "uses": [
+      {
+        "meaning": "this"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "и"
-        }
+        "plain": "и"
       }
     ],
-    "translation": "that"
+    "uses": [
+      {
+        "meaning": "that"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "ина"
-        }
+        "plain": "ина"
       }
     ],
-    "translation": "here"
+    "uses": [
+      {
+        "meaning": "here"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "ана"
-        }
+        "plain": "ана"
       }
     ],
-    "translation": "there"
+    "uses": [
+      {
+        "meaning": "there"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "вуж"
-        }
+        "plain": "вуж"
       }
     ],
-    "translation": "who"
+    "uses": [
+      {
+        "meaning": "who"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "вуч"
-        }
+        "plain": "вуч"
       }
     ],
-    "translation": "what"
+    "uses": [
+      {
+        "meaning": "what"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "гьина"
-        }
+        "plain": "гьина"
       }
     ],
-    "translation": "where"
+    "uses": [
+      {
+        "meaning": "where"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "мус"
-        }
+        "plain": "мус"
       }
     ],
-    "translation": "when"
+    "uses": [
+      {
+        "meaning": "when"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "гьикӏ"
-        }
+        "plain": "гьикӏ"
       }
     ],
-    "translation": "how"
+    "uses": [
+      {
+        "meaning": "how"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "туш"
-        }
+        "plain": "туш"
       }
     ],
-    "translation": "not"
+    "uses": [
+      {
+        "meaning": "not"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "вири"
-        }
+        "plain": "вири"
       }
     ],
-    "translation": "all"
+    "uses": [
+      {
+        "meaning": "all"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "пара"
-        }
+        "plain": "пара"
       }
     ],
-    "translation": "many"
+    "uses": [
+      {
+        "meaning": "many"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "гьикьван ятӏани"
-        }
+        "plain": "гьикьван ятӏани"
       }
     ],
-    "translation": "some"
+    "uses": [
+      {
+        "meaning": "some"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "тӏимил"
-        }
+        "plain": "тӏимил"
       }
     ],
-    "translation": "few"
+    "uses": [
+      {
+        "meaning": "few"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "маса"
-        }
+        "plain": "маса"
       }
     ],
-    "translation": "other"
+    "uses": [
+      {
+        "meaning": "other"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "сад"
-        }
+        "plain": "сад"
       }
     ],
-    "translation": "one"
+    "uses": [
+      {
+        "meaning": "one"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кьвед"
-        }
+        "plain": "кьвед"
       }
     ],
-    "translation": "two"
+    "uses": [
+      {
+        "meaning": "two"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "пуд"
-        }
+        "plain": "пуд"
       }
     ],
-    "translation": "three"
+    "uses": [
+      {
+        "meaning": "three"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кьуд"
-        }
+        "plain": "кьуд"
       }
     ],
-    "translation": "four"
+    "uses": [
+      {
+        "meaning": "four"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "вад"
-        }
+        "plain": "вад"
       }
     ],
-    "translation": "five"
+    "uses": [
+      {
+        "meaning": "five"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "чӏехи"
-        }
+        "plain": "чӏехи"
       }
     ],
-    "translation": "big"
+    "uses": [
+      {
+        "meaning": "big"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "яргъи"
-        }
+        "plain": "яргъи"
       }
     ],
-    "translation": "long"
+    "uses": [
+      {
+        "meaning": "long"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "гьеркуь"
-        }
+        "plain": "гьеркуь"
       }
     ],
-    "translation": "wide"
+    "uses": [
+      {
+        "meaning": "wide"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "йицІу"
-        }
+        "plain": "йицІу"
       }
     ],
-    "translation": "thick"
+    "uses": [
+      {
+        "meaning": "thick"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "четин"
-        }
+        "plain": "четин"
       }
     ],
-    "translation": "heavy"
+    "uses": [
+      {
+        "meaning": "heavy"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "гъвечӏи."
-        }
+        "plain": "гъвечӏи."
       }
     ],
-    "translation": "small"
+    "uses": [
+      {
+        "meaning": "small"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "куьруь"
-        }
+        "plain": "куьруь"
       }
     ],
-    "translation": "short"
+    "uses": [
+      {
+        "meaning": "short"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "гуьтӏуь"
-        }
+        "plain": "гуьтӏуь"
       }
     ],
-    "translation": "narrow"
+    "uses": [
+      {
+        "meaning": "narrow"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "шуькӏуь"
-        }
+        "plain": "шуькӏуь"
       }
     ],
-    "translation": "thin"
+    "uses": [
+      {
+        "meaning": "thin"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "паб"
-        }
+        "plain": "паб"
       }
     ],
-    "translation": "woman"
+    "uses": [
+      {
+        "meaning": "woman"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "итим"
-        }
+        "plain": "итим"
       }
     ],
-    "translation": "man"
+    "uses": [
+      {
+        "meaning": "man"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кас"
-        }
+        "plain": "кас"
       }
     ],
-    "translation": "person"
+    "uses": [
+      {
+        "meaning": "person"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "шуьнуькӏ"
-        }
+        "plain": "шуьнуькӏ"
       }
     ],
-    "translation": "child"
+    "uses": [
+      {
+        "meaning": "child"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "паб"
-        }
+        "plain": "паб"
       }
     ],
-    "translation": "wife"
+    "uses": [
+      {
+        "meaning": "wife"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "гъуьл"
-        }
+        "plain": "гъуьл"
       }
     ],
-    "translation": "husband"
+    "uses": [
+      {
+        "meaning": "husband"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "диде"
-        }
+        "plain": "диде"
       }
     ],
-    "translation": "mother"
+    "uses": [
+      {
+        "meaning": "mother"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "буба"
-        }
+        "plain": "буба"
       }
     ],
-    "translation": "father"
+    "uses": [
+      {
+        "meaning": "father"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "гьайван"
-        }
+        "plain": "гьайван"
       }
     ],
-    "translation": "animal"
+    "uses": [
+      {
+        "meaning": "animal"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "гъед"
-        }
+        "plain": "гъед"
       }
     ],
-    "translation": "fish"
+    "uses": [
+      {
+        "meaning": "fish"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "нуькӏ"
-        }
+        "plain": "нуькӏ"
       }
     ],
-    "translation": "bird"
+    "uses": [
+      {
+        "meaning": "bird"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кицӏ"
-        }
+        "plain": "кицӏ"
       }
     ],
-    "translation": "dog"
+    "uses": [
+      {
+        "meaning": "dog"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "квак"
-        }
+        "plain": "квак"
       }
     ],
-    "translation": "worm"
+    "uses": [
+      {
+        "meaning": "worm"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "тар"
-        }
+        "plain": "тар"
       }
     ],
-    "translation": "tree"
+    "uses": [
+      {
+        "meaning": "tree"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "там"
-        }
+        "plain": "там"
       }
     ],
-    "translation": "forest"
+    "uses": [
+      {
+        "meaning": "forest"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "аса"
-        }
+        "plain": "аса"
       }
     ],
-    "translation": "stick"
+    "uses": [
+      {
+        "meaning": "stick"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "емиш"
-        }
+        "plain": "емиш"
       }
     ],
-    "translation": "fruit"
+    "uses": [
+      {
+        "meaning": "fruit"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "тум"
-        }
+        "plain": "тум"
       }
     ],
-    "translation": "seed"
+    "uses": [
+      {
+        "meaning": "seed"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "пеш"
-        }
+        "plain": "пеш"
       }
     ],
-    "translation": "leaf"
+    "uses": [
+      {
+        "meaning": "leaf"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "дувул"
-        }
+        "plain": "дувул"
       }
     ],
-    "translation": "root"
+    "uses": [
+      {
+        "meaning": "root"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "чкал"
-        }
+        "plain": "чкал"
       }
     ],
-    "translation": "bark"
+    "uses": [
+      {
+        "meaning": "bark"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "цуьк"
-        }
+        "plain": "цуьк"
       }
     ],
-    "translation": "flower"
+    "uses": [
+      {
+        "meaning": "flower"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "векь"
-        }
+        "plain": "векь"
       }
     ],
-    "translation": "grass"
+    "uses": [
+      {
+        "meaning": "grass"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "еб"
-        }
+        "plain": "еб"
       }
     ],
-    "translation": "rope"
+    "uses": [
+      {
+        "meaning": "rope"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "хам"
-        }
+        "plain": "хам"
       }
     ],
-    "translation": "skin"
+    "uses": [
+      {
+        "meaning": "skin"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "як"
-        }
+        "plain": "як"
       }
     ],
-    "translation": "meat"
+    "uses": [
+      {
+        "meaning": "meat"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "иви"
-        }
+        "plain": "иви"
       }
     ],
-    "translation": "blood"
+    "uses": [
+      {
+        "meaning": "blood"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кӏраб"
-        }
+        "plain": "кӏраб"
       }
     ],
-    "translation": "bone"
+    "uses": [
+      {
+        "meaning": "bone"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "пи"
-        }
+        "plain": "пи"
       }
     ],
-    "translation": "fat"
+    "uses": [
+      {
+        "meaning": "fat"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кака"
-        }
+        "plain": "кака"
       }
     ],
-    "translation": "egg"
+    "uses": [
+      {
+        "meaning": "egg"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "карч"
-        }
+        "plain": "карч"
       }
     ],
-    "translation": "horn"
+    "uses": [
+      {
+        "meaning": "horn"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "тум"
-        }
+        "plain": "тум"
       }
     ],
-    "translation": "tail"
+    "uses": [
+      {
+        "meaning": "tail"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "цӏакул"
-        }
+        "plain": "цӏакул"
       }
     ],
-    "translation": "feather"
+    "uses": [
+      {
+        "meaning": "feather"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "чӏарар"
-        }
+        "plain": "чӏарар"
       }
     ],
-    "translation": "hair"
+    "uses": [
+      {
+        "meaning": "hair"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кьил"
-        }
+        "plain": "кьил"
       }
     ],
-    "translation": "head"
+    "uses": [
+      {
+        "meaning": "head"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "яб"
-        }
+        "plain": "яб"
       }
     ],
-    "translation": "ear"
+    "uses": [
+      {
+        "meaning": "ear"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "вил"
-        }
+        "plain": "вил"
       }
     ],
-    "translation": "eye"
+    "uses": [
+      {
+        "meaning": "eye"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "нер"
-        }
+        "plain": "нер"
       }
     ],
-    "translation": "nose"
+    "uses": [
+      {
+        "meaning": "nose"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "сив"
-        }
+        "plain": "сив"
       }
     ],
-    "translation": "mouth"
+    "uses": [
+      {
+        "meaning": "mouth"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "свах"
-        }
+        "plain": "свах"
       }
     ],
-    "translation": "tooth"
+    "uses": [
+      {
+        "meaning": "tooth"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "мез"
-        }
+        "plain": "мез"
       }
     ],
-    "translation": "tongue"
+    "uses": [
+      {
+        "meaning": "tongue"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кек"
-        }
+        "plain": "кек"
       }
     ],
-    "translation": "fingernail"
+    "uses": [
+      {
+        "meaning": "fingernail"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кьуьл"
-        }
+        "plain": "кьуьл"
       }
     ],
-    "translation": "foot"
+    "uses": [
+      {
+        "meaning": "foot"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кӏвач"
-        }
+        "plain": "кӏвач"
       }
     ],
-    "translation": "leg"
+    "uses": [
+      {
+        "meaning": "leg"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "метӏ"
-        }
+        "plain": "метӏ"
       }
     ],
-    "translation": "knee"
+    "uses": [
+      {
+        "meaning": "knee"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "гъил"
-        }
+        "plain": "гъил"
       }
     ],
-    "translation": "hand"
+    "uses": [
+      {
+        "meaning": "hand"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "лув"
-        }
+        "plain": "лув"
       }
     ],
-    "translation": "wing"
+    "uses": [
+      {
+        "meaning": "wing"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "руфун"
-        }
+        "plain": "руфун"
       }
     ],
-    "translation": "belly"
+    "uses": [
+      {
+        "meaning": "belly"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "руфунар"
-        }
+        "plain": "руфунар"
       }
     ],
-    "translation": "guts"
+    "uses": [
+      {
+        "meaning": "guts"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "гардан"
-        }
+        "plain": "гардан"
       }
     ],
-    "translation": "neck"
+    "uses": [
+      {
+        "meaning": "neck"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "далу"
-        }
+        "plain": "далу"
       }
     ],
-    "translation": "back"
+    "uses": [
+      {
+        "meaning": "back"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "хур"
-        }
+        "plain": "хур"
       }
     ],
-    "translation": "breast"
+    "uses": [
+      {
+        "meaning": "breast"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "рикӏ"
-        }
+        "plain": "рикӏ"
       }
     ],
-    "translation": "heart"
+    "uses": [
+      {
+        "meaning": "heart"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "лекь"
-        }
+        "plain": "лекь"
       }
     ],
-    "translation": "liver"
+    "uses": [
+      {
+        "meaning": "liver"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "хъун"
-        }
+        "plain": "хъун"
       }
     ],
-    "translation": "to drink"
+    "uses": [
+      {
+        "meaning": "to drink"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "тӏуьн"
-        }
+        "plain": "тӏуьн"
       }
     ],
-    "translation": "to eat"
+    "uses": [
+      {
+        "meaning": "to eat"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кӏасун"
-        }
+        "plain": "кӏасун"
       }
     ],
-    "translation": "to bite"
+    "uses": [
+      {
+        "meaning": "to bite"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "фитІинун"
-        }
+        "plain": "фитІинун"
       }
     ],
-    "translation": "to suck"
+    "uses": [
+      {
+        "meaning": "to suck"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "цуькӏуьнун"
-        }
+        "plain": "цуькӏуьнун"
       }
     ],
-    "translation": "to spit"
+    "uses": [
+      {
+        "meaning": "to spit"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "экъуьшун"
-        }
+        "plain": "экъуьшун"
       }
     ],
-    "translation": "to vomit"
+    "uses": [
+      {
+        "meaning": "to vomit"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "уф гун"
-        }
+        "plain": "уф гун"
       }
     ],
-    "translation": "to blow"
+    "uses": [
+      {
+        "meaning": "to blow"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "нефес чӏугун"
-        }
+        "plain": "нефес чӏугун"
       }
     ],
-    "translation": "to breathe"
+    "uses": [
+      {
+        "meaning": "to breathe"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "хъуьруьн"
-        }
+        "plain": "хъуьруьн"
       }
     ],
-    "translation": "to laugh"
+    "uses": [
+      {
+        "meaning": "to laugh"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "акун"
-        }
+        "plain": "акун"
       }
     ],
-    "translation": "to see"
+    "uses": [
+      {
+        "meaning": "to see"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "яб гун"
-        }
+        "plain": "яб гун"
       }
     ],
-    "translation": "to hear"
+    "uses": [
+      {
+        "meaning": "to hear"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "чирхьун"
-        }
+        "plain": "чирхьун"
       }
     ],
-    "translation": "to know"
+    "uses": [
+      {
+        "meaning": "to know"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "фикирун"
-        }
+        "plain": "фикирун"
       }
     ],
-    "translation": "to think"
+    "uses": [
+      {
+        "meaning": "to think"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кьатӏун"
-        }
+        "plain": "кьатӏун"
       }
     ],
-    "translation": "to smell"
+    "uses": [
+      {
+        "meaning": "to smell"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кичӏе хьун"
-        }
+        "plain": "кичӏе хьун"
       }
     ],
-    "translation": "to fear"
+    "uses": [
+      {
+        "meaning": "to fear"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "ксун"
-        }
+        "plain": "ксун"
       }
     ],
-    "translation": "to sleep"
+    "uses": [
+      {
+        "meaning": "to sleep"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "уьмуьр тухун"
-        }
+        "plain": "уьмуьр тухун"
       }
     ],
-    "translation": "to live"
+    "uses": [
+      {
+        "meaning": "to live"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "рикьин"
-        }
+        "plain": "рикьин"
       }
     ],
-    "translation": "to die"
+    "uses": [
+      {
+        "meaning": "to die"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "рикьин"
-        }
+        "plain": "рикьин"
       }
     ],
-    "translation": "to kill"
+    "uses": [
+      {
+        "meaning": "to kill"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кукІун"
-        }
+        "plain": "кукІун"
       }
     ],
-    "translation": "to fight"
+    "uses": [
+      {
+        "meaning": "to fight"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "гъуьрч авун"
-        }
+        "plain": "гъуьрч авун"
       }
     ],
-    "translation": "to hunt"
+    "uses": [
+      {
+        "meaning": "to hunt"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "ягъун"
-        }
+        "plain": "ягъун"
       }
     ],
-    "translation": "to hit"
+    "uses": [
+      {
+        "meaning": "to hit"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "атӏун"
-        }
+        "plain": "атӏун"
       }
     ],
-    "translation": "to cut"
+    "uses": [
+      {
+        "meaning": "to cut"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "гукӏварун"
-        }
+        "plain": "гукӏварун"
       }
     ],
-    "translation": "to split"
+    "uses": [
+      {
+        "meaning": "to split"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "сухун"
-        }
+        "plain": "сухун"
       }
     ],
-    "translation": "to stab"
+    "uses": [
+      {
+        "meaning": "to stab"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "цӏархун"
-        }
+        "plain": "цӏархун"
       }
     ],
-    "translation": "to scratch"
+    "uses": [
+      {
+        "meaning": "to scratch"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "эгъуьнун"
-        }
+        "plain": "эгъуьнун"
       }
     ],
-    "translation": "to dig"
+    "uses": [
+      {
+        "meaning": "to dig"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "чуьхуьн"
-        }
+        "plain": "чуьхуьн"
       }
     ],
-    "translation": "to swim"
+    "uses": [
+      {
+        "meaning": "to swim"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "лув гун"
-        }
+        "plain": "лув гун"
       }
     ],
-    "translation": "to fly"
+    "uses": [
+      {
+        "meaning": "to fly"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "къекъуьн"
-        }
+        "plain": "къекъуьн"
       }
     ],
-    "translation": "to walk"
+    "uses": [
+      {
+        "meaning": "to walk"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "атун"
-        }
+        "plain": "атун"
       }
     ],
-    "translation": "to come"
+    "uses": [
+      {
+        "meaning": "to come"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "якъалтун"
-        }
+        "plain": "якъалтун"
       }
     ],
-    "translation": "to lie"
+    "uses": [
+      {
+        "meaning": "to lie"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "ацукьун"
-        }
+        "plain": "ацукьун"
       }
     ],
-    "translation": "to sit"
+    "uses": [
+      {
+        "meaning": "to sit"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "акъвазун"
-        }
+        "plain": "акъвазун"
       }
     ],
-    "translation": "to stand"
+    "uses": [
+      {
+        "meaning": "to stand"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "элкъуьрун"
-        }
+        "plain": "элкъуьрун"
       }
     ],
-    "translation": "to turn"
+    "uses": [
+      {
+        "meaning": "to turn"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "гун"
-        }
+        "plain": "гун"
       }
     ],
-    "translation": "to fall"
+    "uses": [
+      {
+        "meaning": "to fall"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "гун"
-        }
+        "plain": "гун"
       }
     ],
-    "translation": "to give"
+    "uses": [
+      {
+        "meaning": "to give"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кьун"
-        }
+        "plain": "кьун"
       }
     ],
-    "translation": "to hold"
+    "uses": [
+      {
+        "meaning": "to hold"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "чуькьуьн"
-        }
+        "plain": "чуькьуьн"
       }
     ],
-    "translation": "to squeeze"
+    "uses": [
+      {
+        "meaning": "to squeeze"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "гуьцӏун"
-        }
+        "plain": "гуьцӏун"
       }
     ],
-    "translation": "to rub"
+    "uses": [
+      {
+        "meaning": "to rub"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "чуьхуьн"
-        }
+        "plain": "чуьхуьн"
       }
     ],
-    "translation": "to wash"
+    "uses": [
+      {
+        "meaning": "to wash"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "михьиун"
-        }
+        "plain": "михьиун"
       }
     ],
-    "translation": "to wipe"
+    "uses": [
+      {
+        "meaning": "to wipe"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "ялун"
-        }
+        "plain": "ялун"
       }
     ],
-    "translation": "to pull"
+    "uses": [
+      {
+        "meaning": "to pull"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "эцягъун"
-        }
+        "plain": "эцягъун"
       }
     ],
-    "translation": "to push"
+    "uses": [
+      {
+        "meaning": "to push"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кадрун"
-        }
+        "plain": "кадрун"
       }
     ],
-    "translation": "to throw"
+    "uses": [
+      {
+        "meaning": "to throw"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кутӏун"
-        }
+        "plain": "кутӏун"
       }
     ],
-    "translation": "to tie"
+    "uses": [
+      {
+        "meaning": "to tie"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "цун"
-        }
+        "plain": "цун"
       }
     ],
-    "translation": "to sew"
+    "uses": [
+      {
+        "meaning": "to sew"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "гьисабун"
-        }
+        "plain": "гьисабун"
       }
     ],
-    "translation": "to count"
+    "uses": [
+      {
+        "meaning": "to count"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "рахун"
-        }
+        "plain": "рахун"
       }
     ],
-    "translation": "to say"
+    "uses": [
+      {
+        "meaning": "to say"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "лугьунар ягъун"
-        }
+        "plain": "лугьунар ягъун"
       }
     ],
-    "translation": "to sing"
+    "uses": [
+      {
+        "meaning": "to sing"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "къугъун"
-        }
+        "plain": "къугъун"
       }
     ],
-    "translation": "to play"
+    "uses": [
+      {
+        "meaning": "to play"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "сирнавун"
-        }
+        "plain": "сирнавун"
       }
     ],
-    "translation": "to float"
+    "uses": [
+      {
+        "meaning": "to float"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кӏвахьун"
-        }
+        "plain": "кӏвахьун"
       }
     ],
-    "translation": "to flow"
+    "uses": [
+      {
+        "meaning": "to flow"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "муркӏад кьун"
-        }
+        "plain": "муркӏад кьун"
       }
     ],
-    "translation": "to freeze"
+    "uses": [
+      {
+        "meaning": "to freeze"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "дакӏун"
-        }
+        "plain": "дакӏун"
       }
     ],
-    "translation": "to swell"
+    "uses": [
+      {
+        "meaning": "to swell"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "рагъ"
-        }
+        "plain": "рагъ"
       }
     ],
-    "translation": "sun"
+    "uses": [
+      {
+        "meaning": "sun"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "варз"
-        }
+        "plain": "варз"
       }
     ],
-    "translation": "moon"
+    "uses": [
+      {
+        "meaning": "moon"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "гъед"
-        }
+        "plain": "гъед"
       }
     ],
-    "translation": "star"
+    "uses": [
+      {
+        "meaning": "star"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "яд"
-        }
+        "plain": "яд"
       }
     ],
-    "translation": "water"
+    "uses": [
+      {
+        "meaning": "water"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "марф"
-        }
+        "plain": "марф"
       }
     ],
-    "translation": "rain"
+    "uses": [
+      {
+        "meaning": "rain"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "вацӏ"
-        }
+        "plain": "вацӏ"
       }
     ],
-    "translation": "river"
+    "uses": [
+      {
+        "meaning": "river"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "вир"
-        }
+        "plain": "вир"
       }
     ],
-    "translation": "lake"
+    "uses": [
+      {
+        "meaning": "lake"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "гьуьл"
-        }
+        "plain": "гьуьл"
       }
     ],
-    "translation": "sea"
+    "uses": [
+      {
+        "meaning": "sea"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кьел"
-        }
+        "plain": "кьел"
       }
     ],
-    "translation": "salt"
+    "uses": [
+      {
+        "meaning": "salt"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "къван"
-        }
+        "plain": "къван"
       }
     ],
-    "translation": "stone"
+    "uses": [
+      {
+        "meaning": "stone"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "къум"
-        }
+        "plain": "къум"
       }
     ],
-    "translation": "sand"
+    "uses": [
+      {
+        "meaning": "sand"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "руг"
-        }
+        "plain": "руг"
       }
     ],
-    "translation": "dust"
+    "uses": [
+      {
+        "meaning": "dust"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "чил"
-        }
+        "plain": "чил"
       }
     ],
-    "translation": "earth"
+    "uses": [
+      {
+        "meaning": "earth"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "циф"
-        }
+        "plain": "циф"
       }
     ],
-    "translation": "cloud"
+    "uses": [
+      {
+        "meaning": "cloud"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "чилин циф"
-        }
+        "plain": "чилин циф"
       }
     ],
-    "translation": "fog"
+    "uses": [
+      {
+        "meaning": "fog"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "цав"
-        }
+        "plain": "цав"
       }
     ],
-    "translation": "sky"
+    "uses": [
+      {
+        "meaning": "sky"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "гар"
-        }
+        "plain": "гар"
       }
     ],
-    "translation": "wind"
+    "uses": [
+      {
+        "meaning": "wind"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "жив"
-        }
+        "plain": "жив"
       }
     ],
-    "translation": "snow"
+    "uses": [
+      {
+        "meaning": "snow"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "муркӏ"
-        }
+        "plain": "муркӏ"
       }
     ],
-    "translation": "ice"
+    "uses": [
+      {
+        "meaning": "ice"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "гум"
-        }
+        "plain": "гум"
       }
     ],
-    "translation": "smoke"
+    "uses": [
+      {
+        "meaning": "smoke"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "цӏай"
-        }
+        "plain": "цӏай"
       }
     ],
-    "translation": "fire"
+    "uses": [
+      {
+        "meaning": "fire"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "руьхъ"
-        }
+        "plain": "руьхъ"
       }
     ],
-    "translation": "ash"
+    "uses": [
+      {
+        "meaning": "ash"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кун"
-        }
+        "plain": "кун"
       }
     ],
-    "translation": "to burn"
+    "uses": [
+      {
+        "meaning": "to burn"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "рехъ"
-        }
+        "plain": "рехъ"
       }
     ],
-    "translation": "road"
+    "uses": [
+      {
+        "meaning": "road"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "сув"
-        }
+        "plain": "сув"
       }
     ],
-    "translation": "mountain"
+    "uses": [
+      {
+        "meaning": "mountain"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "яру"
-        }
+        "plain": "яру"
       }
     ],
-    "translation": "red",
-    "tags": "color"
+    "tags": "color",
+    "uses": [
+      {
+        "meaning": "red",
+        "tags": [
+          "color"
+        ]
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "къацу"
-        }
+        "plain": "къацу"
       }
     ],
-    "translation": "green",
-    "tags": "color"
+    "tags": "color",
+    "uses": [
+      {
+        "meaning": "green",
+        "tags": [
+          "color"
+        ]
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "хъпи"
-        }
+        "plain": "хъпи"
       }
     ],
-    "translation": "yellow",
-    "tags": "color"
+    "tags": "color",
+    "uses": [
+      {
+        "meaning": "yellow",
+        "tags": [
+          "color"
+        ]
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "лацу"
-        }
+        "plain": "лацу"
       }
     ],
-    "translation": "white",
-    "tags": "color"
+    "tags": "color",
+    "uses": [
+      {
+        "meaning": "white",
+        "tags": [
+          "color"
+        ]
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "чӏулав"
-        }
+        "plain": "чӏулав"
       }
     ],
-    "translation": "black",
-    "tags": "color"
+    "tags": "color",
+    "uses": [
+      {
+        "meaning": "black",
+        "tags": [
+          "color"
+        ]
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "йиф"
-        }
+        "plain": "йиф"
       }
     ],
-    "translation": "night"
+    "uses": [
+      {
+        "meaning": "night"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "югъ"
-        }
+        "plain": "югъ"
       }
     ],
-    "translation": "day"
+    "uses": [
+      {
+        "meaning": "day"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "йис"
-        }
+        "plain": "йис"
       }
     ],
-    "translation": "year"
+    "uses": [
+      {
+        "meaning": "year"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "чими"
-        }
+        "plain": "чими"
       }
     ],
-    "translation": "warm"
+    "uses": [
+      {
+        "meaning": "warm"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "къай"
-        }
+        "plain": "къай"
       }
     ],
-    "translation": "cold"
+    "uses": [
+      {
+        "meaning": "cold"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "ацӏай"
-        }
+        "plain": "ацӏай"
       }
     ],
-    "translation": "full"
+    "uses": [
+      {
+        "meaning": "full"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "цӏийи"
-        }
+        "plain": "цӏийи"
       }
     ],
-    "translation": "new"
+    "uses": [
+      {
+        "meaning": "new"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "цӏуру"
-        }
+        "plain": "цӏуру"
       }
     ],
-    "translation": "old"
+    "uses": [
+      {
+        "meaning": "old"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "хъсан"
-        }
+        "plain": "хъсан"
       }
     ],
-    "translation": "good"
+    "uses": [
+      {
+        "meaning": "good"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кьейи"
-        }
+        "plain": "кьейи"
       }
     ],
-    "translation": "bad"
+    "uses": [
+      {
+        "meaning": "bad"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "ктӏай"
-        }
+        "plain": "ктӏай"
       }
     ],
-    "translation": "rotten"
+    "uses": [
+      {
+        "meaning": "rotten"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кьацӏай"
-        }
+        "plain": "кьацӏай"
       }
     ],
-    "translation": "dirty"
+    "uses": [
+      {
+        "meaning": "dirty"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "къени"
-        }
+        "plain": "къени"
       }
     ],
-    "translation": "straight"
+    "uses": [
+      {
+        "meaning": "straight"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "элкъвей"
-        }
+        "plain": "элкъвей"
       }
     ],
-    "translation": "round"
+    "uses": [
+      {
+        "meaning": "round"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "хци"
-        }
+        "plain": "хци"
       }
     ],
-    "translation": "sharp"
+    "uses": [
+      {
+        "meaning": "sharp"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "къуьруь"
-        }
+        "plain": "къуьруь"
       }
     ],
-    "translation": "dull"
+    "uses": [
+      {
+        "meaning": "dull"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "цӏалцӏам"
-        }
+        "plain": "цӏалцӏам"
       }
     ],
-    "translation": "smooth"
+    "uses": [
+      {
+        "meaning": "smooth"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кьешей"
-        }
+        "plain": "кьешей"
       }
     ],
-    "translation": "wet"
+    "uses": [
+      {
+        "meaning": "wet"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кьурай"
-        }
+        "plain": "кьурай"
       }
     ],
-    "translation": "dry"
+    "uses": [
+      {
+        "meaning": "dry"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "къени"
-        }
+        "plain": "къени"
       }
     ],
-    "translation": "correct"
+    "uses": [
+      {
+        "meaning": "correct"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "мукьва"
-        }
+        "plain": "мукьва"
       }
     ],
-    "translation": "near"
+    "uses": [
+      {
+        "meaning": "near"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "яргъа"
-        }
+        "plain": "яргъа"
       }
     ],
-    "translation": "far"
+    "uses": [
+      {
+        "meaning": "far"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "къени"
-        }
+        "plain": "къени"
       }
     ],
-    "translation": "right"
+    "uses": [
+      {
+        "meaning": "right"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "чӏуру"
-        }
+        "plain": "чӏуру"
       }
     ],
-    "translation": "left"
+    "uses": [
+      {
+        "meaning": "left"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "-аг"
-        }
+        "plain": "-аг"
       }
     ],
-    "translation": "at"
+    "uses": [
+      {
+        "meaning": "at"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "-да"
-        }
+        "plain": "-да"
       }
     ],
-    "translation": "in"
+    "uses": [
+      {
+        "meaning": "in"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "галаз"
-        }
+        "plain": "галаз"
       }
     ],
-    "translation": "with"
+    "uses": [
+      {
+        "meaning": "with"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "-ни"
-        }
+        "plain": "-ни"
       }
     ],
-    "translation": "and"
+    "uses": [
+      {
+        "meaning": "and"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "-тӏа"
-        }
+        "plain": "-тӏа"
       }
     ],
-    "translation": "if"
+    "uses": [
+      {
+        "meaning": "if"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "вучиз лагьайтӏа"
-        }
+        "plain": "вучиз лагьайтӏа"
       }
     ],
-    "translation": "because"
+    "uses": [
+      {
+        "meaning": "because"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "тӏвар"
-        }
+        "plain": "тӏвар"
       }
     ],
-    "translation": "name"
+    "uses": [
+      {
+        "meaning": "name"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "фин"
-        }
+        "plain": "фин"
       }
     ],
-    "translation": "to go"
+    "uses": [
+      {
+        "meaning": "to go"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "авун"
-        }
+        "plain": "авун"
       }
     ],
-    "translation": "to do"
+    "uses": [
+      {
+        "meaning": "to do"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кӏвал"
-        }
+        "plain": "кӏвал"
       }
     ],
-    "translation": "House"
+    "uses": [
+      {
+        "meaning": "House"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "ам"
-        }
+        "plain": "ам"
       }
     ],
-    "translation": "it"
+    "uses": [
+      {
+        "meaning": "it"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "пицӏ"
-        }
+        "plain": "пицӏ"
       }
     ],
-    "translation": "navel"
+    "uses": [
+      {
+        "meaning": "navel"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кӏеви хьун"
-        }
+        "plain": "кӏеви хьун"
       }
     ],
-    "translation": "to hide"
+    "uses": [
+      {
+        "meaning": "to hide"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "тухун"
-        }
+        "plain": "тухун"
       }
     ],
-    "translation": "to carry"
+    "uses": [
+      {
+        "meaning": "to carry"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "цегв"
-        }
+        "plain": "цегв"
       }
     ],
-    "translation": "ant"
+    "uses": [
+      {
+        "meaning": "ant"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кьабулун"
-        }
+        "plain": "кьабулун"
       }
     ],
-    "translation": "to take"
+    "uses": [
+      {
+        "meaning": "to take"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "ятур"
-        }
+        "plain": "ятур"
       }
     ],
-    "translation": "thigh"
+    "uses": [
+      {
+        "meaning": "thigh"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кӏарас"
-        }
+        "plain": "кӏарас"
       }
     ],
-    "translation": "wood"
+    "uses": [
+      {
+        "meaning": "wood"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "катун"
-        }
+        "plain": "катун"
       }
     ],
-    "translation": "to run"
+    "uses": [
+      {
+        "meaning": "to run"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кӏани"
-        }
+        "plain": "кӏани"
       }
     ],
-    "translation": "sweet"
+    "uses": [
+      {
+        "meaning": "sweet"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "хъен"
-        }
+        "plain": "хъен"
       }
     ],
-    "translation": "shadow"
+    "uses": [
+      {
+        "meaning": "shadow"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "кӏеви"
-        }
+        "plain": "кӏеви"
       }
     ],
-    "translation": "hard"
+    "uses": [
+      {
+        "meaning": "hard"
+      }
+    ]
   },
   {
     "forms": [
       {
-        "text": {
-          "plain": "куьлуь авун"
-        }
+        "plain": "куьлуь авун"
       }
     ],
-    "translation": "to crush"
+    "uses": [
+      {
+        "meaning": "to crush"
+      }
+    ]
   }
 ]
