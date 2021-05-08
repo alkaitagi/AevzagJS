@@ -1,615 +1,615 @@
 [
-    {
-        "phoneme": "a",
-        "samples": [
-            {
-                "grapheme": "a",
-                "word": "ах'еф",
-                "ipa": "aχˀef"
-            }
-        ]
-    },
-    {
-        "phoneme": "y",
-        "samples": [
-            {
-                "grapheme": "уь",
-                "word": "уьлкве",
-                "ipa": "ylkʰʷe"
-            }
-        ]
-    },
-    {
-        "phoneme": "e",
-        "samples": [
-            {
-                "grapheme": "е",
-                "word": "гьел",
-                "ipa": "hel"
-            }
-        ],
-        "notes": [
-            "Word-initial or post-vowel *е* is pronounces as /je/."
-        ]
-    },
-    {
-        "phoneme": "u",
-        "samples": [
-            {
-                "grapheme": "у",
-                "word": "угвас",
-                "ipa": "uɡʷas"
-            }
-        ]
-    },
-    {
-        "phoneme": "i",
-        "samples": [
-            {
-                "grapheme": "и",
-                "word": "иркк",
-                "ipa": "irk"
-            }
-        ]
-    },
-    {
-        "phoneme": "b",
-        "samples": [
-            {
-                "grapheme": "б",
-                "word": "бав",
-                "ipa": "baw"
-            }
-        ]
-    },
-    {
-        "phoneme": "bˤ",
-        "samples": [
-            {
-                "grapheme": "б'",
-                "word": "б'амбег",
-                "ipa": "bˁambeɡ"
-            }
-        ]
-    },
-    {
-        "phoneme": "pʰ",
-        "samples": [
-            {
-                "grapheme": "п",
-                "word": "пас",
-                "ipa": "pʰas"
-            }
-        ]
-    },
-    {
-        "phoneme": "p",
-        "samples": [
-            {
-                "grapheme": "пп",
-                "word": "ппек",
-                "ipa": "pekʰ"
-            }
-        ]
-    },
-    {
-        "phoneme": "pʼ",
-        "samples": [
-            {
-                "grapheme": "пӏ",
-                "word": "пӏуз",
-                "ipa": "pʼuz"
-            }
-        ]
-    },
-    {
-        "phoneme": "pʼˤ",
-        "samples": [
-            {
-                "grapheme": "пӏ'",
-                "word": "пӏ'аш",
-                "ipa": "pʼˁaʃ"
-            }
-        ]
-    },
-    {
-        "phoneme": "m",
-        "samples": [
-            {
-                "grapheme": "м",
-                "word": "мурт",
-                "ipa": "murtʰ"
-            }
-        ]
-    },
-    {
-        "phoneme": "mˤ",
-        "samples": [
-            {
-                "grapheme": "м'",
-                "word": "м'арттеф",
-                "ipa": "mˁartef"
-            }
-        ]
-    },
-    {
-        "phoneme": "d",
-        "samples": [
-            {
-                "grapheme": "д",
-                "word": "дад",
-                "ipa": "dad"
-            }
-        ]
-    },
-    {
-        "phoneme": "tʰ",
-        "samples": [
-            {
-                "grapheme": "т",
-                "word": "туп",
-                "ipa": "tʰupʰ"
-            }
-        ]
-    },
-    {
-        "phoneme": "t",
-        "samples": [
-            {
-                "grapheme": "тт",
-                "word": "ттур",
-                "ipa": "tur"
-            }
-        ]
-    },
-    {
-        "phoneme": "tʼ",
-        "samples": [
-            {
-                "grapheme": "тӏ",
-                "word": "тӏуб",
-                "ipa": "tʼub"
-            }
-        ]
-    },
-    {
-        "phoneme": "n",
-        "samples": [
-            {
-                "grapheme": "н",
-                "word": "найич",
-                "ipa": "najit͡ʃ"
-            }
-        ]
-    },
-    {
-        "phoneme": "r",
-        "samples": [
-            {
-                "grapheme": "р",
-                "word": "рукь",
-                "ipa": "ruqʼ"
-            }
-        ]
-    },
-    {
-        "phoneme": "t͡sʰ",
-        "samples": [
-            {
-                "grapheme": "ц",
-                "word": "цил",
-                "ipa": "t͡sʰil"
-            }
-        ]
-    },
-    {
-        "phoneme": "t͡ʃʰ",
-        "samples": [
-            {
-                "grapheme": "ч",
-                "word": "чал",
-                "ipa": "t͡ʃʰal"
-            }
-        ]
-    },
-    {
-        "phoneme": "t͡s",
-        "samples": [
-            {
-                "grapheme": "цц",
-                "word": "ццам",
-                "ipa": "t͡sam"
-            }
-        ]
-    },
-    {
-        "phoneme": "t͡ʃ",
-        "samples": [
-            {
-                "grapheme": "чч",
-                "word": "ччам",
-                "ipa": "t͡ʃam"
-            }
-        ]
-    },
-    {
-        "phoneme": "z",
-        "samples": [
-            {
-                "grapheme": "з",
-                "word": "зун",
-                "ipa": "zun"
-            }
-        ]
-    },
-    {
-        "phoneme": "ʒ",
-        "samples": [
-            {
-                "grapheme": "ж",
-                "word": "жан",
-                "ipa": "ʒan"
-            }
-        ]
-    },
-    {
-        "phoneme": "s",
-        "samples": [
-            {
-                "grapheme": "с",
-                "word": "сур",
-                "ipa": "sur"
-            }
-        ]
-    },
-    {
-        "phoneme": "ʃ",
-        "samples": [
-            {
-                "grapheme": "ш",
-                "word": "шиниккв",
-                "ipa": "ʃinikʷ"
-            }
-        ]
-    },
-    {
-        "phoneme": "l",
-        "samples": [
-            {
-                "grapheme": "л",
-                "word": "лукӏ",
-                "ipa": "lukʼ"
-            }
-        ]
-    },
-    {
-        "phoneme": "ɡ",
-        "samples": [
-            {
-                "grapheme": "г",
-                "word": "гуни",
-                "ipa": "ɡuni"
-            }
-        ]
-    },
-    {
-        "phoneme": "kʰ",
-        "samples": [
-            {
-                "grapheme": "к",
-                "word": "кан",
-                "ipa": "kʰan"
-            }
-        ]
-    },
-    {
-        "phoneme": "k",
-        "samples": [
-            {
-                "grapheme": "кк",
-                "word": "ккул",
-                "ipa": "kul"
-            }
-        ]
-    },
-    {
-        "phoneme": "kʰʷ",
-        "samples": [
-            {
-                "grapheme": "кв",
-                "word": "гӏакв",
-                "ipa": "ʕakʰʷ"
-            }
-        ]
-    },
-    {
-        "phoneme": "kʷ",
-        "samples": [
-            {
-                "grapheme": "ккв",
-                "word": "кквар",
-                "ipa": "kʷar"
-            }
-        ]
-    },
-    {
-        "phoneme": "kʼ",
-        "samples": [
-            {
-                "grapheme": "кӏ",
-                "word": "кӏарч",
-                "ipa": "kʼart͡ʃʰ"
-            }
-        ]
-    },
-    {
-        "phoneme": "kʼʷ",
-        "samples": [
-            {
-                "grapheme": "кӏв",
-                "word": "кӏват",
-                "ipa": "kʼʷatʰ"
-            }
-        ]
-    },
-    {
-        "phoneme": "χ",
-        "samples": [
-            {
-                "grapheme": "х",
-                "word": "хутӏ",
-                "ipa": "χutʼ"
-            }
-        ]
-    },
-    {
-        "phoneme": "χʷ",
-        "samples": [
-            {
-                "grapheme": "хв",
-                "word": "сахв",
-                "ipa": "saχʷ"
-            }
-        ]
-    },
-    {
-        "phoneme": "x",
-        "samples": [
-            {
-                "grapheme": "хь",
-                "word": "хьир",
-                "ipa": "xir"
-            }
-        ]
-    },
-    {
-        "phoneme": "w",
-        "samples": [
-            {
-                "grapheme": "в",
-                "word": "вартт",
-                "ipa": "wart"
-            }
-        ]
-    },
-    {
-        "phoneme": "wˤ",
-        "samples": [
-            {
-                "ipa": "wˤas",
-                "grapheme": "в'",
-                "word": "в'ас"
-            }
-        ]
-    },
-    {
-        "phoneme": "j",
-        "samples": [
-            {
-                "grapheme": "й",
-                "word": "йикӏ",
-                "ipa": "jikʼ"
-            }
-        ]
-    },
-    {
-        "phoneme": "qʰ",
-        "samples": [
-            {
-                "grapheme": "хъ",
-                "word": "хъара",
-                "ipa": "qʰara"
-            }
-        ]
-    },
-    {
-        "phoneme": "qʰˤ",
-        "samples": [
-            {
-                "grapheme": "хъ'",
-                "word": "хъ'ард",
-                "ipa": "qʰˤard"
-            }
-        ]
-    },
-    {
-        "phoneme": "qʰˤʷ",
-        "samples": [
-            {
-                "ipa": "qʰˤʷaqʰˤʷ",
-                "grapheme": "хъ'в",
-                "word": "хъ'вахъ'в"
-            }
-        ]
-    },
-    {
-        "phoneme": "q",
-        "samples": [
-            {
-                "grapheme": "къ",
-                "word": "къал",
-                "ipa": "qal"
-            }
-        ]
-    },
-    {
-        "phoneme": "qˤ",
-        "samples": [
-            {
-                "grapheme": "къ'",
-                "word": "къ'аракъ'ал",
-                "ipa": "qˤaraqˤal"
-            }
-        ]
-    },
-    {
-        "phoneme": "qʼ",
-        "samples": [
-            {
-                "grapheme": "кь",
-                "word": "кьал",
-                "ipa": "qʼal"
-            }
-        ]
-    },
-    {
-        "phoneme": "qʼˁ",
-        "samples": [
-            {
-                "grapheme": "кь'",
-                "word": "кь'ал",
-                "ipa": "qʼˁal"
-            }
-        ]
-    },
-    {
-        "phoneme": "ʁ",
-        "samples": [
-            {
-                "grapheme": "гъ",
-                "word": "гъад",
-                "ipa": "ʁad"
-            }
-        ]
-    },
-    {
-        "phoneme": "ʁʷ",
-        "samples": [
-            {
-                "grapheme": "гъв",
-                "word": "гъвад",
-                "ipa": "ʁʷad"
-            }
-        ]
-    },
-    {
-        "phoneme": "ʁˤ",
-        "samples": [
-            {
-                "grapheme": "гъ'",
-                "word": "гъ'аб",
-                "ipa": "ʁˤab"
-            }
-        ]
-    },
-    {
-        "phoneme": "χˤ",
-        "samples": [
-            {
-                "grapheme": "х'",
-                "word": "х'ад",
-                "ipa": "χˤad"
-            }
-        ]
-    },
-    {
-        "phoneme": "χˤʷ",
-        "samples": [
-            {
-                "ipa": "raχˤʷ",
-                "grapheme": "х'в",
-                "word": "рах'в"
-            }
-        ]
-    },
-    {
-        "phoneme": "t͡ʃʼ",
-        "samples": [
-            {
-                "grapheme": "чӏ",
-                "word": "чӏал",
-                "ipa": "t͡ʃʼal"
-            }
-        ]
-    },
-    {
-        "phoneme": "t͡sʼ",
-        "samples": [
-            {
-                "grapheme": "цӏ",
-                "word": "цӏай",
-                "ipa": "t͡sʼaj"
-            }
-        ]
-    },
-    {
-        "phoneme": "ʔ",
-        "samples": [
-            {
-                "grapheme": "ъ",
-                "word": "ваъ",
-                "ipa": "waʔ"
-            }
-        ]
-    },
-    {
-        "phoneme": "ʕ",
-        "samples": [
-            {
-                "grapheme": "гӏ",
-                "word": "гӏамкӏ",
-                "ipa": "ʕamkʼ"
-            }
-        ]
-    },
-    {
-        "phoneme": "uˤ",
-        "samples": [
-            {
-                "grapheme": "у'",
-                "word": "у'фуд",
-                "ipa": "uˤfud"
-            }
-        ]
-    },
-    {
-        "phoneme": "h",
-        "samples": [
-            {
-                "grapheme": "гь",
-                "word": "гьихьас",
-                "ipa": "hixas"
-            }
-        ]
-    },
-    {
-        "phoneme": "ħ",
-        "samples": [
-            {
-                "grapheme": "хӏ",
-                "word": "хӏал",
-                "ipa": "ħal"
-            }
-        ]
-    },
-    {
-        "phoneme": "f",
-        "samples": [
-            {
-                "grapheme": "ф",
-                "word": "фи",
-                "ipa": "fi"
-            }
-        ]
-    }
+  {
+    "phoneme": "a",
+    "samples": [
+      {
+        "grapheme": "a",
+        "word": "axíef",
+        "ipa": "aˈχˀef"
+      }
+    ]
+  },
+  {
+    "phoneme": "y",
+    "samples": [
+      {
+        "grapheme": "ú",
+        "word": "ústt",
+        "ipa": "ystː"
+      }
+    ]
+  },
+  {
+    "phoneme": "e",
+    "samples": [
+      {
+        "grapheme": "e",
+        "word": "hel",
+        "ipa": "hel"
+      }
+    ],
+    "notes": [
+      ""
+    ]
+  },
+  {
+    "phoneme": "u",
+    "samples": [
+      {
+        "grapheme": "u",
+        "word": "ugvas",
+        "ipa": "uɡʷˈas"
+      }
+    ]
+  },
+  {
+    "phoneme": "i",
+    "samples": [
+      {
+        "grapheme": "i",
+        "word": "irk",
+        "ipa": "irkʰ"
+      }
+    ]
+  },
+  {
+    "phoneme": "b",
+    "samples": [
+      {
+        "grapheme": "b",
+        "word": "bav",
+        "ipa": "baw"
+      }
+    ]
+  },
+  {
+    "phoneme": "bˤ",
+    "samples": [
+      {
+        "grapheme": "bí",
+        "word": "bíambeg",
+        "ipa": "bˁamˈbeɡ"
+      }
+    ]
+  },
+  {
+    "phoneme": "pʰ",
+    "samples": [
+      {
+        "grapheme": "p",
+        "word": "purc'",
+        "ipa": "pʰurcʼ"
+      }
+    ]
+  },
+  {
+    "phoneme": "p",
+    "samples": [
+      {
+        "grapheme": "pp",
+        "word": "ppek",
+        "ipa": "pekʰ"
+      }
+    ]
+  },
+  {
+    "phoneme": "pʼ",
+    "samples": [
+      {
+        "grapheme": "p'",
+        "word": "p'uz",
+        "ipa": "pʼuz"
+      }
+    ]
+  },
+  {
+    "phoneme": "pʼˤ",
+    "samples": [
+      {
+        "grapheme": "p'í",
+        "word": "p'íaš",
+        "ipa": "pʼˁaʃ"
+      }
+    ]
+  },
+  {
+    "phoneme": "m",
+    "samples": [
+      {
+        "grapheme": "m",
+        "word": "murt",
+        "ipa": "murtʰ"
+      }
+    ]
+  },
+  {
+    "phoneme": "mˤ",
+    "samples": [
+      {
+        "grapheme": "mí",
+        "word": "míarttef",
+        "ipa": "mˁarˈtef"
+      }
+    ]
+  },
+  {
+    "phoneme": "d",
+    "samples": [
+      {
+        "grapheme": "d",
+        "word": "dad",
+        "ipa": "dad"
+      }
+    ]
+  },
+  {
+    "phoneme": "tʰ",
+    "samples": [
+      {
+        "grapheme": "t",
+        "word": "tuk",
+        "ipa": "tʰukʰ"
+      }
+    ]
+  },
+  {
+    "phoneme": "t",
+    "samples": [
+      {
+        "grapheme": "tt",
+        "word": "ttur",
+        "ipa": "tur"
+      }
+    ]
+  },
+  {
+    "phoneme": "tʼ",
+    "samples": [
+      {
+        "grapheme": "t'",
+        "word": "t'ub",
+        "ipa": "tʼub"
+      }
+    ]
+  },
+  {
+    "phoneme": "n",
+    "samples": [
+      {
+        "grapheme": "n",
+        "word": "najič",
+        "ipa": "najt͡ʃ"
+      }
+    ]
+  },
+  {
+    "phoneme": "r",
+    "samples": [
+      {
+        "grapheme": "r",
+        "word": "ruq'",
+        "ipa": "ruqʼ"
+      }
+    ]
+  },
+  {
+    "phoneme": "t͡sʰ",
+    "samples": [
+      {
+        "grapheme": "c",
+        "word": "cil",
+        "ipa": "t͡sʰil"
+      }
+    ]
+  },
+  {
+    "phoneme": "t͡ʃʰ",
+    "samples": [
+      {
+        "grapheme": "č",
+        "word": "čal",
+        "ipa": "t͡ʃʰal"
+      }
+    ]
+  },
+  {
+    "phoneme": "t͡s",
+    "samples": [
+      {
+        "grapheme": "cc",
+        "word": "ccuğbuğaj",
+        "ipa": "t͡suʁˈbuʁaj"
+      }
+    ]
+  },
+  {
+    "phoneme": "t͡ʃ",
+    "samples": [
+      {
+        "grapheme": "čč",
+        "word": "ččam",
+        "ipa": "t͡ʃam"
+      }
+    ]
+  },
+  {
+    "phoneme": "z",
+    "samples": [
+      {
+        "grapheme": "z",
+        "word": "zun",
+        "ipa": "zun"
+      }
+    ]
+  },
+  {
+    "phoneme": "ʒ",
+    "samples": [
+      {
+        "grapheme": "ž",
+        "word": "žan",
+        "ipa": "ʒan"
+      }
+    ]
+  },
+  {
+    "phoneme": "s",
+    "samples": [
+      {
+        "grapheme": "s",
+        "word": "sur",
+        "ipa": "sur"
+      }
+    ]
+  },
+  {
+    "phoneme": "ʃ",
+    "samples": [
+      {
+        "grapheme": "š",
+        "word": "šinikkv",
+        "ipa": "ʃiˈnikʷ"
+      }
+    ]
+  },
+  {
+    "phoneme": "l",
+    "samples": [
+      {
+        "grapheme": "l",
+        "word": "luk'",
+        "ipa": "lukʼ"
+      }
+    ]
+  },
+  {
+    "phoneme": "ɡ",
+    "samples": [
+      {
+        "grapheme": "g",
+        "word": "guni",
+        "ipa": "ɡuˈni"
+      }
+    ]
+  },
+  {
+    "phoneme": "kʰ",
+    "samples": [
+      {
+        "grapheme": "k",
+        "word": "kan",
+        "ipa": "kʰan"
+      }
+    ]
+  },
+  {
+    "phoneme": "k",
+    "samples": [
+      {
+        "grapheme": "kk",
+        "word": "kkul",
+        "ipa": "kul"
+      }
+    ]
+  },
+  {
+    "phoneme": "kʰʷ",
+    "samples": [
+      {
+        "grapheme": "kv",
+        "word": "íakv",
+        "ipa": "ʕakʰʷ"
+      }
+    ]
+  },
+  {
+    "phoneme": "kʷ",
+    "samples": [
+      {
+        "grapheme": "kkv",
+        "word": "kkvar",
+        "ipa": "kʷar"
+      }
+    ]
+  },
+  {
+    "phoneme": "kʼ",
+    "samples": [
+      {
+        "grapheme": "k'",
+        "word": "k'arč",
+        "ipa": "kʼart͡ʃʰ"
+      }
+    ]
+  },
+  {
+    "phoneme": "kʼʷ",
+    "samples": [
+      {
+        "grapheme": "k'v",
+        "word": "k'vat",
+        "ipa": "kʼʷatʰ"
+      }
+    ]
+  },
+  {
+    "phoneme": "χ",
+    "samples": [
+      {
+        "grapheme": "x",
+        "word": "xut'",
+        "ipa": "χutʼ"
+      }
+    ]
+  },
+  {
+    "phoneme": "χʷ",
+    "samples": [
+      {
+        "grapheme": "xv",
+        "word": "saxv",
+        "ipa": "saχʷ"
+      }
+    ]
+  },
+  {
+    "phoneme": "x",
+    "samples": [
+      {
+        "grapheme": "xh",
+        "word": "xhir",
+        "ipa": "xir"
+      }
+    ]
+  },
+  {
+    "phoneme": "w",
+    "samples": [
+      {
+        "grapheme": "v",
+        "word": "vart",
+        "ipa": "wartʰ"
+      }
+    ]
+  },
+  {
+    "phoneme": "wˤ",
+    "samples": [
+      {
+        "ipa": "wˤas",
+        "grapheme": "ví",
+        "word": "vías"
+      }
+    ]
+  },
+  {
+    "phoneme": "j",
+    "samples": [
+      {
+        "grapheme": "k",
+        "word": "jik'",
+        "ipa": "jikʼ"
+      }
+    ]
+  },
+  {
+    "phoneme": "qʰ",
+    "samples": [
+      {
+        "grapheme": "q",
+        "word": "qaq'as",
+        "ipa": "ˈqʰaqʼas"
+      }
+    ]
+  },
+  {
+    "phoneme": "qʰˤ",
+    "samples": [
+      {
+        "grapheme": "qí",
+        "word": "raqí",
+        "ipa": "raqʰˤ"
+      }
+    ]
+  },
+  {
+    "phoneme": "qʰˤʷ",
+    "samples": [
+      {
+        "ipa": "qʰˤʷaqʰˤʷ",
+        "grapheme": "qív",
+        "word": "qívaqív"
+      }
+    ]
+  },
+  {
+    "phoneme": "q",
+    "samples": [
+      {
+        "grapheme": "qh",
+        "word": "qhal",
+        "ipa": "qal"
+      }
+    ]
+  },
+  {
+    "phoneme": "qˤ",
+    "samples": [
+      {
+        "grapheme": "qhí",
+        "word": "qhíaraqhíal",
+        "ipa": "qˤaˈraqˤal"
+      }
+    ]
+  },
+  {
+    "phoneme": "qʼ",
+    "samples": [
+      {
+        "grapheme": "q'",
+        "word": "q'al",
+        "ipa": "qʼal"
+      }
+    ]
+  },
+  {
+    "phoneme": "qʼˁ",
+    "samples": [
+      {
+        "grapheme": "q'í",
+        "word": "q'íal",
+        "ipa": "qʼˁal"
+      }
+    ]
+  },
+  {
+    "phoneme": "ʁ",
+    "samples": [
+      {
+        "grapheme": "ğ",
+        "word": "ğad",
+        "ipa": "ʁad"
+      }
+    ]
+  },
+  {
+    "phoneme": "ʁʷ",
+    "samples": [
+      {
+        "grapheme": "ğv",
+        "word": "ğvad",
+        "ipa": "ʁʷad"
+      }
+    ]
+  },
+  {
+    "phoneme": "ʁˤ",
+    "samples": [
+      {
+        "grapheme": "ğí",
+        "word": "ğíab",
+        "ipa": "ʁˤab"
+      }
+    ]
+  },
+  {
+    "phoneme": "χˤ",
+    "samples": [
+      {
+        "grapheme": "xí",
+        "word": "xíad",
+        "ipa": "χˤad"
+      }
+    ]
+  },
+  {
+    "phoneme": "χˤʷ",
+    "samples": [
+      {
+        "ipa": "raχˤʷ",
+        "grapheme": "xív",
+        "word": "raxív"
+      }
+    ]
+  },
+  {
+    "phoneme": "t͡ʃʼ",
+    "samples": [
+      {
+        "grapheme": "č'",
+        "word": "č'al",
+        "ipa": "t͡ʃʼal"
+      }
+    ]
+  },
+  {
+    "phoneme": "t͡sʼ",
+    "samples": [
+      {
+        "grapheme": "c'",
+        "word": "c'aj",
+        "ipa": "t͡sʼaj"
+      }
+    ]
+  },
+  {
+    "phoneme": "ʔ",
+    "samples": [
+      {
+        "grapheme": "'",
+        "word": "va'",
+        "ipa": "waʔ"
+      }
+    ]
+  },
+  {
+    "phoneme": "ʕ",
+    "samples": [
+      {
+        "grapheme": "í",
+        "word": "íamk'",
+        "ipa": "ʕamkʼ"
+      }
+    ]
+  },
+  {
+    "phoneme": "uˤ",
+    "samples": [
+      {
+        "grapheme": "íí",
+        "word": "ííufud",
+        "ipa": "uˤˈfud"
+      }
+    ]
+  },
+  {
+    "phoneme": "h",
+    "samples": [
+      {
+        "grapheme": "h",
+        "word": "hixhas",
+        "ipa": "ˈhixas"
+      }
+    ]
+  },
+  {
+    "phoneme": "ħ",
+    "samples": [
+      {
+        "grapheme": "hh",
+        "word": "hhal",
+        "ipa": "ħal"
+      }
+    ]
+  },
+  {
+    "phoneme": "f",
+    "samples": [
+      {
+        "grapheme": "f",
+        "word": "fi",
+        "ipa": "fi"
+      }
+    ]
+  }
 ]
