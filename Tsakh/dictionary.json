@@ -1,12 +1,12 @@
 [
   {
+    "forms": [],
+    "uses": []
+  },
+  {
     "forms": [
       {
-        "plain": "a form"
-      },
-      {
-        "plain": "suva",
-        "glossed": ""
+        "plain": "suva"
       }
     ],
     "uses": [
@@ -24,18 +24,12 @@
   {
     "forms": [
       {
-        "plain": "suva"
+        "plain": "a form"
       }
     ],
     "uses": [
       {
-        "meaning": "mountain",
-        "samples": [
-          {
-            "plain": "suvajn t'et'",
-            "translation": "mountainous flower"
-          }
-        ]
+        "meaning": "word"
       }
     ]
   }
