@@ -36,10 +36,16 @@
     "tags": "Caucasian Pontic Adyghe"
   },
   {
+    "name": "Tsakhur",
+    "point": [47.00233, 41.677066],
+    "family": ["Northeast Caucasian", "Lezgic"],
+    "tags": "Western Samur"
+  },
+  {
     "name": "Keren",
     "point": [47.546501, 41.707224],
     "family": ["Northeast Caucasian", "Lezgic", "Aghul"],
-    "tags": "Western Samur"
+    "tags": "Eastern Samur"
   },
   {
     "name": "Kiurin",
