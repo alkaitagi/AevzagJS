@@ -1,1 +1,25 @@
 
+[
+  {
+    "forms": [
+      {
+        "plain": "a form"
+      },
+      {
+        "plain": "suva",
+        "glossed": ""
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "mountain",
+        "samples": [
+          {
+            "plain": "suvajn t'et'",
+            "translation": "mountainous flower"
+          }
+        ]
+      }
+    ]
+  }
+]
