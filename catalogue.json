@@ -38,8 +38,8 @@
   {
     "name": "Tsakh",
     "point": [47.024316, 41.565538],
-    "family": ["Northeast Caucasian", "Lezgic"],
-    "tags": "Western Samur Tsakhur"
+    "family": ["Northeast Caucasian", "Lezgic", "Tsakhur"],
+    "tags": "Western Samur"
   },
   {
     "name": "Keren",
