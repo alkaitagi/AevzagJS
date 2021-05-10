@@ -786,6 +786,18 @@
           },
           "conditions": {
             "person": {
+              "third": true,
+              "male": true
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "Tidin"
+          },
+          "conditions": {
+            "person": {
+              "female": true,
               "third": true
             }
           }
@@ -814,8 +826,7 @@
             "part": {
               "surname": true
             }
-          },
-          "transition": []
+          }
         }
       ],
       [
