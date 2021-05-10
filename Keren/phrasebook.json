@@ -879,7 +879,19 @@
           },
           "conditions": {
             "person": {
-              "third": true
+              "third": true,
+              "male": true
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "Tidin"
+          },
+          "conditions": {
+            "person": {
+              "third": true,
+              "female": true
             }
           }
         }
