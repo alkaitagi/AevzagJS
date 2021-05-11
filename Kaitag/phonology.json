@@ -2,9 +2,9 @@
   {
     "samples": [
       {
-        "word": "шин",
-        "ipa": "ʃin",
-        "grapheme": "и"
+        "word": "ÑÐ¸Ð½",
+        "ipa": "Êin",
+        "grapheme": "Ð¸"
       }
     ],
     "phoneme": "i"
@@ -12,9 +12,9 @@
   {
     "samples": [
       {
-        "word": "букье",
-        "ipa": "buqʼe",
-        "grapheme": "у"
+        "word": "Ð±ÑÐºÑÐµ",
+        "ipa": "buqÊ¼e",
+        "grapheme": "Ñ"
       }
     ],
     "phoneme": "u"
@@ -22,8 +22,8 @@
   {
     "samples": [
       {
-        "word": "чев",
-        "ipa": "t͡ʃеβ",
+        "word": "ÑÐµÐ²",
+        "ipa": "tÍ¡ÊÐµÎ²",
         "grapheme": "e"
       }
     ],
@@ -32,29 +32,29 @@
   {
     "samples": [
       {
-        "word": "цула",
-        "ipa": "t͡sulɑ",
-        "grapheme": "а"
+        "word": "ÑÑÐ»Ð°",
+        "ipa": "tÍ¡sulÉ",
+        "grapheme": "Ð°"
       }
     ],
-    "phoneme": "ɑ"
+    "phoneme": "É"
   },
   {
     "samples": [
       {
-        "word": "гӏяхӏле",
-        "ipa": "ʡɑˤħle",
-        "grapheme": "я"
+        "word": "Ð³ÓÑÑÓÐ»Ðµ",
+        "ipa": "Ê¡ÉË¤Ä§le",
+        "grapheme": "Ñ"
       }
     ],
-    "phoneme": "ɑˤ"
+    "phoneme": "ÉË¤"
   },
   {
     "samples": [
       {
-        "word": "гӏябал",
-        "ipa": "ʡɑˤbɑl",
-        "grapheme": "б"
+        "word": "Ð³ÓÑÐ±Ð°Ð»",
+        "ipa": "Ê¡ÉË¤bÉl",
+        "grapheme": "Ð±"
       }
     ],
     "phoneme": "b"
@@ -62,9 +62,9 @@
   {
     "samples": [
       {
-        "word": "кулпет",
+        "word": "ÐºÑÐ»Ð¿ÐµÑ",
         "ipa": "kulpet",
-        "grapheme": "п"
+        "grapheme": "Ð¿"
       }
     ],
     "phoneme": "p"
@@ -72,39 +72,39 @@
   {
     "samples": [
       {
-        "word": "тӏиппе",
-        "ipa": "tʼipːe",
-        "grapheme": "пп"
+        "word": "ÑÓÐ¸Ð¿Ð¿Ðµ",
+        "ipa": "tÊ¼ipËe",
+        "grapheme": "Ð¿Ð¿"
       }
     ],
-    "phoneme": "pː"
+    "phoneme": "pË"
   },
   {
     "samples": [
       {
-        "word": "шипӏяй",
-        "ipa": "ʃipʼɑˤj",
-        "grapheme": "пӏ"
+        "word": "ÑÐ¸Ð¿ÓÑÐ¹",
+        "ipa": "ÊipÊ¼ÉË¤j",
+        "grapheme": "Ð¿Ó"
       }
     ],
-    "phoneme": "pʼ"
+    "phoneme": "pÊ¼"
   },
   {
     "samples": [
       {
-        "word": "варси",
-        "ipa": "βɑrsi",
-        "grapheme": "в"
+        "word": "Ð²Ð°ÑÑÐ¸",
+        "ipa": "Î²Érsi",
+        "grapheme": "Ð²"
       }
     ],
-    "phoneme": "β"
+    "phoneme": "Î²"
   },
   {
     "samples": [
       {
-        "word": "хьулум",
-        "ipa": "çulum",
-        "grapheme": "м"
+        "word": "ÑÑÑÐ»ÑÐ¼",
+        "ipa": "Ã§ulum",
+        "grapheme": "Ð¼"
       }
     ],
     "phoneme": "m"
@@ -112,9 +112,9 @@
   {
     "samples": [
       {
-        "word": "мейдам",
-        "ipa": "mejdɑm",
-        "grapheme": "д"
+        "word": "Ð¼ÐµÐ¹Ð´Ð°Ð¼",
+        "ipa": "mejdÉm",
+        "grapheme": "Ð´"
       }
     ],
     "phoneme": "d"
@@ -122,9 +122,9 @@
   {
     "samples": [
       {
-        "word": "талхъан",
-        "ipa": "tɑqʰɑn",
-        "grapheme": "т"
+        "word": "ÑÐ°Ð»ÑÑÐ°Ð½",
+        "ipa": "tÉqÊ°Én",
+        "grapheme": "Ñ"
       }
     ],
     "phoneme": "t"
@@ -132,59 +132,59 @@
   {
     "samples": [
       {
-        "word": "ттура",
-        "ipa": "tːura",
-        "grapheme": "тт"
+        "word": "ÑÑÑÑÐ°",
+        "ipa": "tËura",
+        "grapheme": "ÑÑ"
       }
     ],
-    "phoneme": "tː"
+    "phoneme": "tË"
   },
   {
     "samples": [
       {
-        "word": "кӏултӏа",
-        "ipa": "kʼultʼɑ",
-        "grapheme": "тӏ"
+        "word": "ÐºÓÑÐ»ÑÓÐ°",
+        "ipa": "kÊ¼ultÊ¼É",
+        "grapheme": "ÑÓ"
       }
     ],
-    "phoneme": "tʼ"
+    "phoneme": "tÊ¼"
   },
   {
     "samples": [
       {
-        "word": "цикӏал",
-        "ipa": "t͡sikʼɑl",
-        "grapheme": "ц"
+        "word": "ÑÐ¸ÐºÓÐ°Ð»",
+        "ipa": "tÍ¡sikÊ¼Él",
+        "grapheme": "Ñ"
       }
     ],
-    "phoneme": "t͡s"
+    "phoneme": "tÍ¡s"
   },
   {
     "samples": [
       {
-        "word": "луццум",
-        "ipa": "lut͡sːum",
-        "grapheme": "цц"
+        "word": "Ð»ÑÑÑÑÐ¼",
+        "ipa": "lutÍ¡sËum",
+        "grapheme": "ÑÑ"
       }
     ],
-    "phoneme": "t͡sː"
+    "phoneme": "tÍ¡sË"
   },
   {
     "samples": [
       {
-        "word": "вецӏал",
-        "ipa": "βet͡sʼɑl",
-        "grapheme": "цӏ"
+        "word": "Ð²ÐµÑÓÐ°Ð»",
+        "ipa": "Î²etÍ¡sÊ¼Él",
+        "grapheme": "ÑÓ"
       }
     ],
-    "phoneme": "t͡sʼ"
+    "phoneme": "tÍ¡sÊ¼"
   },
   {
     "samples": [
       {
-        "word": "зарадехь",
-        "ipa": "zɑrɑdeç",
-        "grapheme": "з"
+        "word": "Ð·Ð°ÑÐ°Ð´ÐµÑÑ",
+        "ipa": "zÉrÉdeÃ§",
+        "grapheme": "Ð·"
       }
     ],
     "phoneme": "z"
@@ -192,9 +192,9 @@
   {
     "samples": [
       {
-        "word": "сагъли",
-        "ipa": "sɑʁli",
-        "grapheme": "с"
+        "word": "ÑÐ°Ð³ÑÐ»Ð¸",
+        "ipa": "sÉÊli",
+        "grapheme": "Ñ"
       }
     ],
     "phoneme": "s"
@@ -202,30 +202,32 @@
   {
     "samples": [
       {
-        "word": "гьассара",
-        "ipa": "hɑsːɑrɑ",
-        "grapheme": "сс"
+        "word": "Ð³ÑÐ°ÑÑÐ°ÑÐ°",
+        "ipa": "hÉsËÉrÉ",
+        "grapheme": "ÑÑ"
       }
     ],
-    "phoneme": "sː"
+    "phoneme": "sË"
   },
   {
     "samples": [
       {
-        "word": "манзи",
-        "ipa": "mɑnzi",
-        "grapheme": "н"
+        "word": "Ð¼Ð°Ð½Ð·Ð¸",
+        "ipa": "mÉnzi",
+        "grapheme": "Ð½"
       }
     ],
     "phoneme": "n"
   },
   {
-    "notes": ["Palatalized after /a/, /i/, /u/."],
+    "notes": [
+      "Palatalized after /a/, /i/, /u/."
+    ],
     "samples": [
       {
-        "word": "хьацӏил",
-        "ipa": "çɑt͡sʼil",
-        "grapheme": "л"
+        "word": "ÑÑÐ°ÑÓÐ¸Ð»",
+        "ipa": "Ã§ÉtÍ¡sÊ¼il",
+        "grapheme": "Ð»"
       }
     ],
     "phoneme": "l"
@@ -233,49 +235,49 @@
   {
     "samples": [
       {
-        "word": "хьуне",
-        "ipa": "çune",
-        "grapheme": "хь"
+        "word": "ÑÑÑÐ½Ðµ",
+        "ipa": "Ã§une",
+        "grapheme": "ÑÑ"
       }
     ],
-    "phoneme": "ç"
+    "phoneme": "Ã§"
   },
   {
     "samples": [
       {
-        "word": "дехьвана",
-        "ipa": "deçʷɑnɑ",
-        "grapheme": "хьв"
+        "word": "Ð´ÐµÑÑÐ²Ð°Ð½Ð°",
+        "ipa": "deÃ§Ê·ÉnÉ",
+        "grapheme": "ÑÑÐ²"
       }
     ],
-    "phoneme": "çʷ"
+    "phoneme": "Ã§Ê·"
   },
   {
     "samples": [
       {
-        "word": "кабихьхьара",
-        "ipa": "kɑbiçːɑrɑ",
-        "grapheme": "хьхь"
+        "word": "ÐºÐ°Ð±Ð¸ÑÑÑÑÐ°ÑÐ°",
+        "ipa": "kÉbiÃ§ËÉrÉ",
+        "grapheme": "ÑÑÑÑ"
       }
     ],
-    "phoneme": "çː"
+    "phoneme": "Ã§Ë"
   },
   {
     "samples": [
       {
-        "word": "нихьхьва",
-        "ipa": "niçːʷɑ",
-        "grapheme": "хьхьв"
+        "word": "Ð½Ð¸ÑÑÑÑÐ²Ð°",
+        "ipa": "niÃ§ËÊ·É",
+        "grapheme": "ÑÑÑÑÐ²"
       }
     ],
-    "phoneme": "çːʷ"
+    "phoneme": "Ã§ËÊ·"
   },
   {
     "samples": [
       {
-        "word": "чуйна",
-        "ipa": "t͡ʃujnɑ",
-        "grapheme": "й"
+        "word": "ÑÑÐ¹Ð½Ð°",
+        "ipa": "tÍ¡ÊujnÉ",
+        "grapheme": "Ð¹"
       }
     ],
     "phoneme": "j"
@@ -283,129 +285,129 @@
   {
     "samples": [
       {
-        "word": "чехъил",
-        "ipa": "t͡ʃeqʰil",
-        "grapheme": "ч"
+        "word": "ÑÐµÑÑÐ¸Ð»",
+        "ipa": "tÍ¡ÊeqÊ°il",
+        "grapheme": "Ñ"
       }
     ],
-    "phoneme": "t͡ʃ"
+    "phoneme": "tÍ¡Ê"
   },
   {
     "samples": [
       {
-        "word": "чваква",
-        "ipa": "t͡ʃʷɑkʷɑ",
-        "grapheme": "чв"
+        "word": "ÑÐ²Ð°ÐºÐ²Ð°",
+        "ipa": "tÍ¡ÊÊ·ÉkÊ·É",
+        "grapheme": "ÑÐ²"
       }
     ],
-    "phoneme": "t͡ʃʷ"
+    "phoneme": "tÍ¡ÊÊ·"
   },
   {
     "samples": [
       {
-        "word": "дучче",
-        "ipa": "dut͡ʃːe",
-        "grapheme": "чч"
+        "word": "Ð´ÑÑÑÐµ",
+        "ipa": "dutÍ¡ÊËe",
+        "grapheme": "ÑÑ"
       }
     ],
-    "phoneme": "t͡ʃː"
+    "phoneme": "tÍ¡ÊË"
   },
   {
     "samples": [
       {
-        "word": "ччве",
-        "ipa": "t͡ʃːʷe",
-        "grapheme": "ччв"
+        "word": "ÑÑÐ²Ðµ",
+        "ipa": "tÍ¡ÊËÊ·e",
+        "grapheme": "ÑÑÐ²"
       }
     ],
-    "phoneme": "t͡ʃːʷ"
+    "phoneme": "tÍ¡ÊËÊ·"
   },
   {
     "samples": [
       {
-        "word": "урчӏе",
-        "ipa": "urt͡ʃʼe",
-        "grapheme": "чӏ"
+        "word": "ÑÑÑÓÐµ",
+        "ipa": "urtÍ¡ÊÊ¼e",
+        "grapheme": "ÑÓ"
       }
     ],
-    "phoneme": "t͡ʃʼ"
+    "phoneme": "tÍ¡ÊÊ¼"
   },
   {
     "samples": [
       {
-        "word": "чӏвел",
-        "ipa": "t͡ʃʼʷel",
-        "grapheme": "чӏв"
+        "word": "ÑÓÐ²ÐµÐ»",
+        "ipa": "tÍ¡ÊÊ¼Ê·el",
+        "grapheme": "ÑÓÐ²"
       }
     ],
-    "phoneme": "t͡ʃʼʷ"
+    "phoneme": "tÍ¡ÊÊ¼Ê·"
   },
   {
     "samples": [
       {
-        "word": "житӏа",
-        "ipa": "ʒitʼɑ",
-        "grapheme": "ж"
+        "word": "Ð¶Ð¸ÑÓÐ°",
+        "ipa": "ÊitÊ¼É",
+        "grapheme": "Ð¶"
       }
     ],
-    "phoneme": "ʒ"
+    "phoneme": "Ê"
   },
   {
     "samples": [
       {
-        "word": "бевжвахана",
-        "ipa": "beβʒʷɑχɑnɑ",
-        "grapheme": "жв"
+        "word": "Ð±ÐµÐ²Ð¶Ð²Ð°ÑÐ°Ð½Ð°",
+        "ipa": "beÎ²ÊÊ·ÉÏÉnÉ",
+        "grapheme": "Ð¶Ð²"
       }
     ],
-    "phoneme": "ʒʷ"
+    "phoneme": "ÊÊ·"
   },
   {
     "samples": [
       {
-        "word": "урши",
-        "ipa": "urʃi",
-        "grapheme": "ш"
+        "word": "ÑÑÑÐ¸",
+        "ipa": "urÊi",
+        "grapheme": "Ñ"
       }
     ],
-    "phoneme": "ʃ"
+    "phoneme": "Ê"
   },
   {
     "samples": [
       {
-        "word": "швел",
-        "ipa": "ʃʷel",
-        "grapheme": "шв"
+        "word": "ÑÐ²ÐµÐ»",
+        "ipa": "ÊÊ·el",
+        "grapheme": "ÑÐ²"
       }
     ],
-    "phoneme": "ʃʷ"
+    "phoneme": "ÊÊ·"
   },
   {
     "samples": [
       {
-        "word": "шшери",
-        "ipa": "ʃːeri",
-        "grapheme": "шш"
+        "word": "ÑÑÐµÑÐ¸",
+        "ipa": "ÊËeri",
+        "grapheme": "ÑÑ"
       }
     ],
-    "phoneme": "ʃː"
+    "phoneme": "ÊË"
   },
   {
     "samples": [
       {
-        "word": "ишшвахара",
-        "ipa": "iʃːʷɑχɑrɑ",
-        "grapheme": "шшв"
+        "word": "Ð¸ÑÑÐ²Ð°ÑÐ°ÑÐ°",
+        "ipa": "iÊËÊ·ÉÏÉrÉ",
+        "grapheme": "ÑÑÐ²"
       }
     ],
-    "phoneme": "ʃːʷ"
+    "phoneme": "ÊËÊ·"
   },
   {
     "samples": [
       {
-        "word": "баргьул",
-        "ipa": "bɑrhul",
-        "grapheme": "р"
+        "word": "Ð±Ð°ÑÐ³ÑÑÐ»",
+        "ipa": "bÉrhul",
+        "grapheme": "Ñ"
       }
     ],
     "phoneme": "r"
@@ -413,9 +415,9 @@
   {
     "samples": [
       {
-        "word": "чибиган",
-        "ipa": "t͡ʃibigɑn",
-        "grapheme": "г"
+        "word": "ÑÐ¸Ð±Ð¸Ð³Ð°Ð½",
+        "ipa": "tÍ¡ÊibigÉn",
+        "grapheme": "Ð³"
       }
     ],
     "phoneme": "g"
@@ -423,19 +425,19 @@
   {
     "samples": [
       {
-        "word": "гванадехь",
-        "ipa": "gʷɑnɑdeç",
-        "grapheme": "гв"
+        "word": "Ð³Ð²Ð°Ð½Ð°Ð´ÐµÑÑ",
+        "ipa": "gÊ·ÉnÉdeÃ§",
+        "grapheme": "Ð³Ð²"
       }
     ],
-    "phoneme": "gʷ"
+    "phoneme": "gÊ·"
   },
   {
     "samples": [
       {
-        "word": "гъукле",
-        "ipa": "ʁukle",
-        "grapheme": "к"
+        "word": "Ð³ÑÑÐºÐ»Ðµ",
+        "ipa": "Êukle",
+        "grapheme": "Ðº"
       }
     ],
     "phoneme": "k"
@@ -443,59 +445,59 @@
   {
     "samples": [
       {
-        "word": "квацци",
-        "ipa": "kʷɑt͡sːi",
-        "grapheme": "кв"
+        "word": "ÐºÐ²Ð°ÑÑÐ¸",
+        "ipa": "kÊ·ÉtÍ¡sËi",
+        "grapheme": "ÐºÐ²"
       }
     ],
-    "phoneme": "kʷ"
+    "phoneme": "kÊ·"
   },
   {
     "samples": [
       {
-        "word": "ккуртте",
-        "ipa": "kːurtːe",
-        "grapheme": "кк"
+        "word": "ÐºÐºÑÑÑÑÐµ",
+        "ipa": "kËurtËe",
+        "grapheme": "ÐºÐº"
       }
     ],
-    "phoneme": "kː"
+    "phoneme": "kË"
   },
   {
     "samples": [
       {
-        "word": "ччакква",
-        "ipa": "t͡ʃːɑkːʷɑ",
-        "grapheme": "ккв"
+        "word": "ÑÑÐ°ÐºÐºÐ²Ð°",
+        "ipa": "tÍ¡ÊËÉkËÊ·É",
+        "grapheme": "ÐºÐºÐ²"
       }
     ],
-    "phoneme": "kːʷ"
+    "phoneme": "kËÊ·"
   },
   {
     "samples": [
       {
-        "word": "декӏле",
-        "ipa": "dekʼle",
-        "grapheme": "кӏ"
+        "word": "Ð´ÐµÐºÓÐ»Ðµ",
+        "ipa": "dekÊ¼le",
+        "grapheme": "ÐºÓ"
       }
     ],
-    "phoneme": "kʼ"
+    "phoneme": "kÊ¼"
   },
   {
     "samples": [
       {
-        "word": "никӏва",
-        "ipa": "nikʼʷɑ",
-        "grapheme": "кӏв"
+        "word": "Ð½Ð¸ÐºÓÐ²Ð°",
+        "ipa": "nikÊ¼Ê·É",
+        "grapheme": "ÐºÓÐ²"
       }
     ],
-    "phoneme": "kʼʷ"
+    "phoneme": "kÊ¼Ê·"
   },
   {
     "samples": [
       {
-        "word": "къатта",
-        "ipa": "qɑtːɑ",
-        "grapheme": "къ"
+        "word": "ÐºÑÐ°ÑÑÐ°",
+        "ipa": "qÉtËÉ",
+        "grapheme": "ÐºÑ"
       }
     ],
     "phoneme": "q"
@@ -503,139 +505,139 @@
   {
     "samples": [
       {
-        "word": "къвяна",
-        "ipa": "qʷɑˤnɑ",
-        "grapheme": "къв"
+        "word": "ÐºÑÐ²ÑÐ½Ð°",
+        "ipa": "qÊ·ÉË¤nÉ",
+        "grapheme": "ÐºÑÐ²"
       }
     ],
-    "phoneme": "qʷ"
+    "phoneme": "qÊ·"
   },
   {
     "samples": [
       {
-        "word": "хъале",
-        "ipa": "qʰɑle",
-        "grapheme": "хъ"
+        "word": "ÑÑÐ°Ð»Ðµ",
+        "ipa": "qÊ°Éle",
+        "grapheme": "ÑÑ"
       }
     ],
-    "phoneme": "qʰ"
+    "phoneme": "qÊ°"
   },
   {
     "samples": [
       {
-        "word": "хъвянтӏ",
-        "ipa": "qʰʷɑˤntʼ",
-        "grapheme": "хъв"
+        "word": "ÑÑÐ²ÑÐ½ÑÓ",
+        "ipa": "qÊ°Ê·ÉË¤ntÊ¼",
+        "grapheme": "ÑÑÐ²"
       }
     ],
-    "phoneme": "qʰʷ"
+    "phoneme": "qÊ°Ê·"
   },
   {
     "samples": [
       {
-        "word": "шукъкъа",
-        "ipa": "ʃuqːɑ",
-        "grapheme": "къкъ"
+        "word": "ÑÑÐºÑÐºÑÐ°",
+        "ipa": "ÊuqËÉ",
+        "grapheme": "ÐºÑÐºÑ"
       }
     ],
-    "phoneme": "qː"
+    "phoneme": "qË"
   },
   {
     "samples": [
       {
-        "word": "кьаст",
-        "ipa": "qʼɑst",
-        "grapheme": "кь"
+        "word": "ÐºÑÐ°ÑÑ",
+        "ipa": "qÊ¼Ést",
+        "grapheme": "ÐºÑ"
       }
     ],
-    "phoneme": "qʼ"
+    "phoneme": "qÊ¼"
   },
   {
     "samples": [
       {
-        "word": "чӏвакьва",
-        "ipa": "t͡ʃʼʷɑqʼʷɑ",
-        "grapheme": "кьв"
+        "word": "ÑÓÐ²Ð°ÐºÑÐ²Ð°",
+        "ipa": "tÍ¡ÊÊ¼Ê·ÉqÊ¼Ê·É",
+        "grapheme": "ÐºÑÐ²"
       }
     ],
-    "phoneme": "qʼʷ"
+    "phoneme": "qÊ¼Ê·"
   },
   {
     "samples": [
       {
-        "word": "гъизбе",
-        "ipa": "ʁizbe",
-        "grapheme": "гъ"
+        "word": "Ð³ÑÐ¸Ð·Ð±Ðµ",
+        "ipa": "Êizbe",
+        "grapheme": "Ð³Ñ"
       }
     ],
-    "phoneme": "ʁ"
+    "phoneme": "Ê"
   },
   {
     "samples": [
       {
-        "word": "бергъвара",
-        "ipa": "berʁʷɑrɑ",
-        "grapheme": "гъв"
+        "word": "Ð±ÐµÑÐ³ÑÐ²Ð°ÑÐ°",
+        "ipa": "berÊÊ·ÉrÉ",
+        "grapheme": "Ð³ÑÐ²"
       }
     ],
-    "phoneme": "ʁʷ"
+    "phoneme": "ÊÊ·"
   },
   {
     "samples": [
       {
-        "word": "чух",
-        "ipa": "t͡ʃuχ",
-        "grapheme": "х"
+        "word": "ÑÑÑ",
+        "ipa": "tÍ¡ÊuÏ",
+        "grapheme": "Ñ"
       }
     ],
-    "phoneme": "χ"
+    "phoneme": "Ï"
   },
   {
     "samples": [
       {
-        "word": "хвя",
-        "ipa": "χʷɑˤ",
-        "grapheme": "хв"
+        "word": "ÑÐ²Ñ",
+        "ipa": "ÏÊ·ÉË¤",
+        "grapheme": "ÑÐ²"
       }
     ],
-    "phoneme": "χʷ"
+    "phoneme": "ÏÊ·"
   },
   {
     "samples": [
       {
-        "word": "ирххе",
-        "ipa": "irχːe",
-        "grapheme": "хх"
+        "word": "Ð¸ÑÑÑÐµ",
+        "ipa": "irÏËe",
+        "grapheme": "ÑÑ"
       }
     ],
-    "phoneme": "χː"
+    "phoneme": "ÏË"
   },
   {
     "samples": [
       {
-        "word": "лягӏ",
-        "ipa": "lɑˤʡ",
-        "grapheme": "гӏ"
+        "word": "Ð»ÑÐ³Ó",
+        "ipa": "lÉË¤Ê¡",
+        "grapheme": "Ð³Ó"
       }
     ],
-    "phoneme": "ʡ"
+    "phoneme": "Ê¡"
   },
   {
     "samples": [
       {
-        "word": "хӏянчи",
-        "ipa": "ħɑˤnt͡ʃi",
-        "grapheme": "хӏ"
+        "word": "ÑÓÑÐ½ÑÐ¸",
+        "ipa": "Ä§ÉË¤ntÍ¡Êi",
+        "grapheme": "ÑÓ"
       }
     ],
-    "phoneme": "ħ"
+    "phoneme": "Ä§"
   },
   {
     "samples": [
       {
-        "word": "гьинце",
-        "ipa": "hint͡se",
-        "grapheme": "гь"
+        "word": "Ð³ÑÐ¸Ð½ÑÐµ",
+        "ipa": "hintÍ¡se",
+        "grapheme": "Ð³Ñ"
       }
     ],
     "phoneme": "h"
@@ -643,21 +645,24 @@
   {
     "samples": [
       {
-        "word": "белгьвана",
-        "ipa": "belhʷɑnɑ",
-        "grapheme": "гьв"
+        "word": "Ð±ÐµÐ»Ð³ÑÐ²Ð°Ð½Ð°",
+        "ipa": "belhÊ·ÉnÉ",
+        "grapheme": "Ð³ÑÐ²"
       }
     ],
-    "phoneme": "hʷ"
+    "phoneme": "hÊ·"
   },
   {
     "samples": [
       {
-        "word": "баълабай",
-        "ipa": "bɑʔlɑbɑj",
-        "grapheme": "ъ"
+        "word": "Ð±Ð°ÑÐ»Ð°Ð±Ð°Ð¹",
+        "ipa": "bÉÊlÉbÉj",
+        "grapheme": "Ñ"
       }
     ],
-    "phoneme": "ʔ"
+    "phoneme": "Ê",
+    "notes": [
+      "aeaeae"
+    ]
   }
 ]
