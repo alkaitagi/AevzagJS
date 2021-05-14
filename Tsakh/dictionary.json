@@ -24,12 +24,48 @@
   {
     "forms": [
       {
-        "plain": "a form"
+        "plain": "sa"
       }
     ],
     "uses": [
       {
-        "meaning": "word"
+        "meaning": "one"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "q'wäd"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "two"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "xhebad"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "three"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "xhwad"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "five"
       }
     ]
   }
