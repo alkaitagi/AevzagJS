@@ -24,6 +24,18 @@
   {
     "forms": [
       {
+        "plain": "a form"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "word"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
         "plain": "sa"
       }
     ],
