@@ -1,0 +1,608 @@
+[
+  {
+    "forms": [
+      {
+        "plain": "æз"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "I"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ду"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "you (singular)"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "е"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "he"
+      },
+      {
+        "meaning": "she"
+      },
+      {
+        "meaning": "it"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "мах"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "we"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "сумах"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "you (plural)"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "етæ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "they"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "айæ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "this"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "е"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "that"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ами"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "here"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "уоми"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "there"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ка"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "who"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ци"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "what"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "кæми"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "where"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "кæд"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "when"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "куд"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "how"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "нæ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "not"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "æгас"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "all"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "берæ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "many"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "цалдæр"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "some"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "гæзæмæ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "few"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "æндæр"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "other"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "еу"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "one"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "дууæ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "two"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "æртæ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "three"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "цуппaр"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "four"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "фондз"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "five"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "устур"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "big"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "даргъ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "long"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "фæтæн"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "wide"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ставд"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "thick"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "уæззау"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "heavy"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "минги"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "small"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "цубур"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "short"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "унгæг"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "narrow"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "тæнæг"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "thin"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "силгоймаг"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "woman"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "нæлгоймаг"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "man"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "адæймаг"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "person"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "сувæллон"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "child"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "уосæ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "wife"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "мойнæ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "husband"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "мадæ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "mother"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "фидæ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "father"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "цæрæгой"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "animal"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "кæсалгæ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "fish"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "маргъ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "bird"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "куй"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "dog"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "систæ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "louse"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "калм"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "snake"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "кæлмæ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "worm"
+      }
+    ]
+  }
+]

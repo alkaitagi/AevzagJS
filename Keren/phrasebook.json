@@ -7,8 +7,8 @@
       [
         {
           "text": {
-            "plain": "Саламар",
-            "ipa": "salamar tʰin",
+            "plain": "Salamar",
+            "ipa": "salamar",
             "glossed": "hi-PL"
           }
         }
@@ -16,7 +16,7 @@
       [
         {
           "text": {
-            "plain": "тин",
+            "plain": "tin",
             "ipa": "tʰin",
             "glossed": "give-IMP"
           }
@@ -25,7 +25,7 @@
       [
         {
           "text": {
-            "plain": "хизандис",
+            "plain": "xizandis",
             "ipa": "χizandis",
             "glossed": "family-DAT"
           },
@@ -37,7 +37,7 @@
         },
         {
           "text": {
-            "plain": "дусттарис",
+            "plain": "dusttaris",
             "ipa": "dustːaris",
             "glossed": "friend-DAT"
           },
@@ -49,7 +49,7 @@
         },
         {
           "text": {
-            "plain": "Микӏаилас",
+            "plain": "Mik'a'ilas",
             "ipa": "mikʼailas",
             "glossed": "michael-DAT"
           },
@@ -74,7 +74,7 @@
       [
         {
           "text": {
-            "plain": "Салам",
+            "plain": "Salam",
             "ipa": "salam",
             "glossed": "hello"
           },
@@ -86,7 +86,7 @@
         },
         {
           "text": {
-            "plain": "Саламар",
+            "plain": "Salamar",
             "ipa": "salam-ar",
             "glossed": "hello-PL"
           },
@@ -111,7 +111,7 @@
       [
         {
           "text": {
-            "plain": "Сабахирар",
+            "plain": "Sabaxirar",
             "ipa": "sabaχirar"
           },
           "conditions": {
@@ -122,7 +122,7 @@
         },
         {
           "text": {
-            "plain": "Абат",
+            "plain": "Abat",
             "ipa": "abat"
           },
           "conditions": {
@@ -133,7 +133,7 @@
         },
         {
           "text": {
-            "plain": "Дахӏалан",
+            "plain": "Dahhalan",
             "glossed": "evening-GEN",
             "ipa": "daħalan"
           },
@@ -147,7 +147,7 @@
       [
         {
           "text": {
-            "plain": "хайирияр",
+            "plain": "xajirijar",
             "ipa": "χajrijar"
           },
           "transition": []
@@ -178,7 +178,7 @@
       [
         {
           "text": {
-            "plain": "Сагъди",
+            "plain": "Sağdi",
             "ipa": "saʁdi",
             "glossed": "healthy"
           }
@@ -187,7 +187,7 @@
       [
         {
           "text": {
-            "plain": "илгвурай",
+            "plain": "ilgvuraj",
             "ipa": "ilgʷuraj",
             "glossed": "stay-OPT"
           }
@@ -207,7 +207,7 @@
       [
         {
           "text": {
-            "plain": "Гӏушан",
+            "plain": "Íušan",
             "ipa": "ʕuʃan",
             "glossed": "night-GEN"
           }
@@ -216,7 +216,7 @@
       [
         {
           "text": {
-            "plain": "хайирияр",
+            "plain": "xajirijar",
             "ipa": "χajrijar",
             "glossed": "good-PL"
           }
@@ -236,7 +236,7 @@
       [
         {
           "text": {
-            "plain": "Хуппай",
+            "plain": "Xuppaj",
             "ipa": "χupːaj "
           },
           "conditions": {
@@ -247,7 +247,7 @@
         },
         {
           "text": {
-            "plain": "Багагь",
+            "plain": "Bagah",
             "ipa": "bagah"
           },
           "conditions": {
@@ -260,7 +260,7 @@
       [
         {
           "text": {
-            "plain": "хъагвасе",
+            "plain": "qagvase",
             "ipa": "qʰagʷase"
           }
         }
@@ -279,7 +279,7 @@
       [
         {
           "text": {
-            "plain": "Зун",
+            "plain": "Zun",
             "ipa": "zun",
             "glossed": "I-SG"
           },
@@ -291,7 +291,7 @@
         },
         {
           "text": {
-            "plain": "Чин",
+            "plain": "Čin",
             "glossed": "we-PL",
             "ipa": "t͡ʃ in"
           },
@@ -305,7 +305,7 @@
       [
         {
           "text": {
-            "plain": "шаддайа",
+            "plain": "šaddaja",
             "ipa": "ʃadːaja",
             "glossed": "glad-IPFV"
           }
@@ -314,7 +314,7 @@
       [
         {
           "text": {
-            "plain": "вун",
+            "plain": "vun",
             "ipa": "wun",
             "glossed": "you-SG"
           },
@@ -326,7 +326,7 @@
         },
         {
           "text": {
-            "plain": "чвун",
+            "plain": "čvun",
             "ipa": "t͡ʃʷun",
             "glossed": "you-PL"
           },
@@ -340,7 +340,7 @@
       [
         {
           "text": {
-            "plain": "агвас",
+            "plain": "agvas",
             "ipa": "agʷas",
             "glossed": "see-INF"
           }
@@ -360,7 +360,7 @@
       [
         {
           "text": {
-            "plain": "Фиштта",
+            "plain": "Fištta",
             "ipa": "fiʃtːa",
             "glossed": "how"
           }
@@ -369,7 +369,7 @@
       [
         {
           "text": {
-            "plain": " вун",
+            "plain": "vun",
             "ipa": "wun",
             "glossed": "you-SG"
           },
@@ -381,7 +381,7 @@
         },
         {
           "text": {
-            "plain": "чвун",
+            "plain": "čvun",
             "ipa": "t͡ʃʷun",
             "glossed": "you-PL"
           },
@@ -406,7 +406,7 @@
       [
         {
           "text": {
-            "plain": "Зун",
+            "plain": "Zun",
             "ipa": "zun",
             "glossed": "I-SG"
           },
@@ -418,7 +418,7 @@
         },
         {
           "text": {
-            "plain": "Чин",
+            "plain": "Čin",
             "ipa": "t͡ʃin",
             "glossed": "we-PL"
           },
@@ -432,7 +432,7 @@
       [
         {
           "text": {
-            "plain": "иже",
+            "plain": "iže",
             "ipa": "iʒe",
             "glossed": "good"
           }
@@ -441,7 +441,7 @@
       [
         {
           "text": {
-            "plain": " ая",
+            "plain": "'aja",
             "ipa": "ˀaja",
             "glossed": "be-IPFV"
           }
@@ -457,7 +457,7 @@
       [
         {
           "text": {
-            "plain": "сакьурай",
+            "plain": "saq'uraj",
             "ipa": " saqʼuraj",
             "glossed": "thanks"
           }
@@ -473,7 +473,7 @@
       [
         {
           "text": {
-            "plain": "Вун",
+            "plain": "Vun",
             "ipa": "wun",
             "glossed": "you-SG"
           },
@@ -485,7 +485,7 @@
         },
         {
           "text": {
-            "plain": "Чвун",
+            "plain": "Čvun",
             "ipa": "t͡ʃʷun",
             "glossed": "you-PL"
           },
@@ -499,7 +499,7 @@
       [
         {
           "text": {
-            "plain": "фиштта",
+            "plain": "fištta",
             "ipa": " fiʃtːa",
             "glossed": "how"
           }
@@ -519,7 +519,7 @@
       [
         {
           "text": {
-            "plain": "Фиштти",
+            "plain": "Fištti",
             "ipa": "ˈfiʃtːi",
             "glossed": "How"
           }
@@ -528,7 +528,7 @@
       [
         {
           "text": {
-            "plain": "ваш",
+            "plain": "vaš",
             "ipa": "waʃ",
             "glossed": "you-ERG"
           }
@@ -537,7 +537,7 @@
       [
         {
           "text": {
-            "plain": "гъайа",
+            "plain": "ğaja",
             "ipa": "ˈʁaja",
             "glossed": "say-IPFV"
           }
@@ -546,7 +546,7 @@
       [
         {
           "text": {
-            "plain": "мидис",
+            "plain": "midis",
             "ipa": "midis",
             "glossed": "this-DAT"
           },
@@ -558,7 +558,7 @@
         },
         {
           "text": {
-            "plain": "тидис",
+            "plain": "tidis",
             "ipa": "tʰidis",
             "glossed": "that-DAT"
           },
@@ -583,7 +583,7 @@
       [
         {
           "text": {
-            "plain": "Зун",
+            "plain": "Zun",
             "ipa": "zun",
             "glossed": "i-NOM"
           },
@@ -595,7 +595,7 @@
         },
         {
           "text": {
-            "plain": "Чин",
+            "plain": "Čin",
             "ipa": "t͡ʃ ʰin",
             "glossed": "we-NOM"
           },
@@ -609,7 +609,7 @@
       [
         {
           "text": {
-            "plain": "гъавурдархьайа",
+            "plain": "ğavurdarxhaja",
             "ipa": "ʁawurdarxaja",
             "glossed": "undersatnd-IPFV"
           },
@@ -621,7 +621,7 @@
         },
         {
           "text": {
-            "plain": "гъавурдархьада",
+            "plain": "ğavurdarxhada",
             "ipa": "ʁawurdarxada",
             "glossed": "understand-IPFV-NEG"
           },
@@ -646,7 +646,7 @@
       [
         {
           "text": {
-            "plain": "Ун",
+            "plain": "Un",
             "ipa": "un",
             "glossed": "yes"
           }
@@ -662,7 +662,7 @@
       [
         {
           "text": {
-            "plain": "Ваъ",
+            "plain": "Va'",
             "ipa": "waʔ",
             "glossed": "no"
           }
@@ -678,7 +678,7 @@
       [
         {
           "text": {
-            "plain": "Сакьурай",
+            "plain": "Saq'uraj",
             "ipa": "ˈsaqʼuraj",
             "glossed": "thanks"
           }
@@ -694,7 +694,7 @@
       [
         {
           "text": {
-            "plain": "Аферин",
+            "plain": "Aferin",
             "ipa": "ˈaferin"
           }
         }
@@ -713,7 +713,7 @@
       [
         {
           "text": {
-            "plain": "Хил",
+            "plain": "Xil",
             "ipa": "χil",
             "glossed": "hand-NOM"
           }
@@ -722,7 +722,7 @@
       [
         {
           "text": {
-            "plain": "гъуш",
+            "plain": "ğuš",
             "ipa": "ʁuʃ",
             "glossed": "take-IMP"
           }
@@ -738,7 +738,7 @@
       [
         {
           "text": {
-            "plain": "ккандадай",
+            "plain": "kkandadaj",
             "ipa": "kːandaˈdaj",
             "glossed": "want-IMPERF"
           }
@@ -747,7 +747,7 @@
       [
         {
           "text": {
-            "plain": "зус",
+            "plain": "zus",
             "ipa": "zus",
             "glossed": "i-DAT"
           }
@@ -768,7 +768,7 @@
       [
         {
           "text": {
-            "plain": "Ве",
+            "plain": "Ve",
             "ipa": "we",
             "glossed": "you-GEN"
           },
@@ -780,12 +780,24 @@
         },
         {
           "text": {
-            "plain": "Тидин",
+            "plain": "Tidin",
             "ipa": "ˈtʰ idin",
             "glossed": "he-GEN"
           },
           "conditions": {
             "person": {
+              "third": true,
+              "male": true
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "Tidin"
+          },
+          "conditions": {
+            "person": {
+              "female": true,
               "third": true
             }
           }
@@ -794,7 +806,7 @@
       [
         {
           "text": {
-            "plain": "ттур",
+            "plain": "ttur",
             "ipa": "tːur",
             "glossed": "name"
           },
@@ -806,7 +818,7 @@
         },
         {
           "text": {
-            "plain": "тухумдин ттур",
+            "plain": "tuxumdin ttur",
             "ipa": "tuˈxumdin ttur",
             "glossed": "family-GEN name-NOM"
           },
@@ -814,14 +826,13 @@
             "part": {
               "surname": true
             }
-          },
-          "transition": []
+          }
         }
       ],
       [
         {
           "text": {
-            "plain": "фиш",
+            "plain": "fiš",
             "ipa": "fiʃ",
             "glossed": "who"
           }
@@ -830,7 +841,7 @@
       [
         {
           "text": {
-            "plain": "э",
+            "plain": "e",
             "ipa": "e",
             "glossed": "be"
           }
@@ -850,7 +861,7 @@
       [
         {
           "text": {
-            "plain": "Зе",
+            "plain": "Ze",
             "ipa": "ze",
             "glossed": "i-GEN"
           },
@@ -862,13 +873,25 @@
         },
         {
           "text": {
-            "plain": "Тидин",
+            "plain": "Tidin",
             "ipa": "ˈtʰ idin",
             "glossed": "he-GEN"
           },
           "conditions": {
             "person": {
-              "third": true
+              "third": true,
+              "male": true
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "Tidin"
+          },
+          "conditions": {
+            "person": {
+              "third": true,
+              "female": true
             }
           }
         }
@@ -876,7 +899,7 @@
       [
         {
           "text": {
-            "plain": "ттур",
+            "plain": "ttur",
             "ipa": "tːur",
             "glossed": "name"
           },
@@ -888,7 +911,7 @@
         },
         {
           "text": {
-            "plain": "тухумдин ттур",
+            "plain": "tuxumdin ttur",
             "ipa": "tʰuˈχumdin ttur",
             "glossed": "family-DAT ttur-NOM "
           },
@@ -902,14 +925,14 @@
       [
         {
           "text": {
-            "plain": "Илйас",
+            "plain": "Iljas",
             "ipa": "ilˈjas"
           },
           "transition": []
         },
         {
           "text": {
-            "plain": "Марйам",
+            "plain": "Marjam",
             "ipa": "marˈjam"
           },
           "transition": []
@@ -918,7 +941,7 @@
       [
         {
           "text": {
-            "plain": "э",
+            "plain": "e",
             "ipa": "e",
             "glossed": "be"
           }
@@ -938,7 +961,7 @@
       [
         {
           "text": {
-            "plain": "Вавас",
+            "plain": "Vavas",
             "ipa": "ˈwawas"
           }
         }
@@ -958,7 +981,7 @@
         },
         {
           "text": {
-            "plain": "йаваштти",
+            "plain": "javaštti",
             "ipa": "jaˈwaʃtːi",
             "glossed": "slow-ADV"
           },
@@ -972,7 +995,7 @@
       [
         {
           "text": {
-            "plain": "гъас",
+            "plain": "ğas",
             "ipa": "ʁas",
             "glossed": "say-INF"
           }
@@ -981,7 +1004,7 @@
       [
         {
           "text": {
-            "plain": "в'айа",
+            "plain": "víaja",
             "ipa": "wˤaja",
             "glossed": "can-IPFV"
           }
@@ -990,7 +1013,7 @@
       [
         {
           "text": {
-            "plain": "ва",
+            "plain": "va",
             "ipa": "wa",
             "glossed": "Q"
           }
@@ -999,7 +1022,7 @@
       [
         {
           "text": {
-            "plain": "ти",
+            "plain": "ti",
             "ipa": "tʰi",
             "glossed": "that"
           }
@@ -1019,7 +1042,7 @@
       [
         {
           "text": {
-            "plain": "Нандиъас",
+            "plain": "Nanadi'as",
             "ipa": "nandiˀas",
             "glossed": ""
           }
@@ -1028,7 +1051,7 @@
       [
         {
           "text": {
-            "plain": "э",
+            "plain": "e",
             "ipa": "e",
             "glossed": "Q"
           }
@@ -1037,7 +1060,7 @@
       [
         {
           "text": {
-            "plain": "вун",
+            "plain": "vun",
             "ipa": "wun",
             "glossed": "you"
           }
@@ -1057,7 +1080,7 @@
       [
         {
           "text": {
-            "plain": "Вун",
+            "plain": "Vun",
             "ipa": "wun",
             "glossed": "you"
           }
@@ -1066,7 +1089,7 @@
       [
         {
           "text": {
-            "plain": "Гӏурус",
+            "plain": "Íurus",
             "ipa": "ʕuˈrus",
             "glossed": "russian"
           },
@@ -1078,7 +1101,7 @@
         },
         {
           "text": {
-            "plain": "Гӏараб",
+            "plain": "Íarab",
             "ipa": "ʕaˈrab",
             "glossed": "Arabic"
           },
@@ -1090,7 +1113,7 @@
         },
         {
           "text": {
-            "plain": "Йапун",
+            "plain": "Japun",
             "ipa": "jaˈpʰun",
             "glossed": "Japanese"
           },
@@ -1102,7 +1125,7 @@
         },
         {
           "text": {
-            "plain": "Турк",
+            "plain": "Turk",
             "ipa": "tʰurkʰ",
             "glossed": "Turkish"
           },
@@ -1114,8 +1137,8 @@
         },
         {
           "text": {
-            "plain": "Ингилиз",
-            "ipa": "ingiliz",
+            "plain": "Ingilis",
+            "ipa": "ingilis",
             "glossed": "English"
           },
           "conditions": {
@@ -1128,7 +1151,7 @@
       [
         {
           "text": {
-            "plain": "чӏалал",
+            "plain": "č'alal",
             "ipa": "t͡ʃ ʼaˈlal",
             "glossed": "language-SUPESS"
           }
@@ -1137,7 +1160,7 @@
       [
         {
           "text": {
-            "plain": "гъургъайа",
+            "plain": "ğurğaja",
             "ipa": "ʁurˈʁaja",
             "glossed": "speak-IPFV"
           },
@@ -1149,7 +1172,7 @@
         },
         {
           "text": {
-            "plain": "гъавурдархьайа",
+            "plain": "ğavurdarxhaja",
             "ipa": "ˈʁavurdaxaja"
           },
           "conditions": {
@@ -1162,7 +1185,7 @@
       [
         {
           "text": {
-            "plain": "ва",
+            "plain": "va",
             "ipa": "wa",
             "glossed": "Q"
           }
@@ -1182,7 +1205,7 @@
       [
         {
           "text": {
-            "plain": "Зус",
+            "plain": "Zus",
             "ipa": "zus",
             "glossed": "I-DAT"
           }
@@ -1191,7 +1214,7 @@
       [
         {
           "text": {
-            "plain": "гидагьан",
+            "plain": "gidahan",
             "glossed": "that much"
           }
         }
@@ -1199,7 +1222,7 @@
       [
         {
           "text": {
-            "plain": "иже",
+            "plain": "iže",
             "ipa": "iʒe",
             "glossed": "well"
           }
@@ -1208,7 +1231,7 @@
       [
         {
           "text": {
-            "plain": "Ингилиз",
+            "plain": "Ingilis",
             "ipa": "ingiliz",
             "glossed": "English"
           },
@@ -1220,7 +1243,7 @@
         },
         {
           "text": {
-            "plain": "Гӏурус",
+            "plain": "Íurus",
             "ipa": "ʕurus",
             "glossed": "Russian"
           },
@@ -1232,7 +1255,7 @@
         },
         {
           "text": {
-            "plain": "Гӏараб",
+            "plain": "Íarab",
             "ipa": "ʕarab"
           },
           "conditions": {
@@ -1243,7 +1266,7 @@
         },
         {
           "text": {
-            "plain": "Йапун",
+            "plain": "Japun",
             "ipa": "japʰun",
             "glossed": "Japanese"
           },
@@ -1255,7 +1278,7 @@
         },
         {
           "text": {
-            "plain": "ве",
+            "plain": "ve",
             "ipa": "we",
             "glossed": "you-GEN"
           },
@@ -1267,7 +1290,7 @@
         },
         {
           "text": {
-            "plain": "Турк",
+            "plain": "Turk",
             "ipa": "tʰurkʰ",
             "glossed": "Turkish"
           },
@@ -1281,7 +1304,7 @@
       [
         {
           "text": {
-            "plain": "чӏал",
+            "plain": "č'al",
             "ipa": "t͡ʃʼal",
             "glossed": "language"
           },
@@ -1295,7 +1318,7 @@
       [
         {
           "text": {
-            "plain": "х'уда",
+            "plain": "xíuda",
             "ipa": "χˤuda",
             "glossed": "know-NEG"
           }
@@ -1315,7 +1338,7 @@
       [
         {
           "text": {
-            "plain": "Мидин",
+            "plain": "Midin",
             "ipa": "midin",
             "glossed": "this-ERG"
           }
@@ -1324,7 +1347,7 @@
       [
         {
           "text": {
-            "plain": "магӏна",
+            "plain": "maína",
             "ipa": "maˤna",
             "glossed": "meaning"
           }
@@ -1333,7 +1356,7 @@
       [
         {
           "text": {
-            "plain": "фи",
+            "plain": "fi",
             "ipa": "fi",
             "glossed": "what"
           }
@@ -1342,7 +1365,7 @@
       [
         {
           "text": {
-            "plain": "э",
+            "plain": "e",
             "glossed": "be",
             "ipa": "e"
           }
@@ -1362,14 +1385,14 @@
       [
         {
           "text": {
-            "plain": "Фиштти"
+            "plain": "Fištti"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "завас"
+            "plain": "zavas"
           },
           "conditions": {
             "entity": {
@@ -1379,7 +1402,7 @@
         },
         {
           "text": {
-            "plain": "чевас"
+            "plain": "čevas"
           },
           "conditions": {
             "entity": {
@@ -1391,7 +1414,7 @@
       [
         {
           "text": {
-            "plain": "дукан"
+            "plain": "dukan"
           },
           "conditions": {
             "destination": {
@@ -1401,7 +1424,7 @@
         },
         {
           "text": {
-            "plain": "базар"
+            "plain": "bazar"
           },
           "conditions": {
             "destination": {
@@ -1413,14 +1436,14 @@
       [
         {
           "text": {
-            "plain": "агвас"
+            "plain": "agvas"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "в'ай"
+            "plain": "víaj"
           }
         }
       ],
@@ -1438,28 +1461,28 @@
       [
         {
           "text": {
-            "plain": "Ми"
+            "plain": "Mi"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "фиттикес"
+            "plain": "fittikes"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "кьуф"
+            "plain": "q'uf"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "э"
+            "plain": "e"
           }
         }
       ],
@@ -1477,7 +1500,7 @@
       [
         {
           "text": {
-            "plain": "Тин"
+            "plain": "Tin"
           },
           "conditions": {
             "action": {
@@ -1487,7 +1510,7 @@
         },
         {
           "text": {
-            "plain": "Алц"
+            "plain": "Alc"
           },
           "conditions": {
             "action": {
@@ -1499,7 +1522,7 @@
       [
         {
           "text": {
-            "plain": "зус"
+            "plain": "zus"
           },
           "conditions": {
             "person": {
@@ -1510,7 +1533,7 @@
         },
         {
           "text": {
-            "plain": "чес"
+            "plain": "čes"
           },
           "conditions": {
             "person": {
@@ -1521,7 +1544,7 @@
         },
         {
           "text": {
-            "plain": "тидис"
+            "plain": "tidis"
           },
           "conditions": {
             "person": {
@@ -1533,7 +1556,7 @@
         },
         {
           "text": {
-            "plain": "тидис"
+            "plain": "tidis"
           },
           "conditions": {
             "person": {
@@ -1545,7 +1568,7 @@
         },
         {
           "text": {
-            "plain": "тиварис"
+            "plain": "tivaris"
           },
           "conditions": {
             "person": {
@@ -1558,7 +1581,7 @@
       [
         {
           "text": {
-            "plain": "сад"
+            "plain": "sad"
           },
           "conditions": {
             "weight": {
@@ -1571,7 +1594,7 @@
         },
         {
           "text": {
-            "plain": "кь'уд"
+            "plain": "q'íud"
           },
           "conditions": {
             "weight": {
@@ -1584,7 +1607,7 @@
         },
         {
           "text": {
-            "plain": "хьибуд"
+            "plain": "xhibud"
           },
           "conditions": {
             "weight": {
@@ -1597,7 +1620,7 @@
         },
         {
           "text": {
-            "plain": "йакьуд"
+            "plain": "jaq'ud"
           },
           "conditions": {
             "weight": {
@@ -1610,7 +1633,7 @@
         },
         {
           "text": {
-            "plain": "ӏуфуд"
+            "plain": "ííufud"
           },
           "conditions": {
             "weight": {
@@ -1623,7 +1646,7 @@
         },
         {
           "text": {
-            "plain": "са"
+            "plain": "sa"
           },
           "conditions": {
             "weight": {
@@ -1636,7 +1659,7 @@
         },
         {
           "text": {
-            "plain": "кь'у"
+            "plain": "q'íu"
           },
           "conditions": {
             "weight": {
@@ -1649,7 +1672,7 @@
         },
         {
           "text": {
-            "plain": "хьибу"
+            "plain": "xhibu"
           },
           "conditions": {
             "weight": {
@@ -1662,7 +1685,7 @@
         },
         {
           "text": {
-            "plain": "йакьу"
+            "plain": "jaq'u"
           },
           "conditions": {
             "weight": {
@@ -1675,7 +1698,7 @@
         },
         {
           "text": {
-            "plain": "ӏуфу"
+            "plain": "ííufu"
           },
           "conditions": {
             "weight": {
@@ -1690,7 +1713,7 @@
       [
         {
           "text": {
-            "plain": "килав"
+            "plain": "kilav"
           },
           "conditions": {
             "action": {
@@ -1714,7 +1737,7 @@
       [
         {
           "text": {
-            "plain": "Сур"
+            "plain": "Sur"
           },
           "conditions": {
             "weight": {
@@ -1724,7 +1747,7 @@
         },
         {
           "text": {
-            "plain": "Са"
+            "plain": "Sa"
           },
           "conditions": {
             "weight": {
@@ -1735,7 +1758,7 @@
         },
         {
           "text": {
-            "plain": "Кь'у"
+            "plain": "Q'íu"
           },
           "conditions": {
             "weight": {
@@ -1747,14 +1770,14 @@
       [
         {
           "text": {
-            "plain": "килав"
+            "plain": "kilav"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "хибу в'арш"
+            "plain": "xhibu víarš"
           },
           "conditions": {
             "price": {
@@ -1764,7 +1787,7 @@
         },
         {
           "text": {
-            "plain": "хибу в'аршна йахцӏурна ицӏуд"
+            "plain": "xhibu víaršna jaxc'urna ic'ud"
           },
           "conditions": {
             "price": {
@@ -1774,7 +1797,7 @@
         },
         {
           "text": {
-            "plain": "йакьу в'арш"
+            "plain": "jaq'u víarš"
           },
           "conditions": {
             "price": {
@@ -1784,7 +1807,7 @@
         },
         {
           "text": {
-            "plain": "ӏуфу в'аршна йахцӏурна ицӏуд"
+            "plain": "ííufu víaršna jaxc'urna ic'ud"
           },
           "conditions": {
             "price": {
@@ -1796,7 +1819,7 @@
       [
         {
           "text": {
-            "plain": "э"
+            "plain": "e"
           }
         }
       ],
@@ -1814,28 +1837,28 @@
       [
         {
           "text": {
-            "plain": "Фи"
+            "plain": "Fi"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "вас"
+            "plain": "vas"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "гъушас"
+            "plain": "ğušas"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "ккандайа"
+            "plain": "kkandaja"
           }
         }
       ],
@@ -1853,21 +1876,21 @@
       [
         {
           "text": {
-            "plain": "Мус"
+            "plain": "Mus"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "ти"
+            "plain": "ti"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "ахъурайеф"
+            "plain": "aqurajef"
           },
           "conditions": {
             "state": {
@@ -1877,7 +1900,7 @@
         },
         {
           "text": {
-            "plain": "хъикӏайеф"
+            "plain": "qik'ajef"
           },
           "conditions": {
             "state": {
@@ -1889,7 +1912,7 @@
       [
         {
           "text": {
-            "plain": "э"
+            "plain": "e"
           }
         }
       ],
@@ -1907,21 +1930,21 @@
       [
         {
           "text": {
-            "plain": "Тиди"
+            "plain": "Tidi"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "кар кьайа"
+            "plain": "kar q'aja"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "йерийилас"
+            "plain": "jerijilas"
           },
           "conditions": {
             "open": {
@@ -1931,7 +1954,7 @@
         },
         {
           "text": {
-            "plain": "ицӏуйилас"
+            "plain": "ic'ujilas"
           },
           "conditions": {
             "open": {
@@ -1941,7 +1964,7 @@
         },
         {
           "text": {
-            "plain": "цӏекь'уйилас"
+            "plain": "c'eq'íujilas"
           },
           "conditions": {
             "open": {
@@ -1953,7 +1976,7 @@
       [
         {
           "text": {
-            "plain": "кь'уйилдагьан"
+            "plain": "q'íujildahan"
           },
           "conditions": {
             "close": {
@@ -1963,7 +1986,7 @@
         },
         {
           "text": {
-            "plain": "йерхьийилдагьан"
+            "plain": "jerxhijildahan"
           },
           "conditions": {
             "close": {
@@ -1973,7 +1996,7 @@
         },
         {
           "text": {
-            "plain": "йарчӏуйилдагьан"
+            "plain": "jarč'ujildahan"
           },
           "conditions": {
             "close": {
@@ -1996,7 +2019,7 @@
       [
         {
           "text": {
-            "plain": "Вахъ"
+            "plain": "Vaq"
           },
           "conditions": {
             "person": {
@@ -2006,7 +2029,7 @@
         },
         {
           "text": {
-            "plain": "Тидихъ"
+            "plain": "Tidiq"
           },
           "conditions": {
             "person": {
@@ -2018,7 +2041,7 @@
       [
         {
           "text": {
-            "plain": "гуни"
+            "plain": "guni"
           },
           "conditions": {
             "product": {
@@ -2028,7 +2051,7 @@
         },
         {
           "text": {
-            "plain": "пагӏ"
+            "plain": "paí"
           },
           "conditions": {
             "product": {
@@ -2038,7 +2061,7 @@
         },
         {
           "text": {
-            "plain": "бурунз"
+            "plain": "burunz"
           },
           "conditions": {
             "product": {
@@ -2050,14 +2073,14 @@
       [
         {
           "text": {
-            "plain": "хъайа"
+            "plain": "qaja"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "ва"
+            "plain": "va"
           }
         }
       ],
@@ -2075,14 +2098,14 @@
       [
         {
           "text": {
-            "plain": "Мисаъ"
+            "plain": "Misa'"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "ӏутӏаттар"
+            "plain": "íut'attar"
           },
           "conditions": {
             "product": {
@@ -2092,7 +2115,7 @@
         },
         {
           "text": {
-            "plain": "кунар"
+            "plain": "kunar"
           },
           "conditions": {
             "product": {
@@ -2104,14 +2127,14 @@
       [
         {
           "text": {
-            "plain": "нандиъ"
+            "plain": "nandi'"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "маса цӏайа"
+            "plain": "masa c'aja"
           }
         }
       ],
@@ -2129,14 +2152,14 @@
       [
         {
           "text": {
-            "plain": "Заш"
+            "plain": "Zaš"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "бархӏам"
+            "plain": "barhham"
           },
           "conditions": {
             "product": {
@@ -2146,7 +2169,7 @@
         },
         {
           "text": {
-            "plain": "лакарил алеттар"
+            "plain": "lakarillettar"
           },
           "conditions": {
             "product": {
@@ -2156,7 +2179,7 @@
         },
         {
           "text": {
-            "plain": "кӏукӏ"
+            "plain": "k'uk'"
           },
           "conditions": {
             "product": {
@@ -2168,14 +2191,14 @@
       [
         {
           "text": {
-            "plain": "гъушуна"
+            "plain": "ğušuna"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "ккандайа"
+            "plain": "kkandaja"
           }
         }
       ],
@@ -2193,7 +2216,7 @@
       [
         {
           "text": {
-            "plain": "Сур"
+            "plain": "Sur"
           },
           "conditions": {
             "weight": {
@@ -2206,7 +2229,7 @@
         },
         {
           "text": {
-            "plain": "Са"
+            "plain": "Sa"
           },
           "conditions": {
             "weight": {
@@ -2219,7 +2242,7 @@
         },
         {
           "text": {
-            "plain": "Кь'у"
+            "plain": "Q'íu"
           },
           "conditions": {
             "weight": {
@@ -2237,7 +2260,7 @@
       [
         {
           "text": {
-            "plain": "килав"
+            "plain": "kilav"
           },
           "conditions": {
             "product": {
@@ -2249,7 +2272,7 @@
       [
         {
           "text": {
-            "plain": "Мидин"
+            "plain": "Midin"
           },
           "conditions": {
             "product": {
@@ -2259,7 +2282,7 @@
         },
         {
           "text": {
-            "plain": "Китабин"
+            "plain": "Kitabin"
           },
           "conditions": {
             "product": {
@@ -2269,7 +2292,7 @@
         },
         {
           "text": {
-            "plain": "хӏачарин"
+            "plain": "hhačarin"
           },
           "conditions": {
             "product": {
@@ -2280,7 +2303,7 @@
         },
         {
           "text": {
-            "plain": "йаккун"
+            "plain": "jakkun"
           },
           "conditions": {
             "product": {
@@ -2293,21 +2316,21 @@
       [
         {
           "text": {
-            "plain": "кьимат"
+            "plain": "q'imat"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "фидагьан"
+            "plain": "fidahan"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "э"
+            "plain": "e"
           }
         }
       ],
@@ -2325,21 +2348,21 @@
       [
         {
           "text": {
-            "plain": "Фидагьан"
+            "plain": "Fidahan"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "вас"
+            "plain": "vas"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "герекдайа"
+            "plain": "gerekdaja"
           }
         }
       ],
@@ -2357,7 +2380,7 @@
       [
         {
           "text": {
-            "plain": "Ахъ"
+            "plain": "Aq"
           },
           "conditions": {
             "action": {
@@ -2367,7 +2390,7 @@
         },
         {
           "text": {
-            "plain": "Гьаттив"
+            "plain": "Hattiv"
           },
           "conditions": {
             "action": {
@@ -2379,7 +2402,7 @@
       [
         {
           "text": {
-            "plain": "сад"
+            "plain": "sad"
           },
           "conditions": {
             "quantity": {
@@ -2389,7 +2412,7 @@
         },
         {
           "text": {
-            "plain": "мед суман"
+            "plain": "med suman"
           },
           "conditions": {
             "quantity": {
@@ -2399,7 +2422,7 @@
         },
         {
           "text": {
-            "plain": "са чӏукь"
+            "plain": "sa č'uq'"
           },
           "conditions": {
             "quantity": {
@@ -2409,7 +2432,7 @@
         },
         {
           "text": {
-            "plain": "йахцӏурна ицӏу грам"
+            "plain": "jaxc'urna ic'u gram"
           },
           "conditions": {
             "quantity": {
@@ -2419,7 +2442,7 @@
         },
         {
           "text": {
-            "plain": "в'арш грам"
+            "plain": "víarš gram"
           },
           "conditions": {
             "quantity": {
@@ -2442,14 +2465,14 @@
       [
         {
           "text": {
-            "plain": "Вахъ"
+            "plain": "Vaq"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "сайи"
+            "plain": "saji"
           },
           "conditions": {
             "type": {
@@ -2459,7 +2482,7 @@
         },
         {
           "text": {
-            "plain": "сараф"
+            "plain": "saraf"
           },
           "conditions": {
             "type": {
@@ -2469,7 +2492,7 @@
         },
         {
           "text": {
-            "plain": "бицӏи суманф"
+            "plain": "bic'i sumanf"
           },
           "conditions": {
             "type": {
@@ -2479,7 +2502,7 @@
         },
         {
           "text": {
-            "plain": "баба суманф"
+            "plain": "baba sumanf"
           },
           "conditions": {
             "type": {
@@ -2491,14 +2514,14 @@
       [
         {
           "text": {
-            "plain": "хъайа"
+            "plain": "qaja"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "ва"
+            "plain": "va"
           }
         }
       ],
@@ -2516,21 +2539,21 @@
       [
         {
           "text": {
-            "plain": "Завас"
+            "plain": "Zavas"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "гьа"
+            "plain": "ha"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "мидис"
+            "plain": "midis"
           },
           "conditions": {
             "action": {
@@ -2540,7 +2563,7 @@
         },
         {
           "text": {
-            "plain": "ми"
+            "plain": "mi"
           },
           "conditions": {
             "action": {
@@ -2552,7 +2575,7 @@
       [
         {
           "text": {
-            "plain": "хуттурфас"
+            "plain": "xutturfas"
           },
           "conditions": {
             "action": {
@@ -2562,7 +2585,7 @@
         },
         {
           "text": {
-            "plain": "тӏагӏам кьас"
+            "plain": "t'aíam q'as"
           },
           "conditions": {
             "action": {
@@ -2574,14 +2597,14 @@
       [
         {
           "text": {
-            "plain": "в'айа"
+            "plain": "víaja"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "ва"
+            "plain": "va"
           }
         }
       ],
@@ -2599,14 +2622,14 @@
       [
         {
           "text": {
-            "plain": "Зус"
+            "plain": "Zus"
           }
         }
       ],
       [
         {
           "text": {
-            "plain": "ккан в'айа"
+            "plain": "kkan víaja"
           },
           "conditions": {
             "mode": {
@@ -2616,7 +2639,7 @@
         },
         {
           "text": {
-            "plain": "ккан в'ада"
+            "plain": "kkan víada"
           },
           "conditions": {
             "mode": {
@@ -2628,7 +2651,158 @@
       [
         {
           "text": {
-            "plain": "ми"
+            "plain": "mi"
+          }
+        }
+      ],
+      [
+        {
+          "text": {
+            "plain": "."
+          }
+        }
+      ]
+    ]
+  },
+  "6c33c4e3-78db-41af-855e-f9fbfc4953ef": {
+    "blocks": [
+      [
+        {
+          "text": {
+            "plain": "Vas",
+            "ipa": "vas",
+            "glossed": "you-SING-DAT"
+          },
+          "conditions": {}
+        },
+        {
+          "text": {
+            "plain": "Čves",
+            "glossed": "you-PL-DAT"
+          },
+          "conditions": {}
+        }
+      ],
+      [
+        {
+          "text": {
+            "plain": "minet"
+          }
+        }
+      ],
+      [
+        {
+          "text": {
+            "plain": "xhuraj"
+          }
+        }
+      ],
+      [
+        {
+          "text": {
+            "plain": ","
+          }
+        }
+      ],
+      [
+        {
+          "text": {
+            "plain": "kúmek q'e"
+          }
+        }
+      ],
+      [
+        {
+          "text": {
+            "plain": "zus"
+          },
+          "conditions": {
+            "object": {
+              "singular": true
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "čes"
+          },
+          "conditions": {
+            "object": {
+              "plural": true
+            }
+          }
+        }
+      ],
+      [
+        {
+          "text": {
+            "plain": "."
+          }
+        }
+      ]
+    ]
+  },
+  "fa265107-c71d-49d8-a747-e8189ac3fd8b": {
+    "blocks": [
+      [
+        {
+          "text": {
+            "plain": "Saq'uraj"
+          },
+          "conditions": {}
+        }
+      ]
+    ]
+  },
+  "7b7220a2-b7e3-45b5-abc6-3e68d49b4f39": {
+    "blocks": [
+      [
+        {
+          "text": {
+            "plain": "Vun"
+          },
+          "conditions": {
+            "person": {
+              "singular": true
+            }
+          }
+        },
+        {
+          "text": {
+            "plain": "Čvun"
+          },
+          "conditions": {
+            "person": {
+              "plural": true
+            }
+          }
+        }
+      ],
+      [
+        {
+          "text": {
+            "plain": "adiraj"
+          }
+        }
+      ],
+      [
+        {
+          "text": {
+            "plain": ","
+          }
+        }
+      ],
+      [
+        {
+          "text": {
+            "plain": "rağ"
+          }
+        }
+      ],
+      [
+        {
+          "text": {
+            "plain": "adiraj"
           }
         }
       ],

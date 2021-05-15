@@ -14,7 +14,9 @@
   {
     "forms": [
       {
-        "plain": "вун"
+        "plain": "vun",
+        "ipa": "wun",
+        "glossed": ""
       }
     ],
     "uses": [
@@ -26,7 +28,8 @@
   {
     "forms": [
       {
-        "plain": "ти"
+        "plain": "ti",
+        "ipa": "ti"
       }
     ],
     "uses": [
@@ -38,7 +41,8 @@
   {
     "forms": [
       {
-        "plain": "ти"
+        "plain": "ti",
+        "ipa": "ti"
       }
     ],
     "uses": [
@@ -50,7 +54,8 @@
   {
     "forms": [
       {
-        "plain": "чин"
+        "plain": "čin",
+        "ipa": "t͡ʃin"
       }
     ],
     "uses": [
@@ -62,7 +67,9 @@
   {
     "forms": [
       {
-        "plain": "чвун"
+        "plain": "čvun",
+        "ipa": "t͡ʃʷun",
+        "glossed": ""
       }
     ],
     "uses": [
@@ -74,7 +81,8 @@
   {
     "forms": [
       {
-        "plain": "тивар"
+        "plain": "tivar",
+        "ipa": "tiwar"
       }
     ],
     "uses": [
@@ -86,7 +94,8 @@
   {
     "forms": [
       {
-        "plain": "ми"
+        "plain": "mi",
+        "ipa": "mi"
       }
     ],
     "uses": [
@@ -98,7 +107,9 @@
   {
     "forms": [
       {
-        "plain": "ти"
+        "plain": "ti",
+        "ipa": "ti",
+        "glossed": ""
       }
     ],
     "uses": [
@@ -110,7 +121,8 @@
   {
     "forms": [
       {
-        "plain": "мисаъ"
+        "plain": "misa'",
+        "ipa": "misaˀ"
       }
     ],
     "uses": [
@@ -122,7 +134,8 @@
   {
     "forms": [
       {
-        "plain": "тисаъ"
+        "plain": "tisa'",
+        "ipa": "tisaˀ"
       }
     ],
     "uses": [
@@ -134,7 +147,8 @@
   {
     "forms": [
       {
-        "plain": "фиш"
+        "plain": "fiš",
+        "ipa": "fiʃ"
       }
     ],
     "uses": [
@@ -146,7 +160,9 @@
   {
     "forms": [
       {
-        "plain": "фи"
+        "plain": "fi",
+        "ipa": "fi",
+        "glossed": ""
       }
     ],
     "uses": [
@@ -158,7 +174,8 @@
   {
     "forms": [
       {
-        "plain": "нандиъ"
+        "plain": "nandi'",
+        "ipa": "nandiˀ"
       }
     ],
     "uses": [
@@ -170,7 +187,8 @@
   {
     "forms": [
       {
-        "plain": "мус"
+        "plain": "mus",
+        "ipa": "mus"
       }
     ],
     "uses": [
@@ -182,7 +200,8 @@
   {
     "forms": [
       {
-        "plain": "фиштти"
+        "plain": "fištti",
+        "ipa": "fiʃtːi"
       }
     ],
     "uses": [
@@ -194,7 +213,8 @@
   {
     "forms": [
       {
-        "plain": "да-"
+        "plain": "da-",
+        "ipa": "da-"
       }
     ],
     "uses": [
@@ -206,7 +226,9 @@
   {
     "forms": [
       {
-        "plain": "вари"
+        "plain": "vari",
+        "ipa": "waˈri",
+        "glossed": ""
       }
     ],
     "uses": [
@@ -218,7 +240,9 @@
   {
     "forms": [
       {
-        "plain": "ппара"
+        "plain": "ppara",
+        "ipa": "pːaˈra",
+        "glossed": ""
       }
     ],
     "uses": [
@@ -230,7 +254,8 @@
   {
     "forms": [
       {
-        "plain": "саса"
+        "plain": "sa-sa",
+        "ipa": "sa-sa"
       }
     ],
     "uses": [
@@ -242,7 +267,8 @@
   {
     "forms": [
       {
-        "plain": "чӏукь"
+        "plain": "č'uq'",
+        "ipa": "čʼuqʼ"
       }
     ],
     "uses": [
@@ -254,7 +280,8 @@
   {
     "forms": [
       {
-        "plain": "сайи"
+        "plain": "saji",
+        "ipa": "saˈji"
       }
     ],
     "uses": [
@@ -266,7 +293,8 @@
   {
     "forms": [
       {
-        "plain": "сад"
+        "plain": "sad",
+        "ipa": "sad"
       }
     ],
     "uses": [
@@ -278,7 +306,8 @@
   {
     "forms": [
       {
-        "plain": "кь'уд"
+        "plain": "q'íud",
+        "ipa": "qʼˤud"
       }
     ],
     "uses": [
@@ -290,7 +319,8 @@
   {
     "forms": [
       {
-        "plain": "хьибуд"
+        "plain": "xhibud",
+        "ipa": "xiˈbud"
       }
     ],
     "uses": [
@@ -302,7 +332,8 @@
   {
     "forms": [
       {
-        "plain": "йакьуд"
+        "plain": "jaq'ud",
+        "ipa": "jaˈqʼud"
       }
     ],
     "uses": [
@@ -314,7 +345,8 @@
   {
     "forms": [
       {
-        "plain": "ӏуфуд"
+        "plain": "ííufud",
+        "ipa": "uˤˈfud"
       }
     ],
     "uses": [
@@ -326,7 +358,8 @@
   {
     "forms": [
       {
-        "plain": "бабаф"
+        "plain": "babaf",
+        "ipa": "baˈbaf"
       }
     ],
     "uses": [
@@ -338,7 +371,7 @@
   {
     "forms": [
       {
-        "plain": "йерхеф"
+        "plain": "jerˈχef"
       }
     ],
     "uses": [
@@ -350,7 +383,8 @@
   {
     "forms": [
       {
-        "plain": "аркь'еф"
+        "plain": "arq'íef",
+        "ipa": "arˈqʼˤef"
       }
     ],
     "uses": [
@@ -362,7 +396,8 @@
   {
     "forms": [
       {
-        "plain": "къалинф"
+        "plain": "qhalinf",
+        "ipa": "qːaˈlinf"
       }
     ],
     "uses": [
@@ -374,7 +409,9 @@
   {
     "forms": [
       {
-        "plain": "уркь'еф"
+        "plain": "urq'íef",
+        "ipa": "urˈqʼˤef",
+        "glossed": ""
       }
     ],
     "uses": [
@@ -386,7 +423,8 @@
   {
     "forms": [
       {
-        "plain": "бицӏиф"
+        "plain": "bic'if",
+        "ipa": "biˈcʼif"
       }
     ],
     "uses": [
@@ -398,7 +436,8 @@
   {
     "forms": [
       {
-        "plain": "жикъкъеф"
+        "plain": "žiqhef",
+        "ipa": "ʒiˈqːef"
       }
     ],
     "uses": [
@@ -410,7 +449,8 @@
   {
     "forms": [
       {
-        "plain": "ишккеф"
+        "plain": "iškkef",
+        "ipa": "iʃˈkːef"
       }
     ],
     "uses": [
@@ -422,7 +462,8 @@
   {
     "forms": [
       {
-        "plain": "кӏесалф"
+        "plain": "k'isalf",
+        "ipa": "kʼiˈsalf"
       }
     ],
     "uses": [
@@ -434,7 +475,8 @@
   {
     "forms": [
       {
-        "plain": "хумбеф"
+        "plain": "xumbef",
+        "ipa": "χumˈbef"
       }
     ],
     "uses": [
@@ -446,7 +488,8 @@
   {
     "forms": [
       {
-        "plain": "идем"
+        "plain": "idem",
+        "ipa": "iˈdem"
       }
     ],
     "uses": [
@@ -458,7 +501,8 @@
   {
     "forms": [
       {
-        "plain": "инсан"
+        "plain": "insan",
+        "ipa": "inˈsan"
       }
     ],
     "uses": [
@@ -470,7 +514,8 @@
   {
     "forms": [
       {
-        "plain": "шиникӏв"
+        "plain": "šinikkv",
+        "ipa": "ʃiˈnikːʷ"
       }
     ],
     "uses": [
@@ -482,7 +527,8 @@
   {
     "forms": [
       {
-        "plain": "хьир"
+        "plain": "xhir",
+        "ipa": "xir"
       }
     ],
     "uses": [
@@ -494,7 +540,8 @@
   {
     "forms": [
       {
-        "plain": "шув"
+        "plain": "šuv",
+        "ipa": "ʃuj"
       }
     ],
     "uses": [
@@ -506,7 +553,8 @@
   {
     "forms": [
       {
-        "plain": "бав"
+        "plain": "bav",
+        "ipa": "baw"
       }
     ],
     "uses": [
@@ -518,7 +566,8 @@
   {
     "forms": [
       {
-        "plain": "дад"
+        "plain": "dad",
+        "ipa": "dad"
       }
     ],
     "uses": [
@@ -530,7 +579,8 @@
   {
     "forms": [
       {
-        "plain": "нахччир"
+        "plain": "naxččir",
+        "ipa": "naχˈt͡ʃːir"
       }
     ],
     "uses": [
@@ -542,7 +592,8 @@
   {
     "forms": [
       {
-        "plain": "чӏекӏ"
+        "plain": "č'ek'",
+        "ipa": "t͡ʃʼekʼ"
       }
     ],
     "uses": [
@@ -554,7 +605,8 @@
   {
     "forms": [
       {
-        "plain": "йакӏв"
+        "plain": "jak'v",
+        "ipa": "jakʼv"
       }
     ],
     "uses": [
@@ -566,7 +618,8 @@
   {
     "forms": [
       {
-        "plain": "тула"
+        "plain": "tula",
+        "ipa": "tuˈla"
       }
     ],
     "uses": [
@@ -578,7 +631,8 @@
   {
     "forms": [
       {
-        "plain": "нет"
+        "plain": "net",
+        "ipa": "net"
       }
     ],
     "uses": [
@@ -590,7 +644,8 @@
   {
     "forms": [
       {
-        "plain": "илан"
+        "plain": "ilan",
+        "ipa": "iˈlan"
       }
     ],
     "uses": [
@@ -602,7 +657,8 @@
   {
     "forms": [
       {
-        "plain": "милахъ'в"
+        "plain": "milaqív",
+        "ipa": "miˈlaqˤv"
       }
     ],
     "uses": [
@@ -614,7 +670,7 @@
   {
     "forms": [
       {
-        "plain": "дар"
+        "plain": "dar"
       }
     ],
     "uses": [
@@ -626,7 +682,7 @@
   {
     "forms": [
       {
-        "plain": "дар"
+        "plain": "dar"
       }
     ],
     "uses": [
@@ -638,7 +694,8 @@
   {
     "forms": [
       {
-        "plain": "тӏул"
+        "plain": "t'ul",
+        "ipa": "tʼul"
       }
     ],
     "uses": [
@@ -650,7 +707,8 @@
   {
     "forms": [
       {
-        "plain": "йемиш"
+        "plain": "jemiš",
+        "ipa": "jeˈmiʃ"
       }
     ],
     "uses": [
@@ -662,7 +720,8 @@
   {
     "forms": [
       {
-        "plain": "тум"
+        "plain": "tum",
+        "ipa": "tum"
       }
     ],
     "uses": [
@@ -674,7 +733,8 @@
   {
     "forms": [
       {
-        "plain": "пӏ'аш"
+        "plain": "p'íaš",
+        "ipa": "pʼˤaɕ"
       }
     ],
     "uses": [
@@ -686,7 +746,8 @@
   {
     "forms": [
       {
-        "plain": "бун"
+        "plain": "bun",
+        "ipa": "bun"
       }
     ],
     "uses": [
@@ -698,7 +759,8 @@
   {
     "forms": [
       {
-        "plain": "къарк"
+        "plain": "qhark",
+        "ipa": "qːark"
       }
     ],
     "uses": [
@@ -710,7 +772,8 @@
   {
     "forms": [
       {
-        "plain": "тук"
+        "plain": "tuk",
+        "ipa": "tuk"
       }
     ],
     "uses": [
@@ -722,7 +785,8 @@
   {
     "forms": [
       {
-        "plain": "чӏир"
+        "plain": "č'ir",
+        "ipa": "t͡ʃʼir"
       }
     ],
     "uses": [
@@ -734,7 +798,8 @@
   {
     "forms": [
       {
-        "plain": "гатӏил"
+        "plain": "gat'il",
+        "ipa": "gaˈtʼil"
       }
     ],
     "uses": [
@@ -746,7 +811,8 @@
   {
     "forms": [
       {
-        "plain": "хам"
+        "plain": "xam",
+        "ipa": "xam"
       }
     ],
     "uses": [
@@ -758,7 +824,8 @@
   {
     "forms": [
       {
-        "plain": "йак"
+        "plain": "jak",
+        "ipa": "jak"
       }
     ],
     "uses": [
@@ -770,7 +837,8 @@
   {
     "forms": [
       {
-        "plain": "иъ"
+        "plain": "i'",
+        "ipa": "iʔ"
       }
     ],
     "uses": [
@@ -782,7 +850,8 @@
   {
     "forms": [
       {
-        "plain": "ирк"
+        "plain": "irk",
+        "ipa": "irk"
       }
     ],
     "uses": [
@@ -794,7 +863,8 @@
   {
     "forms": [
       {
-        "plain": "мав"
+        "plain": "mav",
+        "ipa": "maw"
       }
     ],
     "uses": [
@@ -806,7 +876,8 @@
   {
     "forms": [
       {
-        "plain": "гъ'арагъ'ал"
+        "plain": "ğíarağíal",
+        "ipa": "ʁˤaˈraʁˤal"
       }
     ],
     "uses": [
@@ -818,7 +889,8 @@
   {
     "forms": [
       {
-        "plain": "кӏарч"
+        "plain": "k'arč",
+        "ipa": "kʼart͡ʃ"
       }
     ],
     "uses": [
@@ -830,7 +902,8 @@
   {
     "forms": [
       {
-        "plain": "руж"
+        "plain": "ruž",
+        "ipa": "ruʒ"
       }
     ],
     "uses": [
@@ -842,7 +915,8 @@
   {
     "forms": [
       {
-        "plain": "пурцӏ"
+        "plain": "purc'",
+        "ipa": "purt͡sʼ"
       }
     ],
     "uses": [
@@ -854,7 +928,8 @@
   {
     "forms": [
       {
-        "plain": "чӏар"
+        "plain": "č'ar",
+        "ipa": "t͡ʃʼar"
       }
     ],
     "uses": [
@@ -866,7 +941,8 @@
   {
     "forms": [
       {
-        "plain": "кӏил"
+        "plain": "k'il",
+        "ipa": "kʼil"
       }
     ],
     "uses": [
@@ -878,7 +954,8 @@
   {
     "forms": [
       {
-        "plain": "йабур"
+        "plain": "jabur",
+        "ipa": "jaˈbur"
       }
     ],
     "uses": [
@@ -902,7 +979,8 @@
   {
     "forms": [
       {
-        "plain": "хъ'вахъ'в"
+        "plain": "qívaqív",
+        "ipa": "qˤʷaqˤʷ"
       }
     ],
     "uses": [
@@ -914,7 +992,8 @@
   {
     "forms": [
       {
-        "plain": "сив"
+        "plain": "siv",
+        "ipa": "siw"
       }
     ],
     "uses": [
@@ -926,7 +1005,8 @@
   {
     "forms": [
       {
-        "plain": "силев"
+        "plain": "silev",
+        "ipa": "silew"
       }
     ],
     "uses": [
@@ -938,7 +1018,8 @@
   {
     "forms": [
       {
-        "plain": "мез"
+        "plain": "mez",
+        "ipa": "mez"
       }
     ],
     "uses": [
@@ -950,7 +1031,8 @@
   {
     "forms": [
       {
-        "plain": "кирк"
+        "plain": "kirk",
+        "ipa": "kirk"
       }
     ],
     "uses": [
@@ -962,7 +1044,8 @@
   {
     "forms": [
       {
-        "plain": "ццам"
+        "plain": "ccam",
+        "ipa": "t͡sːam"
       }
     ],
     "uses": [
@@ -974,7 +1057,8 @@
   {
     "forms": [
       {
-        "plain": "лак"
+        "plain": "lak",
+        "ipa": "lak"
       }
     ],
     "uses": [
@@ -986,7 +1070,8 @@
   {
     "forms": [
       {
-        "plain": "кьвакьв"
+        "plain": "q'vaq'v",
+        "ipa": "qʼʷaqʼʷ"
       }
     ],
     "uses": [
@@ -998,7 +1083,8 @@
   {
     "forms": [
       {
-        "plain": "хил"
+        "plain": "xil",
+        "ipa": "χil"
       }
     ],
     "uses": [
@@ -1010,7 +1096,8 @@
   {
     "forms": [
       {
-        "plain": "х'ар"
+        "plain": "xíar",
+        "ipa": "xˤar"
       }
     ],
     "uses": [
@@ -1022,7 +1109,8 @@
   {
     "forms": [
       {
-        "plain": "фун"
+        "plain": "fun",
+        "ipa": "fun"
       }
     ],
     "uses": [
@@ -1046,7 +1134,8 @@
   {
     "forms": [
       {
-        "plain": "гардан"
+        "plain": "gardan",
+        "ipa": "garˈdan"
       }
     ],
     "uses": [
@@ -1058,7 +1147,8 @@
   {
     "forms": [
       {
-        "plain": "ут"
+        "plain": "ut",
+        "ipa": "ut"
       }
     ],
     "uses": [
@@ -1070,7 +1160,8 @@
   {
     "forms": [
       {
-        "plain": "мухур"
+        "plain": "muxur",
+        "ipa": "muˈχur"
       }
     ],
     "uses": [
@@ -1082,7 +1173,8 @@
   {
     "forms": [
       {
-        "plain": "иркӏв"
+        "plain": "irk'v",
+        "ipa": "irkʼv"
       }
     ],
     "uses": [
@@ -1094,7 +1186,8 @@
   {
     "forms": [
       {
-        "plain": "лекӏ"
+        "plain": "lek'",
+        "ipa": "lekʼ"
       }
     ],
     "uses": [
@@ -1106,7 +1199,8 @@
   {
     "forms": [
       {
-        "plain": "ухас"
+        "plain": "uxas",
+        "ipa": "uˈχas"
       }
     ],
     "uses": [
@@ -1118,7 +1212,8 @@
   {
     "forms": [
       {
-        "plain": "гӏутӏас"
+        "plain": "íut'as",
+        "ipa": "ʕuˈtʼas"
       }
     ],
     "uses": [
@@ -1130,7 +1225,8 @@
   {
     "forms": [
       {
-        "plain": "кьацӏ ъикӏас"
+        "plain": "q'ac' 'ik'as",
+        "ipa": "qʼacʼ ˈˀikʼas"
       }
     ],
     "uses": [
@@ -1142,7 +1238,8 @@
   {
     "forms": [
       {
-        "plain": "супӏас"
+        "plain": "sup'as",
+        "ipa": "suˈpʼas"
       }
     ],
     "uses": [
@@ -1154,7 +1251,8 @@
   {
     "forms": [
       {
-        "plain": "тфу кьас"
+        "plain": "tutu q'as",
+        "ipa": "tuˈtu qʼas"
       }
     ],
     "uses": [
@@ -1166,7 +1264,8 @@
   {
     "forms": [
       {
-        "plain": "жуьрх'ас"
+        "plain": "žúrxías",
+        "ipa": "žyrˈxˤas"
       }
     ],
     "uses": [
@@ -1178,7 +1277,8 @@
   {
     "forms": [
       {
-        "plain": "уф цӏас"
+        "plain": "uf c'as",
+        "ipa": "uf t͡sʼas"
       }
     ],
     "uses": [
@@ -1190,7 +1290,8 @@
   {
     "forms": [
       {
-        "plain": "нафас дивас"
+        "plain": "nafas divas",
+        "ipa": "naˈfas diˈwas"
       }
     ],
     "uses": [
@@ -1202,7 +1303,8 @@
   {
     "forms": [
       {
-        "plain": "алхъ'ас"
+        "plain": "alqías",
+        "ipa": "alˈqˤas"
       }
     ],
     "uses": [
@@ -1214,7 +1316,8 @@
   {
     "forms": [
       {
-        "plain": "агвас"
+        "plain": "agvas",
+        "ipa": "aˈgʷas"
       }
     ],
     "uses": [
@@ -1226,7 +1329,8 @@
   {
     "forms": [
       {
-        "plain": "ун в'ас"
+        "plain": "un vías",
+        "ipa": "un wˤas"
       }
     ],
     "uses": [
@@ -1238,7 +1342,8 @@
   {
     "forms": [
       {
-        "plain": "х'ар в'ас"
+        "plain": "xíar vías",
+        "ipa": "xˤar vˤas"
       }
     ],
     "uses": [
@@ -1250,7 +1355,8 @@
   {
     "forms": [
       {
-        "plain": "фикир кьас"
+        "plain": "fikir q'as",
+        "ipa": "ˈfikir qʼas"
       }
     ],
     "uses": [
@@ -1262,7 +1368,8 @@
   {
     "forms": [
       {
-        "plain": "ниъ в'ас"
+        "plain": "ni' q'as",
+        "ipa": "niˀ qʼas"
       }
     ],
     "uses": [
@@ -1274,7 +1381,8 @@
   {
     "forms": [
       {
-        "plain": "гучӏ в'ас"
+        "plain": "guč' vías",
+        "ipa": "gut͡ʃʼ wˤas"
       }
     ],
     "uses": [
@@ -1286,7 +1394,8 @@
   {
     "forms": [
       {
-        "plain": "гъархьас"
+        "plain": "ğarxhas",
+        "ipa": "ˈʁarxas"
       }
     ],
     "uses": [
@@ -1298,7 +1407,8 @@
   {
     "forms": [
       {
-        "plain": "йашамиш в'ас"
+        "plain": "jašamiš vías",
+        "ipa": "jaˈʃamiʃ wˤas"
       }
     ],
     "uses": [
@@ -1310,7 +1420,8 @@
   {
     "forms": [
       {
-        "plain": "кӏес"
+        "plain": "k'es",
+        "ipa": "kʼes"
       }
     ],
     "uses": [
@@ -1322,7 +1433,8 @@
   {
     "forms": [
       {
-        "plain": "кӏес кьас"
+        "plain": "k'es q'as",
+        "ipa": "kʼes qʼas"
       }
     ],
     "uses": [
@@ -1334,7 +1446,8 @@
   {
     "forms": [
       {
-        "plain": "кикъвас"
+        "plain": "kiqhvas",
+        "ipa": "ˈkiqːʷas"
       }
     ],
     "uses": [
@@ -1346,7 +1459,8 @@
   {
     "forms": [
       {
-        "plain": "гъ'урчас"
+        "plain": "ğíurčas",
+        "ipa": "ʁˤurˈt͡ʃ as"
       }
     ],
     "uses": [
@@ -1358,7 +1472,8 @@
   {
     "forms": [
       {
-        "plain": "йарх'ас"
+        "plain": "jarxías",
+        "ipa": "jarˈxˤas"
       }
     ],
     "uses": [
@@ -1370,7 +1485,8 @@
   {
     "forms": [
       {
-        "plain": "атӏас"
+        "plain": "at'as",
+        "ipa": "aˈtʼas"
       }
     ],
     "uses": [
@@ -1382,7 +1498,8 @@
   {
     "forms": [
       {
-        "plain": "кьатӏ кьас"
+        "plain": "q'at' q'as",
+        "ipa": "qʼatʼ qʼas"
       }
     ],
     "uses": [
@@ -1394,7 +1511,8 @@
   {
     "forms": [
       {
-        "plain": "ачарх'ас"
+        "plain": "ačarxías",
+        "ipa": "aˈt͡ʃarxˤas"
       }
     ],
     "uses": [
@@ -1406,7 +1524,8 @@
   {
     "forms": [
       {
-        "plain": "чӏуркӏас"
+        "plain": "č'urk'as",
+        "ipa": "t͡ʃʼurˈkʼas"
       }
     ],
     "uses": [
@@ -1418,7 +1537,8 @@
   {
     "forms": [
       {
-        "plain": "рукӏас"
+        "plain": "ruk'as",
+        "ipa": "ruˈkʼas"
       }
     ],
     "uses": [
@@ -1430,7 +1550,8 @@
   {
     "forms": [
       {
-        "plain": "сирнав кьас"
+        "plain": "sirnav q'as",
+        "ipa": "sirˈnav qʼas"
       }
     ],
     "uses": [
@@ -1442,7 +1563,8 @@
   {
     "forms": [
       {
-        "plain": "гьалгас"
+        "plain": "halgas",
+        "ipa": "halˈgas"
       }
     ],
     "uses": [
@@ -1454,7 +1576,8 @@
   {
     "forms": [
       {
-        "plain": "руцас"
+        "plain": "rucas",
+        "ipa": "ruˈt͡sas"
       }
     ],
     "uses": [
@@ -1466,7 +1589,8 @@
   {
     "forms": [
       {
-        "plain": "адес"
+        "plain": "ades",
+        "ipa": "aˈdes"
       }
     ],
     "uses": [
@@ -1478,7 +1602,8 @@
   {
     "forms": [
       {
-        "plain": "фатхьас"
+        "plain": "fattixhas",
+        "ipa": "ˈfatxas"
       }
     ],
     "uses": [
@@ -1490,7 +1615,8 @@
   {
     "forms": [
       {
-        "plain": "укьас"
+        "plain": "uq'as",
+        "ipa": "ˈuqʼas"
       }
     ],
     "uses": [
@@ -1502,7 +1628,8 @@
   {
     "forms": [
       {
-        "plain": "гъузас"
+        "plain": "ğuzas",
+        "ipa": "ʁuˈzas"
       }
     ],
     "uses": [
@@ -1514,7 +1641,8 @@
   {
     "forms": [
       {
-        "plain": "даркас"
+        "plain": "darkas",
+        "ipa": "ˈdarkas"
       }
     ],
     "uses": [
@@ -1526,7 +1654,8 @@
   {
     "forms": [
       {
-        "plain": "лархьас"
+        "plain": "larxhas",
+        "ipa": "ˈlarxas"
       }
     ],
     "uses": [
@@ -1538,7 +1667,8 @@
   {
     "forms": [
       {
-        "plain": "цӏас"
+        "plain": "c'as",
+        "ipa": "t͡ʃ ʼas"
       }
     ],
     "uses": [
@@ -1550,7 +1680,8 @@
   {
     "forms": [
       {
-        "plain": "фацас"
+        "plain": "facas",
+        "ipa": "faˈt͡sas"
       }
     ],
     "uses": [
@@ -1562,7 +1693,8 @@
   {
     "forms": [
       {
-        "plain": "чӏакь'ас"
+        "plain": "č'aq'ías",
+        "ipa": "t͡ʃ ʼaˈqʼˤas"
       }
     ],
     "uses": [
@@ -1574,7 +1706,8 @@
   {
     "forms": [
       {
-        "plain": "тӏишас"
+        "plain": "t'išas",
+        "ipa": "tʼiˈʃas"
       }
     ],
     "uses": [
@@ -1586,7 +1719,8 @@
   {
     "forms": [
       {
-        "plain": "гӏуччас"
+        "plain": "íuččas",
+        "ipa": "ʕuˈt͡ʃ ːas"
       }
     ],
     "uses": [
@@ -1598,7 +1732,8 @@
   {
     "forms": [
       {
-        "plain": "латтарх'ас"
+        "plain": "lattarxías",
+        "ipa": "ˈlattarχˤas"
       }
     ],
     "uses": [
@@ -1610,7 +1745,8 @@
   {
     "forms": [
       {
-        "plain": "дивас"
+        "plain": "divas",
+        "ipa": "diˈwas"
       }
     ],
     "uses": [
@@ -1622,7 +1758,8 @@
   {
     "forms": [
       {
-        "plain": "хъ'арх'ас"
+        "plain": "qíarxías",
+        "ipa": "ˈqˤarxˤas"
       }
     ],
     "uses": [
@@ -1646,7 +1783,8 @@
   {
     "forms": [
       {
-        "plain": "ъитӏас"
+        "plain": "'it'as",
+        "ipa": "ˈˀitʼas"
       }
     ],
     "uses": [
@@ -1658,7 +1796,8 @@
   {
     "forms": [
       {
-        "plain": "дукьас"
+        "plain": "duq'as",
+        "ipa": "duˈqʼas"
       }
     ],
     "uses": [
@@ -1670,7 +1809,8 @@
   {
     "forms": [
       {
-        "plain": "хисаб кьас"
+        "plain": "xisab q'as",
+        "ipa": "xiˈsab qʼas"
       }
     ],
     "uses": [
@@ -1682,7 +1822,8 @@
   {
     "forms": [
       {
-        "plain": "гъас"
+        "plain": "ğas",
+        "ipa": "ʁas"
       }
     ],
     "uses": [
@@ -1694,7 +1835,8 @@
   {
     "forms": [
       {
-        "plain": "магӏни кьас"
+        "plain": "maína q'as",
+        "ipa": "maʕˈna qʼas"
       }
     ],
     "uses": [
@@ -1706,7 +1848,8 @@
   {
     "forms": [
       {
-        "plain": "дурух'ас"
+        "plain": "duruxías",
+        "ipa": "duˈruχˤas"
       }
     ],
     "uses": [
@@ -1718,7 +1861,8 @@
   {
     "forms": [
       {
-        "plain": "хьеттал алдий в'ас"
+        "plain": "xhettal aldij vías",
+        "ipa": "xeˈtːal ˈaldij wˤas"
       }
     ],
     "uses": [
@@ -1730,7 +1874,8 @@
   {
     "forms": [
       {
-        "plain": "svel"
+        "plain": "svel",
+        "ipa": "sʷel"
       }
     ],
     "uses": [
@@ -1742,7 +1887,8 @@
   {
     "forms": [
       {
-        "plain": "меркв в'ас"
+        "plain": "merkv vías",
+        "ipa": "merkv wˤas"
       }
     ],
     "uses": [
@@ -1754,7 +1900,8 @@
   {
     "forms": [
       {
-        "plain": "тӏах'ас"
+        "plain": "t'axías",
+        "ipa": "tʼaxˤas"
       }
     ],
     "uses": [
@@ -1766,7 +1913,8 @@
   {
     "forms": [
       {
-        "plain": "рагъ"
+        "plain": "rağ",
+        "ipa": "raʁ"
       }
     ],
     "uses": [
@@ -1778,7 +1926,8 @@
   {
     "forms": [
       {
-        "plain": "ваз"
+        "plain": "vaz",
+        "ipa": "waz"
       }
     ],
     "uses": [
@@ -1790,7 +1939,8 @@
   {
     "forms": [
       {
-        "plain": "х'ад"
+        "plain": "xíad",
+        "ipa": "χˤad"
       }
     ],
     "uses": [
@@ -1802,7 +1952,8 @@
   {
     "forms": [
       {
-        "plain": "хьед"
+        "plain": "xhed",
+        "ipa": "xed"
       }
     ],
     "uses": [
@@ -1814,7 +1965,8 @@
   {
     "forms": [
       {
-        "plain": "угъал"
+        "plain": "uğal",
+        "ipa": "uˈʁal"
       }
     ],
     "uses": [
@@ -1826,7 +1978,8 @@
   {
     "forms": [
       {
-        "plain": "лецӏв"
+        "plain": "lec'v",
+        "ipa": "let͡sʼv"
       }
     ],
     "uses": [
@@ -1838,7 +1991,8 @@
   {
     "forms": [
       {
-        "plain": "гӏур"
+        "plain": "íur",
+        "ipa": "ʕur"
       }
     ],
     "uses": [
@@ -1850,7 +2004,8 @@
   {
     "forms": [
       {
-        "plain": "хӏул"
+        "plain": "hhul",
+        "ipa": "ħul"
       }
     ],
     "uses": [
@@ -1862,7 +2017,8 @@
   {
     "forms": [
       {
-        "plain": "кь'ал"
+        "plain": "q'íal",
+        "ipa": "qʼˤal"
       }
     ],
     "uses": [
@@ -1874,7 +2030,8 @@
   {
     "forms": [
       {
-        "plain": "гъван"
+        "plain": "ğvan",
+        "ipa": "ʁʷan"
       }
     ],
     "uses": [
@@ -1886,7 +2043,8 @@
   {
     "forms": [
       {
-        "plain": "къум"
+        "plain": "qhum",
+        "ipa": "qːum"
       }
     ],
     "uses": [
@@ -1898,7 +2056,8 @@
   {
     "forms": [
       {
-        "plain": "руг"
+        "plain": "rug",
+        "ipa": "rug"
       }
     ],
     "uses": [
@@ -1910,7 +2069,8 @@
   {
     "forms": [
       {
-        "plain": "жил"
+        "plain": "žil",
+        "ipa": "ʒil"
       }
     ],
     "uses": [
@@ -1922,7 +2082,8 @@
   {
     "forms": [
       {
-        "plain": "къири"
+        "plain": "qhiri",
+        "ipa": "qːiˈri"
       }
     ],
     "uses": [
@@ -1934,7 +2095,8 @@
   {
     "forms": [
       {
-        "plain": "диф"
+        "plain": "dif",
+        "ipa": "dif"
       }
     ],
     "uses": [
@@ -1946,7 +2108,8 @@
   {
     "forms": [
       {
-        "plain": "зав"
+        "plain": "zav",
+        "ipa": "zaw"
       }
     ],
     "uses": [
@@ -1958,7 +2121,8 @@
   {
     "forms": [
       {
-        "plain": "тереб"
+        "plain": "tireb",
+        "ipa": "tiˈreb"
       }
     ],
     "uses": [
@@ -1970,7 +2134,8 @@
   {
     "forms": [
       {
-        "plain": "ибхь"
+        "plain": "ibxh",
+        "ipa": "ibx"
       }
     ],
     "uses": [
@@ -1982,7 +2147,8 @@
   {
     "forms": [
       {
-        "plain": "меркв"
+        "plain": "merkv",
+        "ipa": "merkʷ"
       }
     ],
     "uses": [
@@ -1994,7 +2160,8 @@
   {
     "forms": [
       {
-        "plain": "кум"
+        "plain": "kum",
+        "ipa": "kum"
       }
     ],
     "uses": [
@@ -2006,7 +2173,8 @@
   {
     "forms": [
       {
-        "plain": "цӏай"
+        "plain": "c'aj",
+        "ipa": "t͡sʼaj"
       }
     ],
     "uses": [
@@ -2018,7 +2186,8 @@
   {
     "forms": [
       {
-        "plain": "рухъ'"
+        "plain": "ruqí",
+        "ipa": "ruqˤ"
       }
     ],
     "uses": [
@@ -2030,7 +2199,8 @@
   {
     "forms": [
       {
-        "plain": "угвас"
+        "plain": "ugvas",
+        "ipa": "uˈgʷas"
       }
     ],
     "uses": [
@@ -2042,7 +2212,8 @@
   {
     "forms": [
       {
-        "plain": "рахъ'"
+        "plain": "raqí",
+        "ipa": "raqˤ"
       }
     ],
     "uses": [
@@ -2054,7 +2225,8 @@
   {
     "forms": [
       {
-        "plain": "сув"
+        "plain": "suv",
+        "ipa": "suʷ"
       }
     ],
     "uses": [
@@ -2066,7 +2238,8 @@
   {
     "forms": [
       {
-        "plain": "иреф"
+        "plain": "iref",
+        "ipa": "iˈref"
       }
     ],
     "tags": "color",
@@ -2082,7 +2255,8 @@
   {
     "forms": [
       {
-        "plain": "гъазеф"
+        "plain": "ğazef",
+        "ipa": "ʁaˈzef"
       }
     ],
     "tags": "color",
@@ -2098,7 +2272,8 @@
   {
     "forms": [
       {
-        "plain": "хъ'ухъ'еф"
+        "plain": "qíuqíef",
+        "ipa": "qˤuˈqˤef"
       }
     ],
     "tags": "color",
@@ -2114,7 +2289,8 @@
   {
     "forms": [
       {
-        "plain": "жагварф"
+        "plain": "žagvarf",
+        "ipa": "ʒaˈgʷarf"
       }
     ],
     "tags": "color",
@@ -2130,7 +2306,8 @@
   {
     "forms": [
       {
-        "plain": "кӏареф"
+        "plain": "k'aref",
+        "ipa": "kʼaˈref"
       }
     ],
     "tags": "color",
@@ -2146,7 +2323,8 @@
   {
     "forms": [
       {
-        "plain": "гӏуш"
+        "plain": "íuš",
+        "ipa": "ʕuɕ"
       }
     ],
     "uses": [
@@ -2158,7 +2336,8 @@
   {
     "forms": [
       {
-        "plain": "йагъ"
+        "plain": "jağ",
+        "ipa": "jaʁ"
       }
     ],
     "uses": [
@@ -2170,7 +2349,8 @@
   {
     "forms": [
       {
-        "plain": "ис"
+        "plain": "is",
+        "ipa": "is"
       }
     ],
     "uses": [
@@ -2182,7 +2362,8 @@
   {
     "forms": [
       {
-        "plain": "кучеф"
+        "plain": "kučef",
+        "ipa": "kuˈt͡ʃef"
       }
     ],
     "uses": [
@@ -2194,7 +2375,8 @@
   {
     "forms": [
       {
-        "plain": "ругъуф"
+        "plain": "ruğuf",
+        "ipa": "ruˈʁuf"
       }
     ],
     "uses": [
@@ -2206,7 +2388,8 @@
   {
     "forms": [
       {
-        "plain": "ацӏуф"
+        "plain": "ac'uf",
+        "ipa": "aˈt͡sʼuf"
       }
     ],
     "uses": [
@@ -2218,7 +2401,8 @@
   {
     "forms": [
       {
-        "plain": "цӏайеф"
+        "plain": "c'ajef",
+        "ipa": "t͡sʼaˈjef"
       }
     ],
     "uses": [
@@ -2230,7 +2414,8 @@
   {
     "forms": [
       {
-        "plain": "цӏуреф"
+        "plain": "c'uref",
+        "ipa": "cʼuˈref"
       }
     ],
     "uses": [
@@ -2242,7 +2427,8 @@
   {
     "forms": [
       {
-        "plain": "ижеф"
+        "plain": "ižef",
+        "ipa": "iˈʒef"
       }
     ],
     "uses": [
@@ -2254,7 +2440,8 @@
   {
     "forms": [
       {
-        "plain": "кь'айеф"
+        "plain": "q'íajef",
+        "ipa": "qʼˤaˈjef"
       }
     ],
     "uses": [
@@ -2266,7 +2453,8 @@
   {
     "forms": [
       {
-        "plain": "утӏуф"
+        "plain": "ut'uf",
+        "ipa": "uˈtʼuf"
       }
     ],
     "uses": [
@@ -2278,7 +2466,8 @@
   {
     "forms": [
       {
-        "plain": "куруф"
+        "plain": "kuruf",
+        "ipa": "kuˈruf"
       }
     ],
     "uses": [
@@ -2290,7 +2479,8 @@
   {
     "forms": [
       {
-        "plain": "дихьеф"
+        "plain": "dixhef",
+        "ipa": "diˈxef"
       }
     ],
     "uses": [
@@ -2302,7 +2492,8 @@
   {
     "forms": [
       {
-        "plain": "лурцуф"
+        "plain": "lurcuf",
+        "ipa": "ˈlurt͡suf"
       }
     ],
     "uses": [
@@ -2314,7 +2505,8 @@
   {
     "forms": [
       {
-        "plain": "х'уттеф"
+        "plain": "xíuttef",
+        "ipa": "χˤuˈttef"
       }
     ],
     "uses": [
@@ -2326,7 +2518,8 @@
   {
     "forms": [
       {
-        "plain": "къ'уреф"
+        "plain": "qhíuref",
+        "ipa": "qːˤuˈref"
       }
     ],
     "uses": [
@@ -2338,7 +2531,8 @@
   {
     "forms": [
       {
-        "plain": "м'аллеф"
+        "plain": "míallef",
+        "ipa": "mˤaˈllef"
       }
     ],
     "uses": [
@@ -2350,7 +2544,8 @@
   {
     "forms": [
       {
-        "plain": "кь'ашуф"
+        "plain": "q'íašuf",
+        "ipa": "qʼˤaˈʃuf"
       }
     ],
     "uses": [
@@ -2362,7 +2557,8 @@
   {
     "forms": [
       {
-        "plain": "рукъкъуф"
+        "plain": "ruqhuf",
+        "ipa": "ruˈqːuf"
       }
     ],
     "uses": [
@@ -2374,7 +2570,8 @@
   {
     "forms": [
       {
-        "plain": "дуз"
+        "plain": "dúz",
+        "ipa": "dyz"
       }
     ],
     "uses": [
@@ -2386,7 +2583,8 @@
   {
     "forms": [
       {
-        "plain": "къвалав"
+        "plain": "qhvalav",
+        "ipa": "qːʷaˈlaw"
       }
     ],
     "uses": [
@@ -2398,7 +2596,8 @@
   {
     "forms": [
       {
-        "plain": "вархайиъ"
+        "plain": "varxaji'",
+        "ipa": "warˈχajiˀ"
       }
     ],
     "uses": [
@@ -2410,7 +2609,8 @@
   {
     "forms": [
       {
-        "plain": "гӏулжанф"
+        "plain": "íulžanf",
+        "ipa": "ʕulˈʒanf"
       }
     ],
     "uses": [
@@ -2422,7 +2622,8 @@
   {
     "forms": [
       {
-        "plain": "чапп'улф"
+        "plain": "čappíulf",
+        "ipa": "t͡ʃaˈpːˤulf"
       }
     ],
     "uses": [
@@ -2434,7 +2635,8 @@
   {
     "forms": [
       {
-        "plain": "-в"
+        "plain": "-v",
+        "ipa": "-w"
       }
     ],
     "uses": [
@@ -2446,7 +2648,8 @@
   {
     "forms": [
       {
-        "plain": "-ъ"
+        "plain": "-'",
+        "ipa": "-ˀ"
       }
     ],
     "uses": [
@@ -2458,7 +2661,8 @@
   {
     "forms": [
       {
-        "plain": "-хъ хъай"
+        "plain": "-q qaj",
+        "ipa": "-q qaj"
       }
     ],
     "uses": [
@@ -2470,7 +2674,8 @@
   {
     "forms": [
       {
-        "plain": "-на"
+        "plain": "-na",
+        "ipa": "-na"
       }
     ],
     "uses": [
@@ -2482,7 +2687,8 @@
   {
     "forms": [
       {
-        "plain": "-чин"
+        "plain": "-čin",
+        "ipa": "-t͡ʃin"
       }
     ],
     "uses": [
@@ -2494,7 +2700,8 @@
   {
     "forms": [
       {
-        "plain": "фас пучин"
+        "plain": "fas pučin",
+        "ipa": "fas ˈpuˈt͡ʃ in"
       }
     ],
     "uses": [
@@ -2506,7 +2713,8 @@
   {
     "forms": [
       {
-        "plain": "ттур"
+        "plain": "ttur",
+        "ipa": "tːur"
       }
     ],
     "uses": [
@@ -2518,7 +2726,8 @@
   {
     "forms": [
       {
-        "plain": "в'ас"
+        "plain": "vías",
+        "ipa": "wˤas"
       }
     ],
     "uses": [
@@ -2530,7 +2739,8 @@
   {
     "forms": [
       {
-        "plain": "кьас"
+        "plain": "q'as",
+        "ipa": "qʼas"
       }
     ],
     "uses": [
@@ -2542,7 +2752,8 @@
   {
     "forms": [
       {
-        "plain": "хал"
+        "plain": "xal",
+        "ipa": "χal"
       }
     ],
     "uses": [
@@ -2554,7 +2765,8 @@
   {
     "forms": [
       {
-        "plain": "кьулкьулф"
+        "plain": "q'ulq'ulf",
+        "ipa": "qʼulˈqʼulf"
       }
     ],
     "uses": [
@@ -2566,7 +2778,8 @@
   {
     "forms": [
       {
-        "plain": "накь"
+        "plain": "naq'",
+        "ipa": "naqʼ"
       }
     ],
     "uses": [
@@ -2578,7 +2791,8 @@
   {
     "forms": [
       {
-        "plain": "фунин хутӏ"
+        "plain": "funin xut'",
+        "ipa": "fuˈnin χutʼ"
       }
     ],
     "uses": [
@@ -2590,7 +2804,8 @@
   {
     "forms": [
       {
-        "plain": "жин кьас"
+        "plain": "žin q'as",
+        "ipa": "ʒin qʼas"
       }
     ],
     "uses": [
@@ -2602,7 +2817,8 @@
   {
     "forms": [
       {
-        "plain": "хас"
+        "plain": "xas",
+        "ipa": "χas"
       }
     ],
     "uses": [
@@ -2614,7 +2830,8 @@
   {
     "forms": [
       {
-        "plain": "зебз"
+        "plain": "zebz",
+        "ipa": "zebz"
       }
     ],
     "uses": [
@@ -2626,91 +2843,9 @@
   {
     "forms": [
       {
-        "plain": "уркь'еф"
-      }
-    ],
-    "uses": [
-      {
-        "meaning": "heavy"
-      }
-    ]
-  },
-  {
-    "forms": [
-      {
-        "plain": "гъушас"
-      }
-    ],
-    "uses": [
-      {
-        "meaning": "to take"
-      }
-    ]
-  },
-  {
-    "forms": [
-      {
-        "plain": "агъ"
-      }
-    ],
-    "uses": [
-      {
-        "meaning": "thigh"
-      }
-    ]
-  },
-  {
-    "forms": [
-      {
-        "plain": "кӏур"
-      }
-    ],
-    "uses": [
-      {
-        "meaning": "wood"
-      }
-    ]
-  },
-  {
-    "forms": [
-      {
-        "plain": "гӏашас"
-      }
-    ],
-    "uses": [
-      {
-        "meaning": "to cry"
-      }
-    ]
-  },
-  {
-    "forms": [
-      {
-        "plain": "иттеф"
-      }
-    ],
-    "uses": [
-      {
-        "meaning": "sweet"
-      }
-    ]
-  },
-  {
-    "forms": [
-      {
-        "plain": "ахъ'"
-      }
-    ],
-    "uses": [
-      {
-        "meaning": "shade"
-      }
-    ]
-  },
-  {
-    "forms": [
-      {
-        "plain": "уркь'еф"
+        "plain": "urq'íef",
+        "ipa": "urˈqʼˤef",
+        "glossed": ""
       }
     ],
     "uses": [
@@ -2722,7 +2857,99 @@
   {
     "forms": [
       {
-        "plain": "рух'ас"
+        "plain": "ğušas",
+        "ipa": "ˈʁuʃas"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to take"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ağ",
+        "ipa": "aʁ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "thigh"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "k'ur",
+        "ipa": "kʼur"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "wood"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "íašas",
+        "ipa": "ʕaˈʃas"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to cry"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ittef",
+        "ipa": "iˈtːef"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "sweet"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "aqí",
+        "ipa": "aqˤ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "shade"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "urq'íef",
+        "ipa": "urˈqʼˤef"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "hard"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ruxías",
+        "ipa": "ruˈχˤas"
       }
     ],
     "uses": [

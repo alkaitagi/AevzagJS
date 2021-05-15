@@ -1,0 +1,84 @@
+[
+  {
+    "forms": [],
+    "uses": []
+  },
+  {
+    "forms": [
+      {
+        "plain": "suva"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "mountain",
+        "samples": [
+          {
+            "plain": "suvajn t'et'",
+            "translation": "mountainous flower"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "a form"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "word"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "sa"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "one"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "q'wäd"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "two"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "xhebad"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "three"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "xhwad"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "five"
+      }
+    ]
+  }
+]

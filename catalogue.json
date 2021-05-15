@@ -1,55 +1,61 @@
 [
   {
     "name": "Kaitag",
-    "point": [47.822142, 42.082736],
+    "point": [42.082736, 47.822142],
     "family": ["Northeast Caucasian", "Dargic"],
     "tags": "Dagestani Caucasian Caspian"
   },
   {
     "name": "Aqusha",
-    "point": [47.324441, 42.27213],
+    "point": [42.27213, 47.324441],
     "family": ["Northeast Caucasian", "Dargic"],
     "tags": "Dagestani Caucasian Caspian"
   },
   {
     "name": "Iron",
-    "point": [44.245623, 42.865209],
+    "point": [42.865209, 44.245623],
     "family": ["Iranian", "Eastern Iranian", "Ossetian"],
     "tags": "Caucasian Alanian"
   },
   {
     "name": "Digor",
-    "point": [43.871052, 43.172488],
+    "point": [43.172488, 43.871052],
     "family": ["Iranian", "Eastern Iranian", "Ossetian"],
     "tags": "Caucasian Alanian"
   },
   {
     "name": "Kabardian",
-    "point": [42.769419, 43.762647],
+    "point": [43.762647, 42.769419],
     "family": ["Northwest Caucasian", "Circassian"],
     "tags": "Caucasian Pontic Adyghe"
   },
   {
     "name": "Adyghe",
-    "point": [40.152485, 44.486928],
+    "point": [44.486928, 40.152485],
     "family": ["Northwest Caucasian", "Circassian"],
     "tags": "Caucasian Pontic Adyghe"
   },
   {
-    "name": "Keren",
-    "point": [47.546501, 41.707224],
-    "family": ["Northeast Caucasian", "Lezgic", "Aghul"],
+    "name": "Tsakh",
+    "point": [41.565538, 47.024316],
+    "family": ["Northeast Caucasian", "Lezgic", "Tsakhur"],
     "tags": "Western Samur"
   },
   {
+    "name": "Keren",
+    "point": [41.707224, 47.546501],
+    "family": ["Northeast Caucasian", "Lezgic", "Aghul"],
+    "tags": "Eastern Samur"
+  },
+  {
     "name": "Kiurin",
-    "point": [48.292018, 42.042013],
+    "point": [42.042013, 48.292018],
     "family": ["Northeast Caucasian", "Lezgic", "Lezgi"],
     "tags": "Eastern Samur"
   },
   {
     "name": "Georgian",
-    "point": [44.796125, 41.688855],
+    "point": [41.8, 44.796125],
     "family": ["South Caucasian", "Kartvelian"],
     "tags": "Kartvelian"
   }
