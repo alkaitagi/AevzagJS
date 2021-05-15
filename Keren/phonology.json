@@ -671,5 +671,15 @@
         "ipa": "mˤaˈʒʷar"
       }
     ]
+  },
+  {
+    "phoneme": "g",
+    "samples": [
+      {
+        "grapheme": "g",
+        "word": "gal",
+        "ipa": "gal"
+      }
+    ]
   }
 ]
