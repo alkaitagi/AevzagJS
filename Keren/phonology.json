@@ -611,5 +611,65 @@
         "ipa": "fi"
       }
     ]
+  },
+  {
+    "phoneme": "gʷ",
+    "samples": [
+      {
+        "grapheme": "gv",
+        "word": "gvar",
+        "ipa": "gʷar"
+      }
+    ]
+  },
+  {
+    "phoneme": "t͡ʃʷ",
+    "samples": [
+      {
+        "grapheme": "čv",
+        "word": "čves",
+        "ipa": "t͡ʃʷes"
+      }
+    ]
+  },
+  {
+    "phoneme": "t͡ʃʼʷ",
+    "samples": [
+      {
+        "grapheme": "č'v",
+        "word": "kkejč'vas",
+        "ipa": "ˈkːejt͡ʃʼʷas"
+      }
+    ]
+  },
+  {
+    "phoneme": "t͡ʃːʷ",
+    "samples": [
+      {
+        "ipa": "t͡ʃːʷarʁˤ",
+        "grapheme": "ččv",
+        "word": "ččvarğí"
+      }
+    ]
+  },
+  {
+    "phoneme": "ʃʷ",
+    "samples": [
+      {
+        "ipa": "ħaˈʃʷar",
+        "grapheme": "šv",
+        "word": "hhašvar"
+      }
+    ]
+  },
+  {
+    "phoneme": "ʒʷ",
+    "samples": [
+      {
+        "grapheme": "žv",
+        "word": "míažvar",
+        "ipa": "mˤaˈʒʷar"
+      }
+    ]
   }
 ]
