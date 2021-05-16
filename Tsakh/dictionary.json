@@ -684,18 +684,6 @@
   {
     "forms": [
       {
-        "plain": "a form"
-      }
-    ],
-    "uses": [
-      {
-        "meaning": "word"
-      }
-    ]
-  },
-  {
-    "forms": [
-      {
         "plain": "ilğič'es"
       }
     ],
@@ -1603,18 +1591,6 @@
     "uses": [
       {
         "meaning": "to jump"
-      }
-    ]
-  },
-  {
-    "forms": [
-      {
-        "plain": "a form"
-      }
-    ],
-    "uses": [
-      {
-        "meaning": "word"
       }
     ]
   }
