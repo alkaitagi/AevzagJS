@@ -855,6 +855,18 @@
   {
     "forms": [
       {
+        "plain": "iljakkas"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to look"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
         "plain": "išlemišxhes"
       }
     ],
@@ -1089,6 +1101,18 @@
     "uses": [
       {
         "meaning": "to feed"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "hiles"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to give"
       }
     ]
   },
@@ -1977,6 +2001,18 @@
     "uses": [
       {
         "meaning": "word"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "joq'ud"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "four"
       }
     ]
   }
