@@ -569,7 +569,7 @@
     ],
     "uses": [
       {
-        "meaning": "to stay"
+        "meaning": "to stand"
       }
     ]
   },
@@ -855,18 +855,6 @@
   {
     "forms": [
       {
-        "plain": "iljakkas"
-      }
-    ],
-    "uses": [
-      {
-        "meaning": "to look"
-      }
-    ]
-  },
-  {
-    "forms": [
-      {
         "plain": "išlemišxhes"
       }
     ],
@@ -1107,18 +1095,6 @@
   {
     "forms": [
       {
-        "plain": "hiles"
-      }
-    ],
-    "uses": [
-      {
-        "meaning": "to give"
-      }
-    ]
-  },
-  {
-    "forms": [
-      {
         "plain": "qhamxhes"
       }
     ],
@@ -1233,18 +1209,6 @@
     "uses": [
       {
         "meaning": "to fight"
-      }
-    ]
-  },
-  {
-    "forms": [
-      {
-        "plain": "ac'axhes"
-      }
-    ],
-    "uses": [
-      {
-        "meaning": "to know"
       }
     ]
   },
@@ -1605,18 +1569,6 @@
     "uses": [
       {
         "meaning": "blood"
-      }
-    ]
-  },
-  {
-    "forms": [
-      {
-        "plain": "a form"
-      }
-    ],
-    "uses": [
-      {
-        "meaning": "word"
       }
     ]
   },
@@ -1989,18 +1941,6 @@
     "uses": [
       {
         "meaning": "answer"
-      }
-    ]
-  },
-  {
-    "forms": [
-      {
-        "plain": ""
-      }
-    ],
-    "uses": [
-      {
-        "meaning": "word"
       }
     ]
   },
