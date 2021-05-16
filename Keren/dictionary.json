@@ -371,7 +371,8 @@
   {
     "forms": [
       {
-        "plain": "jerˈχef"
+        "plain": "jerxef",
+        "ipa": "jerˈχef"
       }
     ],
     "uses": [
@@ -1771,7 +1772,8 @@
   {
     "forms": [
       {
-        "plain": "хъатас"
+        "plain": "qatas",
+        "ipa": "ˈqʰatʰas"
       }
     ],
     "uses": [
@@ -2933,17 +2935,8 @@
     ]
   },
   {
-    "forms": [
-      {
-        "plain": "urq'íef",
-        "ipa": "urˈqʼˤef"
-      }
-    ],
-    "uses": [
-      {
-        "meaning": "hard"
-      }
-    ]
+    "forms": [],
+    "uses": []
   },
   {
     "forms": [
