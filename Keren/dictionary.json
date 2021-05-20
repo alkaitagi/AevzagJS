@@ -2,12 +2,15 @@
   {
     "forms": [
       {
-        "plain": "зун"
+        "plain": "zun"
       }
     ],
     "uses": [
       {
-        "meaning": "I"
+        "meaning": "i",
+        "notes": [
+          "nominative"
+        ]
       }
     ]
   },
