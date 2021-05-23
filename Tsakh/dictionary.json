@@ -1955,5 +1955,161 @@
         "meaning": "four"
       }
     ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "vuk'ulj"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "head"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "č'är"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "hair"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "liga"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "forehead"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ulj"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "eye"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ghalj"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "mouth"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "k'ırı"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "ear"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "dan"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "cheek"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "gardan"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "neck"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "qov"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "nose"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "q'ac'"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "chin"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "muga"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "shoulder"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "qhelj"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "leg"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "vuxhun"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "stomach"
+      }
+    ]
   }
 ]
