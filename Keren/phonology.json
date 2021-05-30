@@ -1,724 +1,2155 @@
 [
   {
-    "phoneme": "a",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "a",
-        "word": "axíef",
-        "ipa": "aˈχˀef"
-      }
-    ]
-  },
-  {
-    "phoneme": "y",
-    "samples": [
-      {
-        "grapheme": "ú",
-        "word": "úst",
-        "ipa": "yst"
-      }
-    ]
-  },
-  {
-    "phoneme": "e",
-    "samples": [
-      {
-        "grapheme": "e",
-        "word": "hel",
-        "ipa": "hel"
+        "plain": "zun"
       }
     ],
-    "notes": [
-      ""
-    ]
-  },
-  {
-    "phoneme": "u",
-    "samples": [
+    "uses": [
       {
-        "grapheme": "u",
-        "word": "ugvas",
-        "ipa": "uɡʷˈas"
+        "meaning": "i",
+        "notes": [
+          "Nominative"
+        ],
+        "samples": [
+          {
+            "plain": "Zun e duxttur",
+            "translation": "I am a doctor"
+          }
+        ]
       }
     ]
   },
   {
-    "phoneme": "i",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "i",
-        "word": "irk",
-        "ipa": "irk"
+        "plain": "vun",
+        "ipa": "wun",
+        "glossed": ""
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "you (singular)"
       }
     ]
   },
   {
-    "phoneme": "b",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "b",
-        "word": "bav",
-        "ipa": "baw"
+        "plain": "ti",
+        "ipa": "ti"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "he"
       }
     ]
   },
   {
-    "phoneme": "bˤ",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "bí",
-        "word": "bíambeg",
-        "ipa": "bˁamˈbeɡ"
+        "plain": "ti",
+        "ipa": "ti"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "it"
       }
     ]
   },
   {
-    "phoneme": "pʰ",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "p",
-        "word": "purc'",
-        "ipa": "pʰurcʼ"
+        "plain": "čin",
+        "ipa": "t͡ʃin"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "we"
       }
     ]
   },
   {
-    "phoneme": "pː",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "pp",
-        "word": "ppek",
-        "ipa": "pːek"
+        "plain": "čvun",
+        "ipa": "t͡ʃʷun",
+        "glossed": ""
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "you (plural)"
       }
     ]
   },
   {
-    "phoneme": "pʼ",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "p'",
-        "word": "p'uz",
-        "ipa": "pʼuz"
+        "plain": "tivar",
+        "ipa": "tiwar"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "they"
       }
     ]
   },
   {
-    "phoneme": "pʼˤ",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "p'í",
-        "word": "p'íaš",
-        "ipa": "pʼˁaʃ"
+        "plain": "mi",
+        "ipa": "mi"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "this"
       }
     ]
   },
   {
-    "phoneme": "m",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "m",
-        "word": "murt",
-        "ipa": "murt"
+        "plain": "ti",
+        "ipa": "ti",
+        "glossed": ""
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "that"
       }
     ]
   },
   {
-    "phoneme": "mˤ",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "mí",
-        "word": "míarttef",
-        "ipa": "mˁarˈtːef"
+        "plain": "misa'",
+        "ipa": "misaˀ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "here"
       }
     ]
   },
   {
-    "phoneme": "d",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "d",
-        "word": "dad",
-        "ipa": "dad"
+        "plain": "tisa'",
+        "ipa": "tisaˀ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "there"
       }
     ]
   },
   {
-    "phoneme": "tʰ",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "t",
-        "word": "tuk",
-        "ipa": "tʰuk"
+        "plain": "fiš",
+        "ipa": "fiʃ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "who"
       }
     ]
   },
   {
-    "phoneme": "tː",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "tt",
-        "word": "ttur",
-        "ipa": "tːur"
+        "plain": "fi",
+        "ipa": "fi",
+        "glossed": ""
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "what"
       }
     ]
   },
   {
-    "phoneme": "tʼ",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "t'",
-        "word": "t'ub",
-        "ipa": "tʼub"
+        "plain": "nandi'",
+        "ipa": "nandiˀ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "where"
       }
     ]
   },
   {
-    "phoneme": "n",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "n",
-        "word": "najič",
-        "ipa": "najt͡ʃ"
+        "plain": "mus",
+        "ipa": "mus"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "when"
       }
     ]
   },
   {
-    "phoneme": "r",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "r",
-        "word": "ruq'",
-        "ipa": "ruqʼ"
+        "plain": "fištti",
+        "ipa": "fiʃtːi"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "how"
       }
     ]
   },
   {
-    "phoneme": "t͡sʰ",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "c",
-        "word": "cil",
-        "ipa": "t͡sʰil"
+        "plain": "vari",
+        "ipa": "waˈri",
+        "glossed": ""
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "all"
       }
     ]
   },
   {
-    "phoneme": "t͡ʃʰ",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "č",
-        "word": "čal",
-        "ipa": "t͡ʃʰal"
+        "plain": "ppara",
+        "ipa": "pːaˈra",
+        "glossed": ""
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "many"
       }
     ]
   },
   {
-    "phoneme": "t͡sː",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "cc",
-        "word": "ccuğbuğaj",
-        "ipa": "t͡sːuʁˈbuʁaj"
+        "plain": "č'uq'",
+        "ipa": "čʼuqʼ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "few"
       }
     ]
   },
   {
-    "phoneme": "t͡ʃː",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "čč",
-        "word": "ččamí",
-        "ipa": "t͡ʃːamˤ"
+        "plain": "saji",
+        "ipa": "saˈji"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "other"
       }
     ]
   },
   {
-    "phoneme": "z",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "z",
-        "word": "zun",
-        "ipa": "zun"
+        "plain": "sad",
+        "ipa": "sad"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "one"
       }
     ]
   },
   {
-    "phoneme": "ʒ",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "ž",
-        "word": "žan",
-        "ipa": "ʒan"
+        "plain": "q'íud",
+        "ipa": "qʼˤud"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "two"
       }
     ]
   },
   {
-    "phoneme": "s",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "s",
-        "word": "sur",
-        "ipa": "sur"
+        "plain": "xhibud",
+        "ipa": "xiˈbud"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "three"
       }
     ]
   },
   {
-    "phoneme": "ʃ",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "š",
-        "word": "šinikkv",
-        "ipa": "ʃiˈnikːʷ"
+        "plain": "jaq'ud",
+        "ipa": "jaˈqʼud"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "four"
       }
     ]
   },
   {
-    "phoneme": "l",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "l",
-        "word": "luk'",
-        "ipa": "lukʼ"
-      }
-    ]
-  },
-  {
-    "phoneme": "ɡ",
-    "samples": [
-      {
-        "grapheme": "g",
-        "word": "guni",
-        "ipa": "ɡuˈni"
-      }
-    ]
-  },
-  {
-    "phoneme": "kʰ",
-    "samples": [
-      {
-        "grapheme": "k",
-        "word": "kan",
-        "ipa": "kʰan"
-      }
-    ]
-  },
-  {
-    "phoneme": "kː",
-    "samples": [
-      {
-        "grapheme": "kk",
-        "word": "kkul",
-        "ipa": "kːul"
-      }
-    ]
-  },
-  {
-    "phoneme": "kʰʷ",
-    "samples": [
-      {
-        "grapheme": "kv",
-        "word": "íakv",
-        "ipa": "ʕakʰʷ"
-      }
-    ]
-  },
-  {
-    "phoneme": "kːʷ",
-    "samples": [
-      {
-        "grapheme": "kkv",
-        "word": "kkvar",
-        "ipa": "kːʷar"
-      }
-    ]
-  },
-  {
-    "phoneme": "kʼ",
-    "samples": [
-      {
-        "grapheme": "k'",
-        "word": "k'arč",
-        "ipa": "kʼart͡ʃ"
-      }
-    ]
-  },
-  {
-    "phoneme": "kʼʷ",
-    "samples": [
-      {
-        "grapheme": "k'v",
-        "word": "jak'v",
-        "ipa": "jakʼʷ"
-      }
-    ]
-  },
-  {
-    "phoneme": "χ",
-    "samples": [
-      {
-        "grapheme": "x",
-        "word": "xut'",
-        "ipa": "χutʼ"
-      }
-    ]
-  },
-  {
-    "phoneme": "χʷ",
-    "samples": [
-      {
-        "grapheme": "xv",
-        "word": "saxv",
-        "ipa": "saχʷ"
-      }
-    ]
-  },
-  {
-    "phoneme": "x",
-    "samples": [
-      {
-        "grapheme": "xh",
-        "word": "xhir",
-        "ipa": "xir"
-      }
-    ]
-  },
-  {
-    "phoneme": "w",
-    "samples": [
-      {
-        "grapheme": "v",
-        "word": "vart",
-        "ipa": "wart"
-      }
-    ]
-  },
-  {
-    "phoneme": "wˤ",
-    "samples": [
-      {
-        "ipa": "wˤas",
-        "grapheme": "ví",
-        "word": "vías"
-      }
-    ]
-  },
-  {
-    "phoneme": "j",
-    "samples": [
-      {
-        "grapheme": "j",
-        "word": "jik'",
-        "ipa": "jikʼ"
-      }
-    ]
-  },
-  {
-    "phoneme": "qʰ",
-    "samples": [
-      {
-        "grapheme": "q",
-        "word": "qatas",
-        "ipa": "ˈqʰatas"
-      }
-    ]
-  },
-  {
-    "phoneme": "qʰˤ",
-    "samples": [
-      {
-        "grapheme": "qí",
-        "word": "raqí",
-        "ipa": "raqʰˤ"
-      }
-    ]
-  },
-  {
-    "phoneme": "qʰˤʷ",
-    "samples": [
-      {
-        "ipa": "qʰˤʷaqʰˤʷ",
-        "grapheme": "qív",
-        "word": "qívaqív"
-      }
-    ]
-  },
-  {
-    "phoneme": "qː",
-    "samples": [
-      {
-        "grapheme": "qh",
-        "word": "qhal",
-        "ipa": "qːal"
-      }
-    ]
-  },
-  {
-    "phoneme": "qːˤ",
-    "samples": [
-      {
-        "grapheme": "qhí",
-        "word": "qhíaraqhíal",
-        "ipa": "qːˤaˈraqːˤal"
-      }
-    ]
-  },
-  {
-    "phoneme": "qʼ",
-    "samples": [
-      {
-        "grapheme": "q'",
-        "word": "q'al",
-        "ipa": "qʼal"
-      }
-    ]
-  },
-  {
-    "phoneme": "qʼˁ",
-    "samples": [
-      {
-        "grapheme": "q'í",
-        "word": "q'íal",
-        "ipa": "qʼˁal"
-      }
-    ]
-  },
-  {
-    "phoneme": "ʁ",
-    "samples": [
-      {
-        "grapheme": "ğ",
-        "word": "ğad",
-        "ipa": "ʁad"
-      }
-    ]
-  },
-  {
-    "phoneme": "ʁʷ",
-    "samples": [
-      {
-        "grapheme": "ğv",
-        "word": "ğvad",
-        "ipa": "ʁʷad"
-      }
-    ]
-  },
-  {
-    "phoneme": "ʁˤ",
-    "samples": [
-      {
-        "grapheme": "ğí",
-        "word": "ğíab",
-        "ipa": "ʁˤab"
-      }
-    ]
-  },
-  {
-    "phoneme": "χˤ",
-    "samples": [
-      {
-        "grapheme": "xí",
-        "word": "xíad",
-        "ipa": "χˤad"
-      }
-    ]
-  },
-  {
-    "phoneme": "χˤʷ",
-    "samples": [
-      {
-        "ipa": "raχˤʷ",
-        "grapheme": "xív",
-        "word": "raxív"
-      }
-    ]
-  },
-  {
-    "phoneme": "t͡ʃʼ",
-    "samples": [
-      {
-        "grapheme": "č'",
-        "word": "č'al",
-        "ipa": "t͡ʃʼal"
-      }
-    ]
-  },
-  {
-    "phoneme": "t͡sʼ",
-    "samples": [
-      {
-        "grapheme": "c'",
-        "word": "c'aj",
-        "ipa": "t͡sʼaj"
-      }
-    ]
-  },
-  {
-    "phoneme": "ʔ",
-    "samples": [
-      {
-        "grapheme": "'",
-        "word": "va'",
-        "ipa": "waʔ"
-      }
-    ]
-  },
-  {
-    "phoneme": "ʕ",
-    "samples": [
-      {
-        "grapheme": "í",
-        "word": "íamk'",
-        "ipa": "ʕamkʼ"
-      }
-    ]
-  },
-  {
-    "phoneme": "uˤ",
-    "samples": [
-      {
-        "grapheme": "ííu",
-        "word": "ííufud",
+        "plain": "ííufud",
         "ipa": "uˤˈfud"
       }
-    ]
-  },
-  {
-    "phoneme": "h",
-    "samples": [
+    ],
+    "uses": [
       {
-        "grapheme": "h",
-        "word": "hatas",
-        "ipa": "ˈhatas"
+        "meaning": "five"
       }
     ]
   },
   {
-    "phoneme": "ħ",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "hh",
-        "word": "hhal",
-        "ipa": "ħal"
+        "plain": "babaf",
+        "ipa": "baˈbaf"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "big"
       }
     ]
   },
   {
-    "phoneme": "f",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "f",
-        "word": "fi",
-        "ipa": "fi"
+        "plain": "jerxef",
+        "ipa": "jerˈχef"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "long"
       }
     ]
   },
   {
-    "phoneme": "gʷ",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "gv",
-        "word": "gvar",
-        "ipa": "gʷar"
+        "plain": "arq'íef",
+        "ipa": "arˈqʼˤef"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "wide"
       }
     ]
   },
   {
-    "phoneme": "t͡ʃʰʷ",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "čv",
-        "word": "čves",
-        "ipa": "t͡ʃʰʷes"
+        "plain": "qhalinf",
+        "ipa": "qːaˈlinf"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "thick"
       }
     ]
   },
   {
-    "phoneme": "t͡ʃʼʷ",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "č'v",
-        "word": "kkejč'vas",
-        "ipa": "ˈkːejt͡ʃʼʷas"
+        "plain": "urq'íef",
+        "ipa": "urˈqʼˤef",
+        "glossed": ""
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "heavy"
       }
     ]
   },
   {
-    "phoneme": "t͡ʃːʷ",
-    "samples": [
+    "forms": [
       {
-        "ipa": "t͡ʃːʷarʁˤ",
-        "grapheme": "ččv",
-        "word": "ččvarğí"
+        "plain": "bic'if",
+        "ipa": "biˈcʼif"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "small"
       }
     ]
   },
   {
-    "phoneme": "ʃʷ",
-    "samples": [
+    "forms": [
       {
-        "ipa": "ħaˈʃʷar",
-        "grapheme": "šv",
-        "word": "hhašvar"
+        "plain": "žiqhef",
+        "ipa": "ʒiˈqːef"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "short"
       }
     ]
   },
   {
-    "phoneme": "ʒʷ",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "žv",
-        "word": "míažvar",
-        "ipa": "mˤaˈʒʷar"
+        "plain": "iškkef",
+        "ipa": "iʃˈkːef"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "narrow"
       }
     ]
   },
   {
-    "phoneme": "g",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "g",
-        "word": "gal",
-        "ipa": "gal"
+        "plain": "k'isalf",
+        "ipa": "kʼiˈsalf"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "thin"
       }
     ]
   },
   {
-    "phoneme": "qːʷ",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "qhv",
-        "word": "mesqhv",
-        "ipa": "mesqːʷ"
+        "plain": "xumbef",
+        "ipa": "χumˈbef"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "woman"
       }
     ]
   },
   {
-    "phoneme": "qʰʷ",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "qv",
-        "word": "qhvatas",
-        "ipa": "ˈqʰʷatas"
+        "plain": "idem",
+        "ipa": "iˈdem"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "man"
       }
     ]
   },
   {
-    "phoneme": "qːˤʷ",
-    "samples": [
+    "forms": [
       {
-        "ipa": "qːˤʷant͡ʃʰ",
-        "grapheme": "qhív",
-        "word": "qhívanč"
+        "plain": "insan",
+        "ipa": "inˈsan"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "person"
       }
     ]
   },
   {
-    "phoneme": "qʼʷ",
-    "samples": [
+    "forms": [
       {
-        "grapheme": "qʼʷ",
-        "word": "q'vati",
-        "ipa": "qʼʷaˈtʰi"
+        "plain": "šinikkv",
+        "ipa": "ʃiˈnikːʷ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "child"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "xhir",
+        "ipa": "xir"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "wife"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "šuv",
+        "ipa": "ʃuj"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "husband"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "bav",
+        "ipa": "baw"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "mother"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "dad",
+        "ipa": "dad"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "father"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "naxččir",
+        "ipa": "naχˈt͡ʃːir"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "animal"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "č'ek'",
+        "ipa": "t͡ʃʼekʼ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "fish"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "jak'v",
+        "ipa": "jakʼv"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "bird"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "tula",
+        "ipa": "tuˈla"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "dog"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "net",
+        "ipa": "net"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "louse"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ilan",
+        "ipa": "iˈlan"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "snake"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "milaqív",
+        "ipa": "miˈlaqˤv"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "worm"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "dar"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "tree"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "dar"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "forest"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "t'ul",
+        "ipa": "tʼul"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "stick"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "jemiš",
+        "ipa": "jeˈmiʃ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "fruit"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "tum",
+        "ipa": "tum"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "seed"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "p'íaš",
+        "ipa": "pʼˤaɕ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "leaf"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "bun",
+        "ipa": "bun"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "root"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "qhark",
+        "ipa": "qːark"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "bark"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "tuk",
+        "ipa": "tuk"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "flower"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "č'ir",
+        "ipa": "t͡ʃʼir"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "grass"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "gat'il",
+        "ipa": "gaˈtʼil"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "rope"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "xam",
+        "ipa": "xam"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "skin"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "jak",
+        "ipa": "jak"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "meat"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "i'",
+        "ipa": "iʔ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "blood"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "irk",
+        "ipa": "irk"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "bone"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "mav",
+        "ipa": "maw"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "fat"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ğíarağíal",
+        "ipa": "ʁˤaˈraʁˤal"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "egg"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "k'arč",
+        "ipa": "kʼart͡ʃ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "horn"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ruž",
+        "ipa": "ruʒ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "tail"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "purc'",
+        "ipa": "purt͡sʼ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "feather"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "č'ar",
+        "ipa": "t͡ʃʼar"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "hair"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "k'il",
+        "ipa": "kʼil"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "head"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "jabur",
+        "ipa": "jaˈbur"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "ear"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ул"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "eye"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "qívaqív",
+        "ipa": "qˤʷaqˤʷ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "nose"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "siv",
+        "ipa": "siw"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "mouth"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "silev",
+        "ipa": "silew"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "tooth"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "mez",
+        "ipa": "mez"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "tongue"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "kirk",
+        "ipa": "kirk"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "fingernail"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ccam",
+        "ipa": "t͡sːam"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "foot"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "lak",
+        "ipa": "lak"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "leg"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "q'vaq'v",
+        "ipa": "qʼʷaqʼʷ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "knee"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "xil",
+        "ipa": "χil"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "hand"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "xíar",
+        "ipa": "xˤar"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "wing"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "fun",
+        "ipa": "fun"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "belly"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "rud"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "gut"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "gardan",
+        "ipa": "garˈdan"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "neck"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ut",
+        "ipa": "ut"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "back"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "muxur",
+        "ipa": "muˈχur"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "breast"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "irk'v",
+        "ipa": "irkʼv"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "heart"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "lek'",
+        "ipa": "lekʼ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "liver"
+      }
+    ]
+  },
+  {
+    "forms": [],
+    "uses": [
+      {
+        "meaning": "to drink"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "k'es",
+        "ipa": "kʼes"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to die"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "svel",
+        "ipa": "sʷel"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to flow"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "rağ",
+        "ipa": "raʁ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "sun"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "vaz",
+        "ipa": "waz"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "moon"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "xíad",
+        "ipa": "χˤad"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "star"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "xhed",
+        "ipa": "xed"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "water"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "uğal",
+        "ipa": "uˈʁal"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "rain"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "lec'v",
+        "ipa": "let͡sʼv"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "river"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "íur",
+        "ipa": "ʕur"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "lake"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "hhul",
+        "ipa": "ħul"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "sea"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "q'íal",
+        "ipa": "qʼˤal"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "salt"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ğvan",
+        "ipa": "ʁʷan"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "stone"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "qhum",
+        "ipa": "qːum"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "sand"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "rug",
+        "ipa": "rug"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "dust"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "žil",
+        "ipa": "ʒil"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "earth"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "qhiri",
+        "ipa": "qːiˈri"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "cloud"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "dif",
+        "ipa": "dif"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "fog"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "zav",
+        "ipa": "zaw"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "sky"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "tireb",
+        "ipa": "tiˈreb"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "wind"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ibxh",
+        "ipa": "ibx"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "snow"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "merkv",
+        "ipa": "merkʷ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "ice"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "kum",
+        "ipa": "kum"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "smoke"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "c'aj",
+        "ipa": "t͡sʼaj"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "fire"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ruqí",
+        "ipa": "ruqˤ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "ash"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "raqí",
+        "ipa": "raqˤ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "road"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "suv",
+        "ipa": "suʷ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "mountain"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "iref",
+        "ipa": "iˈref"
+      }
+    ],
+    "tags": "color",
+    "uses": [
+      {
+        "meaning": "red",
+        "tags": [
+          "color"
+        ]
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ğazef",
+        "ipa": "ʁaˈzef"
+      }
+    ],
+    "tags": "color",
+    "uses": [
+      {
+        "meaning": "green",
+        "tags": [
+          "color"
+        ]
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "qíuqíef",
+        "ipa": "qˤuˈqˤef"
+      }
+    ],
+    "tags": "color",
+    "uses": [
+      {
+        "meaning": "yellow",
+        "tags": [
+          "color"
+        ]
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "žagvarf",
+        "ipa": "ʒaˈgʷarf"
+      }
+    ],
+    "tags": "color",
+    "uses": [
+      {
+        "meaning": "white",
+        "tags": [
+          "color"
+        ]
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "k'aref",
+        "ipa": "kʼaˈref"
+      }
+    ],
+    "tags": "color",
+    "uses": [
+      {
+        "meaning": "black",
+        "tags": [
+          "color"
+        ]
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "íuš",
+        "ipa": "ʕuɕ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "night"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "jağ",
+        "ipa": "jaʁ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "day"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "is",
+        "ipa": "is"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "year"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "kučef",
+        "ipa": "kuˈt͡ʃef"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "warm"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ruğuf",
+        "ipa": "ruˈʁuf"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "cold"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ac'uf",
+        "ipa": "aˈt͡sʼuf"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "full"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "c'ajef",
+        "ipa": "t͡sʼaˈjef"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "new"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "c'uref",
+        "ipa": "cʼuˈref"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "old"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ižef",
+        "ipa": "iˈʒef"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "good"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "q'íajef",
+        "ipa": "qʼˤaˈjef"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "bad"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ut'uf",
+        "ipa": "uˈtʼuf"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "rotten"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "kuruf",
+        "ipa": "kuˈruf"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "dirty"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "dixhef",
+        "ipa": "diˈxef"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "straight"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "lurcuf",
+        "ipa": "ˈlurt͡suf"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "round"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "xíuttef",
+        "ipa": "χˤuˈttef"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "sharp"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "qhíuref",
+        "ipa": "qːˤuˈref"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "dull"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "míallef",
+        "ipa": "mˤaˈllef"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "smooth"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "q'íašuf",
+        "ipa": "qʼˤaˈʃuf"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "wet"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ruqhuf",
+        "ipa": "ruˈqːuf"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "dry"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "dúz",
+        "ipa": "dyz"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "correct"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "íulžanf",
+        "ipa": "ʕulˈʒanf"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "right"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "čappíulf",
+        "ipa": "t͡ʃaˈpːˤulf"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "left"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "-'",
+        "ipa": "-ˀ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "in"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "-čin",
+        "ipa": "-t͡ʃin"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "if"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "fas pučin",
+        "ipa": "fas ˈpuˈt͡ʃ in"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "because"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ttur",
+        "ipa": "tːur"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "name"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "xal",
+        "ipa": "χal"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "house"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "q'ulq'ulf",
+        "ipa": "qʼulˈqʼulf"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "bitter"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "naq'",
+        "ipa": "naqʼ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "yesterday"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "funin xut'",
+        "ipa": "fuˈnin χutʼ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "navel"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "zebz",
+        "ipa": "zebz"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "ant"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "urq'íef",
+        "ipa": "urˈqʼˤef",
+        "glossed": ""
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "hard"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ağ",
+        "ipa": "aʁ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "thigh"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "k'ur",
+        "ipa": "kʼur"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "wood"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ittef",
+        "ipa": "iˈtːef"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "sweet"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "aqí",
+        "ipa": "aqˤ"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "shade"
+      }
+    ]
+  },
+  {
+    "forms": [],
+    "uses": []
+  },
+  {
+    "forms": [
+      {
+        "plain": "jerxíef"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "tall"
+      },
+      {
+        "meaning": "long"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "daxi"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "early"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "q'ana"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "late"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "xhuxhal"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "mitten",
+        "samples": [
+          {
+            "plain": "Ze xhuxhal gulune",
+            "translation": "I lost my mitten"
+          },
+          {
+            "plain": "Xhuxhali zas jirk’vural faqajine",
+            "translation": "Mitten reminded me"
+          },
+          {
+            "plain": "Xhuxhalin k’uč’ar",
+            "translation": "Mitten's buttons"
+          },
+          {
+            "plain": "Zaš xhuxhalis rang jine",
+            "translation": "IcColored mitten"
+          }
+        ]
       }
     ]
   }
