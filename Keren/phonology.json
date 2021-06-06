@@ -203,7 +203,7 @@
     ]
   },
   {
-    "phoneme": "t͡ʃ",
+    "phoneme": "t͡ʃʰ",
     "samples": [
       {
         "grapheme": "č",
@@ -679,6 +679,46 @@
         "grapheme": "g",
         "word": "gal",
         "ipa": "gal"
+      }
+    ]
+  },
+  {
+    "phoneme": "qːʷ",
+    "samples": [
+      {
+        "grapheme": "qhv",
+        "word": "mesqhv",
+        "ipa": "mesqːʷ"
+      }
+    ]
+  },
+  {
+    "phoneme": "qʷ",
+    "samples": [
+      {
+        "grapheme": "qv",
+        "word": "qvatas",
+        "ipa": "ˈqʷatas"
+      }
+    ]
+  },
+  {
+    "phoneme": "qːˤʷ",
+    "samples": [
+      {
+        "ipa": "qːˤʷant͡ʃʰ",
+        "grapheme": "qhív",
+        "word": "qhívanč"
+      }
+    ]
+  },
+  {
+    "phoneme": "qʼʷ",
+    "samples": [
+      {
+        "grapheme": "q'ʷ",
+        "word": "q'vati",
+        "ipa": "qʼʷaˈtʰi"
       }
     ]
   }
