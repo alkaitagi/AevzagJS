@@ -73,12 +73,12 @@
     ]
   },
   {
-    "phoneme": "pʰ",
+    "phoneme": "p",
     "samples": [
       {
         "grapheme": "p",
         "word": "purc'",
-        "ipa": "pʰurcʼ"
+        "ipa": "purcʼ"
       }
     ]
   },
@@ -143,12 +143,12 @@
     ]
   },
   {
-    "phoneme": "tʰ",
+    "phoneme": "t",
     "samples": [
       {
         "grapheme": "t",
         "word": "tuk",
-        "ipa": "tʰuk"
+        "ipa": "tuk"
       }
     ]
   },
@@ -193,12 +193,12 @@
     ]
   },
   {
-    "phoneme": "t͡sʰ",
+    "phoneme": "t͡s",
     "samples": [
       {
         "grapheme": "c",
         "word": "cil",
-        "ipa": "t͡sʰil"
+        "ipa": "t͡sil"
       }
     ]
   },
@@ -208,7 +208,7 @@
       {
         "grapheme": "č",
         "word": "čal",
-        "ipa": "t͡ʃʰal"
+        "ipa": "t͡ʃal"
       }
     ]
   },
@@ -293,12 +293,12 @@
     ]
   },
   {
-    "phoneme": "kʰ",
+    "phoneme": "k",
     "samples": [
       {
         "grapheme": "k",
         "word": "kan",
-        "ipa": "kʰan"
+        "ipa": "kan"
       }
     ]
   },
@@ -313,12 +313,12 @@
     ]
   },
   {
-    "phoneme": "kʰʷ",
+    "phoneme": "kʷ",
     "samples": [
       {
         "grapheme": "kv",
         "word": "íakv",
-        "ipa": "ʕakʰʷ"
+        "ipa": "ʕakʷ"
       }
     ]
   },
@@ -413,30 +413,30 @@
     ]
   },
   {
-    "phoneme": "qʰ",
+    "phoneme": "q",
     "samples": [
       {
         "grapheme": "q",
         "word": "qatas",
-        "ipa": "ˈqʰatas"
+        "ipa": "ˈqatas"
       }
     ]
   },
   {
-    "phoneme": "qʰˤ",
+    "phoneme": "qˤ",
     "samples": [
       {
         "grapheme": "qí",
         "word": "raqí",
-        "ipa": "raqʰˤ"
+        "ipa": "raqˤ"
       }
     ]
   },
   {
-    "phoneme": "qʰˤʷ",
+    "phoneme": "qˤʷ",
     "samples": [
       {
-        "ipa": "qʰˤʷaqʰˤʷ",
+        "ipa": "qˤʷaqˤʷ",
         "grapheme": "qív",
         "word": "qívaqív"
       }
@@ -623,12 +623,12 @@
     ]
   },
   {
-    "phoneme": "t͡ʃʰʷ",
+    "phoneme": "t͡ʃʷ",
     "samples": [
       {
         "grapheme": "čv",
         "word": "čves",
-        "ipa": "t͡ʃʰʷes"
+        "ipa": "t͡ʃʷes"
       }
     ]
   },
@@ -693,12 +693,12 @@
     ]
   },
   {
-    "phoneme": "qʰʷ",
+    "phoneme": "qʷ",
     "samples": [
       {
         "grapheme": "qv",
         "word": "qhvatas",
-        "ipa": "ˈqʰʷatas"
+        "ipa": "ˈqʷatas"
       }
     ]
   },
