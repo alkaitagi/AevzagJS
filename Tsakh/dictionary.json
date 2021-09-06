@@ -569,7 +569,7 @@
     ],
     "uses": [
       {
-        "meaning": "to stay"
+        "meaning": "to stand"
       }
     ]
   },
@@ -738,7 +738,9 @@
     "uses": [
       {
         "meaning": "to create",
-        "notes": ["only Allah"]
+        "notes": [
+          "only Allah"
+        ]
       }
     ]
   },
@@ -847,18 +849,6 @@
     "uses": [
       {
         "meaning": "to stop"
-      }
-    ]
-  },
-  {
-    "forms": [
-      {
-        "plain": "iljakkas"
-      }
-    ],
-    "uses": [
-      {
-        "meaning": "to look"
       }
     ]
   },
@@ -1105,18 +1095,6 @@
   {
     "forms": [
       {
-        "plain": "hiles"
-      }
-    ],
-    "uses": [
-      {
-        "meaning": "to give"
-      }
-    ]
-  },
-  {
-    "forms": [
-      {
         "plain": "qhamxhes"
       }
     ],
@@ -1231,18 +1209,6 @@
     "uses": [
       {
         "meaning": "to fight"
-      }
-    ]
-  },
-  {
-    "forms": [
-      {
-        "plain": "ac'axhes"
-      }
-    ],
-    "uses": [
-      {
-        "meaning": "to know"
       }
     ]
   },
@@ -1591,6 +1557,558 @@
     "uses": [
       {
         "meaning": "to jump"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "eb"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "blood"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "t'abalj ha'as"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to search"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "haqqas"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to carry"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "qizaxxas"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to meet"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "iljoğas"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to drink"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "gic'anas"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to connect"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ak'ana'as"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to lose"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "k'elixanas"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to forget"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "massa hiles"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to sell"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "bašdaxhes"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to understand"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "hoğalas"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to wash"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "badala'as"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to change"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "geššes"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to cry"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "akkik'ala'as"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to turn"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "c'ıc'a'as"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to pull"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "xär qa'as"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to teach"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "k'ossa haa'as"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to cough"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "kj'a'as"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to pour"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "häzir ha'as"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to prepare"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "qhaxiles"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "to send"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "jugda"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "well"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "pisda"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "badly"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "maa"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "there"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "čakda"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "early"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "javašda"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "slowly"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "saddžu"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "only"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ek'da"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "quickly"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "mäxüd"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "so"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "gedžda"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "late"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "k'ılda"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "few"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "q'alam"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "pencil"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "džavab"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "answer"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "joq'ud"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "four"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "vuk'ulj"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "head"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "č'är"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "hair"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "liga"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "forehead"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ulj"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "eye"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "ghalj"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "mouth"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "k'ırı"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "ear"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "dan"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "cheek"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "gardan"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "neck"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "qov"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "nose"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "q'ac'"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "chin"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "muga"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "shoulder"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "qhelj"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "leg"
+      }
+    ]
+  },
+  {
+    "forms": [
+      {
+        "plain": "vuxhun"
+      }
+    ],
+    "uses": [
+      {
+        "meaning": "stomach"
       }
     ]
   }
